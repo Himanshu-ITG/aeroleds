@@ -72,6 +72,7 @@
             allow="autoplay; encrypted-media"
             allowfullscreen
             title="{{ section.settings.description | escape }}"
+            alt= ""
           ></iframe>
         {%- else -%}
           <iframe
@@ -80,6 +81,7 @@
             allow="autoplay; encrypted-media"
             allowfullscreen
             title="{{ section.settings.description | escape }}"
+            alt= alt
           ></iframe>
         {%- endif -%}
       {%- else -%}
@@ -90,7 +92,8 @@
             autoplay: true,
             loop: section.settings.enable_video_looping,
             controls: false,
-            muted: true
+            muted: true,
+            
         }}
       {%- endif -%}
     </deferred-media>
