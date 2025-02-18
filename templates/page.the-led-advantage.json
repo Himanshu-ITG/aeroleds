@@ -1,0 +1,310 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_jUGCAG": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/misc-scaled.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "multiple_images_484jX6": {
+      "type": "multiple-images",
+      "blocks": {
+        "image_zzNXDT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Piper-Meridian_-MicroSun_SunSpot36-Retrofit-Social.jpg",
+            "text": "MicroSun LEDs vs Incandescent bulb comparison"
+          }
+        },
+        "image_aYYbr6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Hawker-800XP-4580_4596-1-1536x768.jpg",
+            "text": "SunSpot LEDs vs Incandescent lighting"
+          }
+        },
+        "image_qY9rfD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Hawker-800XP-4580_4596-2-1536x768.jpg",
+            "text": "Runway View: LED vs. Incandescent lighting"
+          }
+        },
+        "image_QxQYz7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Hawker-800XP-4580_4596-3-1536x768.jpg",
+            "text": "View from the Cockpit: LED vs. Incandescent lighting"
+          }
+        }
+      },
+      "block_order": [
+        "image_zzNXDT",
+        "image_aYYbr6",
+        "image_qY9rfD",
+        "image_QxQYz7"
+      ],
+      "settings": {
+        "heading": "",
+        "content_text": "<p><br/>Aircraft LED Lighting technology offers numerous advantages over conventional Halogen and Xenon bulb based aircraft lighting technologies. LEDs directly convert power into light, are 10x more efficient than incandescent, draw far less current than conventional lighting and require no external hi-voltage power supply.</p><ul><li>Aircraft LEDs from AeroLEDs turn on instantly, dissipate minimal heat, and are unaffected by on/off cycles.</li><li>AeroLEDs provide light even at low engine RPM, which is critical for landing configuration.</li><li>LEDs are solid-state and are vibration and shock resistant.</li><li>Proper electrical design allows AeroLEDs lighting products to easily last over 30,000 hours in continuous operation, eliminating the cost of frequent light replacements.</li><li>AeroLEDs installations are “one-and-done.”</li></ul>"
+      }
+    },
+    "rich_text_KLhfwt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pE7wPk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Long Life",
+            "heading_size": "h1"
+          }
+        },
+        "text_P4DgiE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When integrated into a well designed lighting system with adequate heat sinking and solid-state mounting, LED based lighting products will easily last over 50,000 hours of continuous operation. Unlike most other light sources, LEDs do not have their lifespan reduced by on/off cycles. AeroLEDs products are designed to keep the LED junction temperatures well below their maximum rated values to ensure that the manufacturer’s rated life projections are achieved, and all of the LEDs are hard mounted to avoid stress failures. Halogen bulb landing lights typically only last 100 hours, and Xenon strobe tubes typically only last 2000 hours in the aircraft environment.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pE7wPk",
+        "text_P4DgiE"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_UxzaGG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iLePKy": {
+          "type": "heading",
+          "settings": {
+            "heading": "High Efficiency",
+            "heading_size": "h1"
+          }
+        },
+        "text_LMVhPa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The LEDs used in AeroLEDs products have high lumen efficacy ratings, and as a result our products typically use less than 1/3 the power of halogen bulbs. This significantly reduces the electrical load on the airplane’s battery and alternator system. On final approach, low engine RPMs result in a reduced output from the alternator, so halogen bulbs typically brown-out the electrical system and produce less than their rated light output at full voltage. AeroLEDs LED lights maintain their full light output even at lower battery voltages</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iLePKy",
+        "text_LMVhPa"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_E6LrrX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bA4tBf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shock and Vibration Resistant",
+            "heading_size": "h1"
+          }
+        },
+        "text_BBc49J": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The LEDs in our product are solid-state mounted devices that can tolerate high levels of shock and vibration without failing. The primary driver of Halogen bulb filament failures and Xenon tube lead failures is airframe vibration. Our LED lights are designed to tolerate this high vibration environment indefinitely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bA4tBf",
+        "text_BBc49J"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_BtDMwa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cM6L6E": {
+          "type": "heading",
+          "settings": {
+            "heading": "Less Weight",
+            "heading_size": "h1"
+          }
+        },
+        "text_eETiVx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our aircraft LED products utilize built-in power supplies and are very lightweight. Traditional Xenon strobes utilize large, heavy power supply boxes. Converting to a pair of AeroLEDs wingtip strobes can remove 3 pounds of weight from an airplane.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cM6L6E",
+        "text_eETiVx"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_yWGjPr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ABNBFa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Low Drag",
+            "heading_size": "h1"
+          }
+        },
+        "text_cQ6tmb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our LED strobe products are streamlined designs that take advantage of the small size of LED light sources to create an aerodynamic profile that produces less drag than traditional Xenon strobe housings.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ABNBFa",
+        "text_cQ6tmb"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_Cc7WNB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ygn6KA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Built-in Pulse Mode and Synchronization",
+            "heading_size": "h1"
+          }
+        },
+        "text_fN8trT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All of our landing light products have a built-in pulse mode that blinks the light on and off at a 1Hz rate when power is applied to the pulse mode power wire. All of our landing light products and synchronize with each other regardless of model to create a wig-wag alternating flashing pattern for enhanced in flight visibility for air to air and air to ground collision avoidance and recognition. All of our strobes have a synchronization signal that can allow them to flash in unison when connected together.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ygn6KA",
+        "text_fN8trT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_jPjAa9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_r9aXyr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Higher Color Temperature White",
+            "heading_size": "h1"
+          }
+        },
+        "text_fm37Wx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Part of what makes LED lights the best for airplanes and drones is they have 6500K (sunlight equivalent) color temperature, designed for superior visibility as compared to yellower halogen sources. The higher color temperature light stimulates all of the cones in the fovea of the human eye, which is the area of the eye that provides the highest resolution vision. 6500K is also superior for air-to-air recognition since it looks like sunlight reflecting off of a mirror, where yellower light sources are not as attention getting.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_r9aXyr",
+        "text_fm37Wx"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 40
+      }
+    },
+    "text_with_text_WK74KT": {
+      "type": "text-with-text",
+      "settings": {
+        "heading": "<h2>Lumens vs. Candela: Understanding the Difference</h2>",
+        "content": "<p><em>It’s a simple relationship. Lumens are the total amount of light output, and candela is the concentration of projected light within a given volume. Adding more lumens increases the total amount of light, but the candela remains constant. As the area of light distribution decreases, candela increases. High candela alone does not make a good landing light, just a good marketing number. A 0.5 milliwatt pocket laser pointer is around 2 million candelas compared to a bare 100W incandescent bulb, which is 300 candela. Both lumens and candela are equally important. A good landing light needs enough lumens for the pilot to have a peripheral vision of the runway and enough candela to see far down the runway. AeroLEDs lights provide an optimum balance between lumens and candela.</em></p>",
+        "caption": "Nate Calvin, CEO, AeroLEDs"
+      }
+    }
+  },
+  "order": [
+    "image_banner_jUGCAG",
+    "main",
+    "multiple_images_484jX6",
+    "rich_text_KLhfwt",
+    "rich_text_UxzaGG",
+    "rich_text_E6LrrX",
+    "rich_text_BtDMwa",
+    "rich_text_yWGjPr",
+    "rich_text_Cc7WNB",
+    "rich_text_jPjAa9",
+    "text_with_text_WK74KT"
+  ]
+}

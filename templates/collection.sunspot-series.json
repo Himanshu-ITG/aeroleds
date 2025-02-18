@@ -1,0 +1,78 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "rich_text_yRGmfC": {
+      "type": "rich-text",
+      "blocks": {
+        "image_ThccDR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sunspot-Series-LOGO_4aef5a0d-c8de-4533-871c-dc77b0d65af3.svg"
+          }
+        },
+        "text_cBmNwN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you want the highest performing LED lighting on your aircraft, look no further than AeroLEDs SunSpot Series landing and taxi lights. Voted Best LED Landing Light by The Aviation Consumer, SunSpot can be seen from up to 30 miles away and are shock and vibration resistant. SunSpot can be left on in all phases of flight as they draw 40% less power – significantly reducing the electrical load on the airplane’s battery and alternator system. These LEDs are designed to provide a wider beam pattern at a higher intensity with full-scale color rendering as compared to legacy incandescent lights. They also maintain their full light output even at low engine RPM, which is critical for landing configuration. Specifically sourced LED’s do not step on the IR spectrum or cause interference with NVG equipment. H Versions include AeroLEDs’ SIGNATURE integrated Pulse (Wigwag) functionality to significantly increase recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. SunSpot Series LEDs are designed to be mounted in the wingtips, leading edge, cowling, or on the landing gear. Most lights in the SunSpot Series are FAA-PMA/STC approved.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_ThccDR",
+        "text_cBmNwN"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "sunspot-product-grid": {
+      "type": "sunspot-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "contact_reseller": "Contact Reseller",
+        "button_url": "/apps/store-locator"
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "rich_text_yRGmfC",
+    "sunspot-product-grid"
+  ]
+}

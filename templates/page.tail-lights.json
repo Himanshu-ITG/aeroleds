@@ -1,0 +1,366 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "landing_image_banner_RbqVeW": {
+      "type": "landing-image-banner",
+      "blocks": {
+        "content_gjB6DP": {
+          "type": "content",
+          "settings": {
+            "content": "ATTENTION! The System recommendations provided on this page are based on typical stock configurations. If you are uncertain about the specification of your current setup or the parts you need, please contact a sales associate to verify the correct part numbers before placing an order."
+          }
+        }
+      },
+      "block_order": [
+        "content_gjB6DP"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/bnnr-_3.png",
+        "full_width": true,
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "top-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false,
+        "separator_line": false,
+        "padding_top": 40,
+        "padding_bottom": 60
+      }
+    },
+    "system_recommendations_VQGM93": {
+      "type": "system-recommendations",
+      "blocks": {
+        "column_9cMyie": {
+          "type": "column",
+          "settings": {
+            "sub_title": "HORIZONTAL MOUNT",
+            "inline_text": "<h3>SUNTAIL™ </h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Suntail-LED-Tail-Light-Horizontal-Mount.png",
+            "image2": "shopify://shop_images/Tail-Position-Anticollision-GRAPH_6b89fb58-155e-4af7-99c9-b47c0f1ec561.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "",
+            "partNumbercontent": "",
+            "choose_type": true,
+            "led-choose-title": "CHOOSE LIGHT TYPE",
+            "certified_img": "shopify://shop_images/Certified-Aircraft-ICON_1.svg",
+            "certified_content": "",
+            "certified_titlecontent": "",
+            "certified_subcontent": "",
+            "certified_approvedcontent": "<p>STC &amp; TSO<br>APPROVED</p>",
+            "certified_partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>11-1260-12</p>\n<h5 class=\"space_grid\">28V</h5>\n<p>11-1260-24</p>\n<h5>REQUIRES ADDITIONAL MOUNTING PLATE FOR HORIZONTAL MOUNT.</h5>\n<br><a href=\"https://eaqghj-3x.myshopify.com/products/suntail-90%C2%BA-adapter?pr_prod_strat=pinned&amp;pr_rec_id=c9f732241&amp;pr_rec_pid=9744776429885&amp;pr_ref_pid=9743713632573&amp;pr_seq=uniform\" target=\"_blank\"> CLICK HERE MOUNT PART NUMBER :KIT-0064</a>",
+            "experimental_img": "shopify://shop_images/Experimental-Aircraft-ICON_1.svg",
+            "experimental_content": "",
+            "experimental_titlecontent": "",
+            "experimental_subcontent": "",
+            "experimental_approvedcontent": "",
+            "experimental_partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-1260-12</p>\n<h5 class=\"space_grid\">28V</h5>\n<p>01-1260-24</p>\n<a href=\"/products/suntail-position-anti-collision-tail-light\">Learn More about the Suntail EXP</a>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/suntail-position-anti-collision-tail-light"
+          }
+        },
+        "column_RanjqV": {
+          "type": "column",
+          "settings": {
+            "sub_title": "HORIZONTAL MOUNT",
+            "inline_text": "<h3>71554</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/71554-LED-Tail-Light-Horizontal-Mount.png",
+            "image2": "shopify://shop_images/Tail-Position-GRAPH_c6ae0e5c-3b5b-4195-8f9c-c990f0fe8eee.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-0771554-11</p>\n<h5 class=\"space_grid\">28V</h5>\n<p>01-0771554-01</p>",
+            "choose_type": false,
+            "led-choose-title": "",
+            "certified_content": "",
+            "certified_titlecontent": "",
+            "certified_subcontent": "",
+            "certified_approvedcontent": "",
+            "certified_partNumbercontent": "",
+            "experimental_content": "",
+            "experimental_titlecontent": "",
+            "experimental_subcontent": "",
+            "experimental_approvedcontent": "",
+            "experimental_partNumbercontent": "",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_CE7Jj7": {
+          "type": "column",
+          "settings": {
+            "sub_title": "HORIZONTAL MOUNT",
+            "inline_text": "<h3>ORION™ 500</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Orion-500-LED-Tail-Light-Horizontal-Mount.png",
+            "image2": "shopify://shop_images/Tail-Position-Anticollision-GRAPH_6b89fb58-155e-4af7-99c9-b47c0f1ec561.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC &amp; TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-0771774V01</p>\n<h5 class=\"space_grid\">28V</h5>\n<p>01-0771774V02</p>\n<h5>REQUIRES ADDITIONAL MOUNTING PLATE FOR HORIZONTAL MOUNT.</h5>\n<br><a href=\"https://www.wilcoaircraftparts.com/product-p/or500plate.htm\" class=\"custom_clr_for_tem\"> CLICK HERE FOR OPTION FROM\nAERO-MACH WILCO </a>",
+            "choose_type": false,
+            "led-choose-title": "",
+            "certified_content": "",
+            "certified_titlecontent": "",
+            "certified_subcontent": "",
+            "certified_approvedcontent": "",
+            "certified_partNumbercontent": "",
+            "experimental_content": "",
+            "experimental_titlecontent": "",
+            "experimental_subcontent": "",
+            "experimental_approvedcontent": "",
+            "experimental_partNumbercontent": "",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_mxgLh3": {
+          "type": "column",
+          "settings": {
+            "sub_title": "HORIZONTAL MOUNT",
+            "inline_text": "<h3>ORION™ 550</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Orion-550-LED-Tail-Light-Horizontal-Mount.png",
+            "image2": "shopify://shop_images/Tail-Position-Anticollision-GRAPH_6b89fb58-155e-4af7-99c9-b47c0f1ec561.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-0772070V01</p>",
+            "choose_type": false,
+            "led-choose-title": "CHOOSE LIGHT TYPE",
+            "certified_img": "shopify://shop_images/Certified-Aircraft-ICON_1.svg",
+            "certified_content": "",
+            "certified_titlecontent": "",
+            "certified_subcontent": "",
+            "certified_approvedcontent": "<p>TSO<br>APPROVED</p>",
+            "certified_partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-0772070V01</p>\n<h5>REQUIRES ADDITIONAL MOUNTING PLATE FOR HORIZONTAL MOUNT.</h5>\n\n<br><a href=\"https://www.wilcoaircraftparts.com/product-p/or500plate.htm\" class=\"custom_clr_for_tem\"> CLICK HERE FOR OPTION FROM\nAERO-MACH WILCO </a>",
+            "experimental_img": "shopify://shop_images/Experimental-Aircraft-ICON_1.svg",
+            "experimental_content": "",
+            "experimental_titlecontent": "",
+            "experimental_subcontent": "",
+            "experimental_approvedcontent": "<p>TSO<br>APPROVED</p>",
+            "experimental_partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-1260-12</p>\n<h5 class=\"space_grid\">28V</h5>\n<p>01-1260-24</p>\n<p>Requires additional mounting plate for horizontal mount:</p>\n<a href=\"/products/suntail-90%C2%BA-adapter\">MOUNT PART NUMBER: KIT-0064</a>\n<br>\n<a href=\"/products/suntail-experimental-led-position-anti-collision-tail-light\">Learn More about the Suntail EXP</a>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_jDbL8z": {
+          "type": "column",
+          "settings": {
+            "sub_title": "VERTICAL MOUNT",
+            "inline_text": "<h3>SUNTAIL™</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Suntail-LED-Tail-Light-Vertical-Mount.png",
+            "image2": "shopify://shop_images/Tail-Position-Anticollision-GRAPH_6b89fb58-155e-4af7-99c9-b47c0f1ec561.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "",
+            "partNumbercontent": "",
+            "choose_type": true,
+            "led-choose-title": "CHOOSE LIGHT TYPE",
+            "certified_img": "shopify://shop_images/Certified-Aircraft-ICON_1.svg",
+            "certified_content": "",
+            "certified_titlecontent": "",
+            "certified_subcontent": "",
+            "certified_approvedcontent": "<p>STC &amp; TSO<br>APPROVED</p>",
+            "certified_partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>11-1260-12</p>\n<h5 class=\"space_grid\">28V</h5>\n<p>11-1260-24</p>",
+            "experimental_img": "shopify://shop_images/Experimental-Aircraft-ICON_1.svg",
+            "experimental_content": "",
+            "experimental_titlecontent": "",
+            "experimental_subcontent": "",
+            "experimental_approvedcontent": "",
+            "experimental_partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-1260-12</p>\n<h5 class=\"space_grid\">28V</h5>\n<p>01-1260-24</p>\n<a href=\"/products/suntail-position-anti-collision-tail-light\">Learn More about the Suntail EXP</a>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_NT9Kke": {
+          "type": "column",
+          "settings": {
+            "sub_title": "VERTICAL MOUNT",
+            "inline_text": "<h3>71554</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/71554-LED-Tail-Light-Vertical-Mount.png",
+            "image2": "shopify://shop_images/Tail-Position-GRAPH_c6ae0e5c-3b5b-4195-8f9c-c990f0fe8eee.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-0771554-12</p>\n<h5 class=\"space_grid\">28V</h5>\n<p>01-0771554-02</p>\n<p>01-0771554-03-Cessna</p>",
+            "choose_type": false,
+            "led-choose-title": "",
+            "certified_content": "",
+            "certified_titlecontent": "",
+            "certified_subcontent": "",
+            "certified_approvedcontent": "",
+            "certified_partNumbercontent": "",
+            "experimental_content": "",
+            "experimental_titlecontent": "",
+            "experimental_subcontent": "",
+            "experimental_approvedcontent": "",
+            "experimental_partNumbercontent": "",
+            "button_label": "LEARN MORE",
+            "button_link": "https://flywat.com/products/7155411"
+          }
+        },
+        "column_XEEN3L": {
+          "type": "column",
+          "settings": {
+            "sub_title": "VERTICAL MOUNT",
+            "inline_text": "<h3>ORION™ 500</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Orion-500-LED-Tail-Light-Vertical-Mount.png",
+            "image2": "shopify://shop_images/Tail-Position-Anticollision-GRAPH_6b89fb58-155e-4af7-99c9-b47c0f1ec561.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC &amp; TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-0771774V01</p>\n<h5 class=\"space_grid\">28V</h5>\n<p>01-0771774V02</p>",
+            "choose_type": false,
+            "led-choose-title": "",
+            "certified_content": "",
+            "certified_titlecontent": "",
+            "certified_subcontent": "",
+            "certified_approvedcontent": "",
+            "certified_partNumbercontent": "",
+            "experimental_content": "",
+            "experimental_titlecontent": "",
+            "experimental_subcontent": "",
+            "experimental_approvedcontent": "",
+            "experimental_partNumbercontent": "",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_MY3Gti": {
+          "type": "column",
+          "settings": {
+            "sub_title": "VERTICAL MOUNT",
+            "inline_text": "<h3>ORION™ 550</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Orion-550-LED-Tail-Light-Vertical-Mount.png",
+            "image2": "shopify://shop_images/Tail-Position-Anticollision-GRAPH_6b89fb58-155e-4af7-99c9-b47c0f1ec561.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-0772070V01</p>",
+            "choose_type": false,
+            "led-choose-title": "CHOOSE LIGHT TYPE",
+            "certified_img": "shopify://shop_images/Certified-Aircraft-ICON_1.svg",
+            "certified_content": "",
+            "certified_titlecontent": "",
+            "certified_subcontent": "",
+            "certified_approvedcontent": "",
+            "certified_partNumbercontent": "",
+            "experimental_img": "shopify://shop_images/Experimental-Aircraft-ICON_1.svg",
+            "experimental_content": "",
+            "experimental_titlecontent": "",
+            "experimental_subcontent": "",
+            "experimental_approvedcontent": "<p>TSO<br>APPROVED</p>",
+            "experimental_partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-1260-12</p>\n<h5 class=\"space_grid\">28V</h5>\n<p>01-1260-24</p>\n<br>\n<a href=\"/products/suntail-experimental-led-position-anti-collision-tail-light\">Learn More about the Suntail EXP</a>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "column_9cMyie",
+        "column_RanjqV",
+        "column_CE7Jj7",
+        "column_mxgLh3",
+        "column_jDbL8z",
+        "column_NT9Kke",
+        "column_XEEN3L",
+        "column_MY3Gti"
+      ],
+      "settings": {
+        "title": "SELECT YOUR CURRENT",
+        "heading_size": "h1",
+        "text": "<h2>TAIL LIGHT CONFIGURATION</h2>",
+        "text_sub_heading": "",
+        "text_sub_heading2": "",
+        "img_one": "shopify://shop_images/Tail-Light-Horizontal-Mount-OPTION-01-BW.png",
+        "img_hover-one": "shopify://shop_images/Tail-Light-Horizontal-Mount-OPTION-01-CLR.png",
+        "text_one": "<h4>HORIZONTAL MOUNT</h4>",
+        "img_two": "shopify://shop_images/Tail-Light-Vertical-Mount-OPTION-02-BW.png",
+        "img_hover-two": "shopify://shop_images/Tail-Light-Vertical-Mount-OPTION-02-CLR.png",
+        "text_two": "<h4>VERTICAL MOUNT</h4>",
+        "text_three": "",
+        "text_four": "",
+        "desktop_content_alignment": "center",
+        "for_first_match": "HORIZONTAL-MOUNT",
+        "for_two_match": "VERTICAL-MOUNT",
+        "for_three_match": "",
+        "for_four_match": "",
+        "title_one": "SYSTEM RECOMMENDATIONS",
+        "text-title_one": "<h2>LED TAIL LIGHTS</h2><p>DIRECT REPLACEMENT OPTIONS</p>",
+        "title_two": "SYSTEM RECOMMENDATIONS",
+        "text-title_two": "<h2>LED TAIL LIGHTS</h2><p>DIRECT REPLACEMENT OPTIONS</p>",
+        "title_three": "",
+        "text-title_three": "",
+        "title_four": "",
+        "text-title_four": "",
+        "padding_top": 0,
+        "padding_bottom": 80
+      }
+    }
+  },
+  "order": [
+    "main",
+    "landing_image_banner_RbqVeW",
+    "system_recommendations_VQGM93"
+  ]
+}

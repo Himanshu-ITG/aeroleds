@@ -1,0 +1,178 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_NgiVmN": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/MANUALS-AND-DIAGRAMS-PAGE.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "manual_section_bb7qDc": {
+      "type": "manual-section",
+      "blocks": {
+        "content_d4kFXE": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/aeroleds-pulsar-N-pair-aircraft-lights.png",
+            "grid_heading": "CERTIFIED Pulsar N",
+            "list": "<ul><li>11-1280-A-12</li><li>11-1280-A-12-L</li><li>11-1280-A-12-R</li><li>11-1280-A-24</li><li>11-1280-A-24-L</li><li>11-1280-A-24-R</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0008-0006-Certified-Pulsar-N-Series-Installation_Rev-G.pdf?v=1732106647"
+          }
+        },
+        "content_7Gr7HG": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/SunBeacon-sunspot-cluster-aeroleds-beacon-lights-aircraft.png",
+            "grid_heading": "CERTIFIED SunBeacon II",
+            "list": "<ul><li>11-2200-A-12</li><li>11-2200-A-24</li><li>11-2200-B-12</li><li>11-2200-B-24</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0012-0005-Sunbeacon-II-Installation_Rev_E.pdf?v=1732110039"
+          }
+        },
+        "content_8CxnTA": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/suntail-aircraft-lights-by-aeroleds-large.png",
+            "grid_heading": "CERTIFIED SunTail",
+            "list": "<ul><li>11-1260-12</li><li>11-1260-24</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0009-0018-Certified-Suntail-Installation_Rev_B.pdf?v=1732111266"
+          }
+        },
+        "content_DrdCdz": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/suntail-aircraft-lights-by-aeroleds.png",
+            "grid_heading": "EXPERIMENTAL SunTail",
+            "list": "<ul><li>01-1260-12</li><li>01-1260-24</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0009-0026-Experimental-Suntail-Installation_Rev_A.pdf?v=1732112719"
+          }
+        },
+        "content_fJwy6K": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/11-1100-12-L-front-top-B.png",
+            "grid_heading": "PULSAR 600",
+            "list": "<ul><li>11-1100-12-L</li><li>11-1100-12-R</li><li>11-1100-24-L</li><li>11-1100-24-R</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0011-0005-Certified-Pulsar-Installation_Rev-D-1.pdf?v=1732174112"
+          }
+        },
+        "content_3reJmM": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/11-1100-12-L-front-top-B_1.png",
+            "grid_heading": "Pulsar 600 EXP",
+            "list": "<ul><li>01-1100-12-L</li><li>01-1100-12-R</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0011-0006-Experimental-Pulsar-Installation_Rev-A.pdf?v=1732175433"
+          }
+        },
+        "content_UD6Ffh": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/11-1280-B-12-L-front-top-B.png",
+            "grid_heading": "PULSAR 650",
+            "list": "<ul><li>11-1280-B-12-L</li><li>11-1280-B-12-R</li><li>11-1280-B-24-L</li><li>11-1280-B-24-R</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0008-0006-Certified-Pulsar-N-Series-Installation_Rev-G_1.pdf?v=1732176386"
+          }
+        },
+        "content_m6gbwT": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Cesna-Wingtip-Fairing-Kit-Transparent.png",
+            "grid_heading": "Pulsar 650 Cessna Wingtip Fairing Adapter",
+            "list": "<ul><li>KIT-01-1091</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0115-0001-Cessna-Fairing-Kit-Installation-Rev_IR.pdf?v=1732176599"
+          }
+        },
+        "content_Edf7qq": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/11-1280-B-12-L-front-top-B_1.png",
+            "grid_heading": "PULSAR 650 EXP",
+            "list": "<ul><li>01-1280-B-12-L</li><li>01-1280-B-12-R</li><li>01-1280-B-24-L</li><li>01-1280-B-24-R</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0008-0022-Experimental-Pulsar-N-Series-Installation_Rev-F.pdf?v=1732176956"
+          }
+        },
+        "content_EjyKLT": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/11-1280-C-12-L-Red_-f-top-B.png",
+            "grid_heading": "PULSAR 660",
+            "list": "<ul><li>11-1280-C-12-L</li><li>11-1280-C-12-R</li><li>11-1280-C-24-L</li><li>11-1280-C-24-R</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0008-0006-Certified-Pulsar-N-Series-Installation_Rev-G_2.pdf?v=1732177156"
+          }
+        },
+        "content_M6L7KK": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/11-1280-C-12-L-Red_-f-top-B_1.png",
+            "grid_heading": "PULSAR 660 EXP",
+            "list": "<ul><li>01-1280-C-12-L</li><li>01-1280-C-12-R</li><li>01-1280-C-24-L</li><li>01-1280-C-24-R</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0008-0022-Experimental-Pulsar-N-Series-Installation_Rev-F_1.pdf?v=1732177337"
+          }
+        }
+      },
+      "block_order": [
+        "content_d4kFXE",
+        "content_7Gr7HG",
+        "content_8CxnTA",
+        "content_DrdCdz",
+        "content_fJwy6K",
+        "content_3reJmM",
+        "content_UD6Ffh",
+        "content_m6gbwT",
+        "content_Edf7qq",
+        "content_EjyKLT",
+        "content_M6L7KK"
+      ],
+      "settings": {
+        "heading": "Landing & Taxi Light Installation Manuals",
+        "heading_size": "h1",
+        "subheading": "<p>Aeroleds has listed all the manuals for our wingtip and tail lights here. The manuals will show you how to successfully install our LEDs onto your aircraft. If you have any questions please don’t hesitate to contact us on <a href=\"https://aeroleds.com/contact/\">our contact page</a>.</p>",
+        "color_scheme": "scheme-3191165c-dddc-44f5-9607-8c68e35857ac",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_NgiVmN",
+    "manual_section_bb7qDc"
+  ]
+}

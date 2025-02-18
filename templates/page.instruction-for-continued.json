@@ -1,0 +1,120 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 80,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_YEiHjP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4JwpFg": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Instructions-for-continued Airworthiness (ICA)",
+            "heading_size": "hxxl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4JwpFg"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 52
+      }
+    },
+    "support_multicolumn_mfq8bM": {
+      "type": "support-multicolumn",
+      "blocks": {
+        "column_z9zqDJ": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/0003-0005-Sunspot-36-46-Sunbeam-Landing-Taxi.png",
+            "title": "<a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0003-0005-Instructions-for-Continued-Airworthiness-STC-SA02386AK-Rev_A.pdf?v=1733931396\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0003-0005-Instructions-for-Continued-Airworthiness-STC-SA02386AK-Rev_A.pdf?v=1733931396\"><strong>0003-0005</strong></a>",
+            "text": "<p><strong>Part 23 ICA & Installation Instructions (SUNSPOT 36,46 & SUNBEAM LANDING & TAX LIGHTS )</strong></p>",
+            "email": "",
+            "number": "",
+            "link_label": "View",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0003-0005-Instructions-for-Continued-Airworthiness-STC-SA02386AK-Rev_A.pdf?v=1733931396",
+            "custom_html": ""
+          }
+        },
+        "column_FUhc7r": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/0031-0001-Pulsar-N-NS-NSP-Suntail-Sunbeacon.png",
+            "title": "<a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0031-0001-Part-23-Instructions-for-Continued-Airworthiness-including-Installation-Instructions-Rev_IR.pdf?v=1733931487\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0031-0001-Part-23-Instructions-for-Continued-Airworthiness-including-Installation-Instructions-Rev_IR.pdf?v=1733931487\"><strong>0031-0001</strong></a>",
+            "text": "<p><strong>PART 23 ICA & Installation Instructions (PULSUR, N NS, NSP, SUNTAIL & SUNBEACON POSITION , NAVIGATION STROBE ,& ANTI COLLISION LIGHTS)</strong></p>",
+            "email": "",
+            "number": "",
+            "link_label": "View",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0031-0001-Part-23-Instructions-for-Continued-Airworthiness-including-Installation-Instructions-Rev_IR.pdf?v=1733931487",
+            "custom_html": ""
+          }
+        },
+        "column_6p64RQ": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/0027-0001-Sunspot-36-46-Landing-Taxi.png",
+            "title": "<a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0027-0001-Part-27-Instructions-for-Continued-Airworthiness-including-Installation-Instructions-Rev_A.pdf?v=1733931539\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0027-0001-Part-27-Instructions-for-Continued-Airworthiness-including-Installation-Instructions-Rev_A.pdf?v=1733931539\"><strong>0027-0001</strong></a>",
+            "text": "<p><strong>Part 27 ICA & Installation Instructions (SUNSPOT 35 & 46 LANDING & TAXI LIGHTS)</strong></p>",
+            "email": "",
+            "number": "",
+            "link_label": "View",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0027-0001-Part-27-Instructions-for-Continued-Airworthiness-including-Installation-Instructions-Rev_A.pdf?v=1733931539",
+            "custom_html": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_z9zqDJ",
+        "column_FUhc7r",
+        "column_6p64RQ"
+      ],
+      "settings": {
+        "separator_line": false,
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "liquid_code": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_YEiHjP",
+    "support_multicolumn_mfq8bM"
+  ]
+}

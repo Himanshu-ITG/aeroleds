@@ -1,0 +1,139 @@
+.contact img {
+  max-width: 100%;
+}
+
+.contact .form__message {
+  align-items: flex-start;
+}
+
+.contact .icon-success {
+  margin-top: 0.2rem;
+}
+
+.contact .field {
+  margin-bottom: 1.5rem;
+}
+
+@media screen and (min-width: 750px) {
+  .contact .field {
+    margin-bottom: 2rem;
+  }
+}
+
+.contact__button {
+  margin-top: 3rem;
+}
+
+@media screen and (min-width: 750px) {
+  .contact__button {
+    margin-top: 4rem;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  .contact__fields {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 2rem;
+  }
+}
+
+
+
+/* new css start */
+
+.itg-contact .page-contact .rte {
+    text-align: center;
+}
+.contact.page-width--narrow {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.contact_content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.contact_content .contact-wrapper {
+    width: calc(70% - 15px);
+    padding-right: 50px;
+    border-right: 2px solid #eee;
+    padding-left: 50px;
+}
+.contact_content .contact-details {
+    width: calc(30% - 15px);
+    text-align: center;
+}
+.contact-details h2 {
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    position: relative;
+    line-height: inherit;
+}
+.contact-details h2::after {
+    position: absolute;
+    content: "";
+    height: 3px;
+    width: 100px;
+    top: auto;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%);
+    background: #ffd500;
+}
+.contact-details a {
+    text-decoration: none;
+    background: #ffd500;
+    color: #fff;
+    padding: 10px 15px;
+    margin: 0px 10px;
+    display: inline-block;
+}
+.contact-wrapper .field::after, .contact-wrapper .field::before {
+    display: none;
+}
+.contact-wrapper .field__input {
+    border: 1px solid #121212;
+}
+.contact .form__message {
+    align-items: center;
+}
+
+
+
+
+@media screen and (min-width:768px) and (max-width: 992px) {
+  .contact_content .contact-details {
+    width: calc(45% - 15px);
+}
+  .contact_content .contact-wrapper {
+    width: calc(55% - 15px);
+    padding-left: 0px;
+}
+  .contact.page-width--narrow {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+}
+
+@media screen and (max-width: 767px){
+  .contact_content .contact-wrapper {
+    width: 100%;
+    padding-right: 20px;
+    border-right: none;
+    padding-left: 20px;
+}
+.contact_content .contact-details {
+    width: 100%;
+    text-align: center;
+    padding-top:30px;
+}
+}
+
+
+
+
+
+/* new css end */

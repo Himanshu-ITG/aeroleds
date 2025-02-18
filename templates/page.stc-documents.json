@@ -1,0 +1,311 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 80,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_tjPqmJ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_MR3L8k": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We Know how important your aircraft is to you, no matter what size, type, or model, AeroLEDs strives to meet and exceed aircraft lighting requirements and holds hundreds of certifications from the FAA and EASA along with PMA certification PQ5259NM. We provide top quality FAA approved LED lighting solutions to every type of aircraft, from small turbo props to large jets and military applications.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_MR3L8k"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "product_images_blocks_qQNeH3": {
+      "type": "product-images-blocks",
+      "blocks": {
+        "content_zgNY6H": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/STC-Authorization-Letter-ICON.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-STC-Authorizaton-letter_SA02386AK_SR02704SE_SA04837NY_REV-B.pdf?v=1733847911\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-STC-Authorizaton-letter_SA02386AK_SR02704SE_SA04837NY_REV-B.pdf?v=1733847911\"><strong>STC Authorization Letter</strong></a></p>"
+          }
+        },
+        "content_T846nB": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-23-SunSpot-Series-STC-AML.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/STC-AML-SA02386AK-3-30-21.pdf?v=1733848390\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/STC-AML-SA02386AK-3-30-21.pdf?v=1733848390\"><strong>Part 23</strong></a></p><p><strong>SunSpot Series STC/AML</strong></p><p>(SAO2386AK)</p>"
+          }
+        },
+        "content_etJJEM": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-23-Navigation-Strobe-Position-Beacon.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-23-STC-AML-SA04837NY.pdf?v=1733848885\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-23-STC-AML-SA04837NY.pdf?v=1733848885\"><strong>Part 23</strong></a></p><p><strong>NAV, STROBE, POSITION, BEACON</strong></p><p>(SAO4837NY)</p>"
+          }
+        },
+        "content_ean9zb": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-25-SunSpot-Series-STC-AML.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-25-STC-AML-ST01936WI-2.pdf?v=1733848960\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-25-STC-AML-ST01936WI-2.pdf?v=1733848960\"><strong>Part 25</strong></a></p><p><strong>SunSpot Series STC/AML</strong></p><p>(STO1936WI)</p>"
+          }
+        },
+        "content_Y3WaHY": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-27-SunSpot-Series-STC-AML.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-27-STC-AML-SR02704SE.pdf?v=1733849025\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-27-STC-AML-SR02704SE.pdf?v=1733849025\"><strong>Part 27</strong></a></p><p><strong>SunSpot Series STC/AML</strong></p><p>(SRO2704SE)</p>"
+          }
+        },
+        "content_qiVhbh": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-29-SunSpot-Series-STC-AML.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SR07272SE-AML-Signed.pdf?v=1733849103\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SR07272SE-AML-Signed.pdf?v=1733849103\"><strong>Part 29</strong></a></p><p><strong>SunSpot Series STC AML</strong></p><p>(SR07272SE)</p>"
+          }
+        },
+        "content_xVbKGW": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/PilatusPCXMain.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SA02558SE-Pilatus-STC-Page-1.pdf?v=1733849180\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SA02558SE-Pilatus-STC-Page-1.pdf?v=1733849180\"><strong>Pilatus PC12</strong></a></p><p><strong>STC</strong></p><p><strong>(SAO2558SE)</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_zgNY6H",
+        "content_T846nB",
+        "content_etJJEM",
+        "content_ean9zb",
+        "content_Y3WaHY",
+        "content_qiVhbh",
+        "content_xVbKGW"
+      ],
+      "settings": {
+        "main_image": "shopify://shop_images/FAA-STC-Approved-Model-List-AML-LOGO.png",
+        "heading": "FAA STC & APPROVED MODEL LIST ( AML)",
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "border_bottom": true
+      }
+    },
+    "product_images_blocks_NXHCjh": {
+      "type": "product-images-blocks",
+      "blocks": {
+        "content_eXXztb": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Diamond-DA-40-SunBeam.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Diamond-DA-40-Sunbeam-337.pdf?v=1733849389\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Diamond-DA-40-Sunbeam-337.pdf?v=1733849389\"><strong>Diamond DA-40 SunBeam</strong></a></p>"
+          }
+        },
+        "content_GT6RKG": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Husky-A-1C-SunTail.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Husky-SunTail.pdf?v=1733849438\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Husky-SunTail.pdf?v=1733849438\"><strong>Husky A-1C SunTail</strong></a></p>"
+          }
+        },
+        "content_YehqhQ": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Cessna-182-Pulsar-NS_1.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Pulsar-NS-Field-Approval-Cessna-182.pdf?v=1733849484\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Pulsar-NS-Field-Approval-Cessna-182.pdf?v=1733849484\"><strong>Cessna 182 Pulsar NS</strong></a></p>"
+          }
+        },
+        "content_hR8TWK": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Socata-TB-21.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Socata-TB21-multiple-lights.pdf?v=1733849536\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Socata-TB21-multiple-lights.pdf?v=1733849536\"><strong>Socata TB 21</strong></a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_eXXztb",
+        "content_GT6RKG",
+        "content_YehqhQ",
+        "content_hR8TWK"
+      ],
+      "settings": {
+        "heading": "FAA FORM 337 FIELD APPROVAL",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "border_bottom": true
+      }
+    },
+    "product_images_blocks_U4BiTP": {
+      "type": "product-images-blocks",
+      "blocks": {
+        "content_XbfxaQ": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-23-EASA-STC-SunSpot-Series_2.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10070175_CERT_REV_0_20190613.pdf?v=1733849619\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10070175_CERT_REV_0_20190613.pdf?v=1733849619\"><strong>Part 23 EASA STC </strong></a></p><p><strong>SunSpot Series</strong></p><p>(AML - SAO2386AK)</p>"
+          }
+        },
+        "content_QrDdyM": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-23-EASA-STC-Navigation-Strobe-Position-Beacon.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-23-EASA-STC-AML.pdf?v=1733849760\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-23-EASA-STC-AML.pdf?v=1733849760\"><strong>Part 23 EASA STC </strong></a></p><p><strong>NAV, STROBE, POSITION, BEACON</strong></p><p>(AML - SAO4837NY)</p>"
+          }
+        },
+        "content_kpNhwQ": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-27-EASA-STC-SunSpot-Series_3.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10076166_CERT_REV_0_20210415-FLE-2.pdf?v=1733849912\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10076166_CERT_REV_0_20210415-FLE-2.pdf?v=1733849912\"><strong>Part 27 EASA STC</strong></a></p><p><strong>SunSpot Series</strong></p><p>(AML - SRO2704SE)</p>"
+          }
+        },
+        "content_48Q9h4": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-25-EASA-STC-SunSpot-Series.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10085653_CERT_REV_0_20241023.pdf?v=1733850014\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10085653_CERT_REV_0_20241023.pdf?v=1733850014\"><strong>Part 25 EASA STC</strong></a></p><p><strong>SunSpot Series</strong></p><p>(AML - STO1936WI)</p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_XbfxaQ",
+        "content_QrDdyM",
+        "content_kpNhwQ",
+        "content_48Q9h4"
+      ],
+      "settings": {
+        "main_image": "shopify://shop_images/EASA-STC-Approved-LOGO.png",
+        "heading": "EASA STC",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "border_bottom": true
+      }
+    },
+    "product_images_blocks_kggQNj": {
+      "type": "product-images-blocks",
+      "blocks": {
+        "content_XdMkjU": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-23-ANAC-STC.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ANAC-STC_2016S12_04_Part-23.pdf?v=1733850071\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ANAC-STC_2016S12_04_Part-23.pdf?v=1733850071\"><strong>Part 23 ANAC STC</strong></a></p>"
+          }
+        },
+        "content_4CnE37": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-27-ANAC-STC_2.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ANAC-STC_2022S05-03_Part-27.pdf?v=1733850180\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ANAC-STC_2022S05-03_Part-27.pdf?v=1733850180\"><strong>Part 27 ANAC STC</strong></a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_XdMkjU",
+        "content_4CnE37"
+      ],
+      "settings": {
+        "main_image": "shopify://shop_images/ANAC-STC-LOGO.png",
+        "heading": "ANAC STC",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "border_bottom": true
+      }
+    },
+    "product_images_blocks_aef6mY": {
+      "type": "product-images-blocks",
+      "blocks": {
+        "content_xKxpd4": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Part-23-TCCA-STC.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SA22-09-REV2-WITH-TCCA-AML-signed-1.pdf?v=1733850227\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SA22-09-REV2-WITH-TCCA-AML-signed-1.pdf?v=1733850227\"><strong>Part 23 TCCA STC</strong></a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_xKxpd4"
+      ],
+      "settings": {
+        "main_image": "shopify://shop_images/Transport-Canada-LOGO.png",
+        "heading": "TCCA STC",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "border_bottom": true
+      }
+    },
+    "product_images_blocks_7GTXqF": {
+      "type": "product-images-blocks",
+      "blocks": {
+        "content_kQhMLX": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/0003-0001-MDL-Rev-T-Part-23-STC-SA02386AK.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0003-0001_MDL_SA02386AK_Rev-T.pdf?v=1733850323\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0003-0001_MDL_SA02386AK_Rev-T.pdf?v=1733850323\"><strong>0003-0001 MDL Rev T</strong></a></p><p><strong>Part 23 STC SA02386AK</strong></p>"
+          }
+        },
+        "content_MGk9A3": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/ST-20-502-02-Rev-A-Part-27-STC-SR02704SE.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ST-20-502-02-Rev-A-MDL.pdf?v=1733850367#\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ST-20-502-02-Rev-A-MDL.pdf?v=1733850367#\"><strong>ST 20 502 02 Rev A</strong></a></p><p><strong>Part 27 STC SR02704SE</strong></p>"
+          }
+        },
+        "content_FE9Htx": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/0031-0003-MDL-Rev-IR-Part-23-STC-SA04837NY.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0031-0003-Rev.-IR-MDL.pdf?v=1733850478\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0031-0003-Rev.-IR-MDL.pdf?v=1733850478\"><strong>0031-0003 MDL Rev IR</strong></a></p><p><strong>Part 23 STC SA04837NY</strong></p>"
+          }
+        },
+        "content_HhXWrB": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/ST-20-503-02-MDL-Rev-C-Part-29-STC-SR02727SE.png",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ST-20-503-02-Rev-C-MDL.pdf?v=1733850526#\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ST-20-503-02-Rev-C-MDL.pdf?v=1733850526#\"><strong>ST-20-503-02 MDL Rev C </strong></a></p><p><strong>Part 29 STC SR02727SE</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_kQhMLX",
+        "content_MGk9A3",
+        "content_FE9Htx",
+        "content_HhXWrB"
+      ],
+      "settings": {
+        "main_image": "shopify://shop_images/Master-Drawing-List-ICON.png",
+        "heading": "MASTER DRAWING LIST",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "border_bottom": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_tjPqmJ",
+    "product_images_blocks_qQNeH3",
+    "product_images_blocks_NXHCjh",
+    "product_images_blocks_U4BiTP",
+    "product_images_blocks_kggQNj",
+    "product_images_blocks_aef6mY",
+    "product_images_blocks_7GTXqF"
+  ]
+}

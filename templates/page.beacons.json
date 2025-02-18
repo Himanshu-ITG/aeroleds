@@ -1,0 +1,287 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "landing_image_banner_fTadxh": {
+      "type": "landing-image-banner",
+      "blocks": {
+        "content_4tTJJn": {
+          "type": "content",
+          "settings": {
+            "content": "ATTENTION! The System recommendations provided on this page are based on typical stock configurations. If you are uncertain about the specification of your current setup or the parts you need, please contact a sales associate to verify the correct part numbers before placing an order."
+          }
+        }
+      },
+      "block_order": [
+        "content_4tTJJn"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/bnnr-_3.png",
+        "full_width": true,
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "top-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false,
+        "separator_line": false,
+        "padding_top": 40,
+        "padding_bottom": 60
+      }
+    },
+    "custom_beacons_slider_dBgE3B": {
+      "type": "custom-beacons-slider",
+      "blocks": {
+        "block_CA7YAK": {
+          "type": "block",
+          "settings": {
+            "text_one": "3-3/4\" DIAMETER BASE",
+            "text_sub_heading": "<h3>3-3/4\" DIAMETER BASE</h3><p>Typically replaces rotating beacons that housed<br/>a motor mechanism within the base.</p>",
+            "image_one": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-LEGACY-BEACON-OPTION-01-BW.png",
+            "image_one_hover": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-LARGE-BASE-OPTION-01-MAIN-GALLERY-01.png",
+            "image_two": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-LARGE-BASE-OPTION-01-MAIN-GALLERY-02-BW.png",
+            "image_two_hover": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-LARGE-BASE-OPTION-01-MAIN-GALLERY-02.png",
+            "image_three": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-LARGE-BASE-OPTION-01-MAIN-GALLERY-03-BW.png",
+            "image_three_hover": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-LARGE-BASE-OPTION-01-MAIN-GALLERY-03.png",
+            "image_four": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-LARGE-BASE-OPTION-01-MAIN-GALLERY-04-BW.png",
+            "image_four_hover": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-LARGE-BASE-OPTION-01-MAIN-GALLERY-04-CLR.png"
+          }
+        },
+        "block_ak7hX6": {
+          "type": "block",
+          "settings": {
+            "text_one": "2 1/2\" DIAMETER BASE",
+            "text_sub_heading": "<h3>2 1/2\" DIAMETER BASE</h3><p>Usually replaces a remote flasher/light head or<br/>a remote strobe/power supply configuration.</p>",
+            "image_one": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-LEGACY-BEACON-OPTION-02-BW_1.png",
+            "image_one_hover": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-LEGACY-BEACON-OPTION-02-CLR_1.png",
+            "image_two": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-SMALL-BASE-OPTION-02-MAIN-GALLERY-02-BW.png",
+            "image_two_hover": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-SMALL-BASE-OPTION-02-MAIN-GALLERY-02-CLR.png",
+            "image_three": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-SMALL-BASE-OPTION-02-MAIN-GALLERY-03-BW.png",
+            "image_three_hover": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-SMALL-BASE-OPTION-02-MAIN-GALLERY-03-CLR.png",
+            "image_four": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-SMALL-BASE-OPTION-02-MAIN-GALLERY-04-BW.png",
+            "image_four_hover": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-BEACON-LEGACY-SMALL-BASE-OPTION-02-MAIN-GALLERY-04-CLR.png"
+          }
+        },
+        "heading_QhK4qt": {
+          "type": "heading",
+          "settings": {
+            "subhead": "3-3/4\" DIAMETER BASE",
+            "heading": "SYSTEM RECOMMENDATIONS",
+            "content_one": "<h2>LED BEACON LIGHTS</h2><p>DIRECT REPLACEMENT OPTIONS</p>"
+          }
+        },
+        "heading_fMk7Hc": {
+          "type": "heading",
+          "settings": {
+            "subhead": "2 1/2\" DIAMETER BASE",
+            "heading": "SYSTEM RECOMMENDATIONS",
+            "content_one": "<h2>LED BEACON LIGHTS</h2><p>DIRECT REPLACEMENT OPTIONS</p>"
+          }
+        },
+        "column_8tKQMk": {
+          "type": "column",
+          "settings": {
+            "sub_title": "3-3/4\" DIAMETER BASE",
+            "inline_text": "<h3>SUNBEACON™</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Suntail-Beacon-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "<h5>\n</h5>",
+            "approvedcontent": "<p>TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n <p>11-2200-A-12 – RED</p>\n<p>11-2200-B-12 – WHITE</p>\n<h5 class=\"space_grid\">28V</h5>\n <p> </p><p>11-2200-A-24 – RED</p> <p></p>\n <p> 11-2200-B-24 – WHITE</p><h5></h5><h5></h5><p></p><h5>\n</h5><h5> </h5><h5>\n</h5><a class=\"space_grid\" href=\"https://eaqghj-3x.myshopify.com/products/sunbeacon-ii-led-beacon\">\nMUST PURCHASE SUNBEACON II<br> 3.75” ADAPTER MOUNT CUP &gt;</a>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunbeacon-ii-led-beacon"
+          }
+        },
+        "column_Py3UgC": {
+          "type": "column",
+          "settings": {
+            "sub_title": "3-3/4\" DIAMETER BASE",
+            "inline_text": "<h3>90520</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/90520-Wide-Profile-Beacon-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "<p>\n<br>\nHIGHER PROFILE <br> \n(Offered in Aviation <br>\nRED &amp; WHITE Split)</p>",
+            "approvedcontent": "<p>STC &amp; TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n<p>01-0771080-55 - Upper Mount </p>\n<h5 class=\"space_grid\">28V</h5>\n<p>01-0771080-05 - Upper Mount</p>\n<p>01-0771080-15 - Lower Mount</p>\n<a class=\"space_grid\" href=\"https://flywat.com/pages/system-recommendations-led-71080\" target=\"_blank\">LOWER MOUNT INFORMATION &gt;</a>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_CWVVTM": {
+          "type": "column",
+          "settings": {
+            "sub_title": "3-3/4\" DIAMETER BASE",
+            "inline_text": "<h3>71080</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/71080Wide-Profile-Beacon-Light.png",
+            "content": "",
+            "heading_titlecontent": "<h3> 30% BRIGHTER </h3>",
+            "heading_subcontent": "<p> THAN ORION™ 360 &amp;\n<br>\nHIGHER PROFILE <br>\n(Offered in Aviation RED)</p>",
+            "approvedcontent": "<p>STC &amp; TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n <p>01-0771080-55 - Upper Mount</p>\n\n<h5 class=\"space_grid\">28V</h5>\n<p>01-0771080-05 - Upper Mount</p>\n<p>01-0771080-15 - Lower Mount</p>\n<a class=\"space_grid\" href=\"https://flywat.com/pages/system-recommendations-led-71080\">LOWER MOUNT INFORMATION &gt;  </a>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_KdjDKY": {
+          "type": "column",
+          "settings": {
+            "sub_title": "3-3/4\" DIAMETER BASE",
+            "inline_text": "<h3>ORION™ 360</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Orion-360-Wide-Profile-Beacon-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "<p> LOWER PROFILE <br>\n(Offered in Aviation RED,<br>\nRED &amp; WHITE Split | WHITE)</p>",
+            "approvedcontent": "<p>STC &amp; TSO <br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n <p>01-0772010-52 - RED</p>\n<p>01-0772010-72 - RED &amp; WHITE Split</p>\n\n<h5 class=\"space_grid\">28V</h5>\n  <p></p>\n <p> 01-0772010-12 - RED Upper Mount</p>\n <p> 01-0772010-13 - RED Lower Mount </p>\n <p>01-0772010-32 - RED &amp; WHITE </p>\n <p> Split Upper Mount</p>\n <p>01-0772010-33 - RED &amp; WHITE </p>\n <p>Split Lower Mount </p>\n <p> 01-0772010-22 - WHITE Upper Mount</p>\n<p>01-0772010-23 - WHITE Lower Mount</p>\n<a class=\"space_grid\" href=\"https://flywat.com/pages/system-recommendations-led-orion-360\" _blank=\"\">LOWER MOUNT INFORMATION &gt; </a>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_WhkpW4": {
+          "type": "column",
+          "settings": {
+            "sub_title": "2 1/2\" DIAMETER BASE",
+            "inline_text": "<h3>SUNBEACON™</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Suntail-Beacon-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>TSO APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n <p>11-2200-A-12 – RED</p>\n<p>11-2200-B-12 – WHITE</p>\n<h5 class=\"space_grid\">28V</h5>\n <p> </p><p>11-2200-A-24 – RED</p> <p></p>\n <p> 11-2200-B-24 – WHITE</p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunbeacon-ii-led-beacon"
+          }
+        },
+        "column_VqJUFt": {
+          "type": "column",
+          "settings": {
+            "sub_title": "2 1/2\" DIAMETER BASE",
+            "inline_text": "<h3>90520</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/90520-Narrow-Profile-Beacon-Light.png",
+            "content": "",
+            "heading_titlecontent": "<h3> 30% BRIGHTER </h3>",
+            "heading_subcontent": "<p> THAN ORION™ 360 &amp;<br>\nHIGHER PROFILE  <br>\n(Offered in Aviation\nRED &amp; WHITE Split)</p>",
+            "approvedcontent": "<p>STC &amp; TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n <p>01-0790520-51 </p> \n<h5 class=\"space_grid\">28V</h5>\n<p>01-0790520-01</p>\n<a href=\"https://flywat.com/pages/system-recommendations-led-71080\">LOWER MOUNT INFORMATION &gt;  </a>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_WyhrnM": {
+          "type": "column",
+          "settings": {
+            "sub_title": "2 1/2\" DIAMETER BASE",
+            "inline_text": "<h3>71080</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/71080-Narrow-Profile-Beacon-Light.png",
+            "content": "",
+            "heading_titlecontent": "<h3> 30% BRIGHTER </h3>",
+            "heading_subcontent": "<p> THAN ORION™ 360 &amp;<br>\nHIGHER PROFILE <br> \n(Offered in Aviation RED)</p>",
+            "approvedcontent": "<p>STC &amp; TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n <p>01-0771080-51 - Upper Mount</p> \n<h5 class=\"space_grid\">28V</h5>\n<p>01-0771080-01 - Upper Mount</p>\n<a class=\"space_grid\" href=\"https://flywat.com/pages/system-recommendations-led-71080\">LOWER MOUNT INFORMATION &gt;  </a>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_banq6F": {
+          "type": "column",
+          "settings": {
+            "sub_title": "2 1/2\" DIAMETER BASE",
+            "inline_text": "<h3>ORION™ 360</h3>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Orion-360-Narrow-Profile-Beacon-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "<p> LOWER PROFILE <br>\n(Offered in Aviation RED <br>RED &amp; WHITE Split | WHITE)</p>",
+            "approvedcontent": "<p>STC &amp; TSO<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V</h5>\n <p>01-0772010-50 - RED</p> \n<p>01-0772010-70 - RED &amp; WHITE SPLIT</p> \n<h5 class=\"space_grid\">28V</h5>\n<p>01-0772010-10 - RED Upper Mount</p>\n<p01-0772010-30 red=\"\" white=\"\" split=\"\" p=\"\">\n<p>01-0772010-30 - RED &amp; WHITE SPLIT</p>\n<p>01-0772010-20 - WHITE</p>\n<a class=\"space_grid\" href=\"https://flywat.com/pages/system-recommendations-led-orion-360\">LOWER MOUNT INFORMATION &gt;  </a> </p01-0772010-30>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "block_CA7YAK",
+        "block_ak7hX6",
+        "heading_QhK4qt",
+        "heading_fMk7Hc",
+        "column_8tKQMk",
+        "column_Py3UgC",
+        "column_CWVVTM",
+        "column_KdjDKY",
+        "column_WhkpW4",
+        "column_VqJUFt",
+        "column_WyhrnM",
+        "column_banq6F"
+      ],
+      "settings": {
+        "title": "SELECT YOUR CURRENT",
+        "heading_size": "h1",
+        "text": "<h2>BEACON BASE SIZE</h2>",
+        "text_sub_heading": "",
+        "text_sub_heading2": "",
+        "text_one": "",
+        "text_two": "",
+        "text_three": "",
+        "desktop_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 80
+      }
+    }
+  },
+  "order": [
+    "main",
+    "landing_image_banner_fTadxh",
+    "custom_beacons_slider_dBgE3B"
+  ]
+}

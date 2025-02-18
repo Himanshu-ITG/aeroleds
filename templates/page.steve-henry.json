@@ -1,0 +1,116 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "custom_image_with_text_UkEbYq": {
+      "type": "custom-image-with-text",
+      "blocks": {
+        "text_3wjL9Q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Steve Henry is one of the early backcountry flying content creators on YouTube, whose <a href=\"https://www.youtube.com/watch?v=jeQP-H_31JQ\" target=\"_blank\">“Dead Stick Takeoff”</a> video launched him into the spotlight as an adventure pilot more than a decade ago. He flew two miles and 1500 feet down to a riverbed with no engine running.</p><p>Since then Steve, has been consistently winning STOL competitions as well as STOL drags in his heavily modified Just Aircraft Highlander. Steve’s Yee Haw No. 44 is a the top contender in both short takeoff and landing contests, and STOL Drag races across the country.</p><p>When he’s not busy building his newest and baddest Yee Haw mod or taking part in extreme flying adventures, Steve and his wife Cathy of Nampa, Idaho are dealers for the Just Aircraft Highlander and SuperSTOL.</p>",
+            "text_style": "body"
+          }
+        },
+        "social_media_PxRaWQ": {
+          "type": "social_media",
+          "settings": {
+            "facebook": "https://www.facebook.com/wildwestaircraft",
+            "youtube": "https://www.youtube.com/user/taildrgfun/featured",
+            "instagram": "https://www.instagram.com/wildweststeve/",
+            "link": "https://www.wildwestaircraft.com/"
+          }
+        }
+      },
+      "block_order": [
+        "text_3wjL9Q",
+        "social_media_PxRaWQ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/177019798_2262986703832604_6366862743722454799_n_7c20057b-bef2-4d31-96d8-8331ed6c7026.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "custom_rich_text_fkzhaQ": {
+      "type": "custom-rich-text",
+      "blocks": {
+        "video_popup_button_aRXA9j": {
+          "type": "video_popup_button",
+          "settings": {
+            "button_label": "See Steve's Featured Video",
+            "video_url": "https://www.youtube.com/watch?v=WMVjYT6laKo"
+          }
+        }
+      },
+      "block_order": [
+        "video_popup_button_aRXA9j"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_M6U7TL": {
+      "type": "rich-text",
+      "blocks": {
+        "button_ANRqq3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Back to Partners",
+            "button_link": "shopify://pages/partners",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_ANRqq3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_image_with_text_UkEbYq",
+    "custom_rich_text_fkzhaQ",
+    "rich_text_M6U7TL"
+  ]
+}

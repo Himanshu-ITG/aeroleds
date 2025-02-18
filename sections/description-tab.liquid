@@ -1,0 +1,113 @@
+{{ 'description-tab.css' | asset_url | stylesheet_tag }}
+{% if product.description != blank %}
+  <div class="description-wrapper">
+    <div class="page-width">
+      <div class="description-tab">
+        {% assign description_parts = product.description | split: '<h5>' %}
+
+        {% if description_parts[0] %}
+          <div class="topdescription">
+            {{ description_parts[0] }}
+          </div>
+        {% endif %}
+
+        <div class="description-row">
+          <div class="tab_titles">
+            {% for part in description_parts offset: 1 %}
+              {% assign tab_title_and_content = part | split: '</h5>' %}
+              {% unless tab_title_and_content.size == 0 %}
+                <div
+                  class="tab_title {% if forloop.index0 == 0 %}is-active{% endif %}"
+                  data-id="{{ forloop.index0 }}"
+                >
+                  <h3>{{ tab_title_and_content[0] | strip_html }}</h3>
+                </div>
+              {% endunless %}
+            {% endfor %}
+          </div>
+          <div class="tab_content">
+            {% for part in description_parts offset: 1 %}
+              {% assign tab_title_and_content = part | split: '</h5>' %}
+              {% unless tab_title_and_content.size == 0 %}
+                <div
+                  class="rte_tab_content panel {% if forloop.index0 == 0 %}is-active{% endif %}"
+                  id="{{ forloop.index0 }}"
+                >
+                  <div>{{ tab_title_and_content[1] | strip }}</div>
+                </div>
+              {% endunless %}
+            {% endfor %}
+          </div>
+        </div>
+        <div class="accordion-tab">
+          {% for part in description_parts offset: 1 %}
+            {% assign tab_title_and_content = part | split: '</h5>' %}
+            {% unless tab_title_and_content.size == 0 %}
+              <div class="accordion_tab_title" data-id="{{ forloop.index0 }}">
+                <h3>{{ tab_title_and_content[0] | strip_html }}</h3>
+              </div>
+              <div class="accordion_rte_tab_content panel" id="content-{{ forloop.index0 }}">
+                <div>{{ tab_title_and_content[1] | strip }}</div>
+              </div>
+            {% endunless %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+{% schema %}
+{
+  "name": "Description tab",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Description tab"
+    }
+  ]
+}
+{% endschema %}
+<style></style>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+     const tabTitles = document.querySelectorAll('.tab_title');
+     const tabContents = document.querySelectorAll('.rte_tab_content');
+
+     tabTitles.forEach(function(tab) {
+         tab.addEventListener('click', function(e) {
+             e.preventDefault();
+             const dataid = tab.getAttribute('data-id');
+             tabContents.forEach(function(content) {
+                 if (content.getAttribute('id') === dataid) {
+                     content.style.display = 'block';
+                 } else {
+                     content.style.display = 'none';
+                 }
+             });
+
+             tabTitles.forEach(function(item) {
+                 item.classList.remove('is-active');
+             });
+             tab.classList.add('is-active');
+
+  });
+  });
+   const titles = document.querySelectorAll('.accordion_tab_title');
+  
+  titles.forEach(title => {
+    title.addEventListener('click', function () {
+      const activeTitle = document.querySelector('.accordion_tab_title.is-active');
+      const activeContent = document.querySelector('.accordion_rte_tab_content.is-active');
+      const targetContent = document.getElementById(`content-${this.dataset.id}`);
+      if (activeTitle && activeTitle !== this) {
+        activeTitle.classList.remove('is-active');
+        if (activeContent) activeContent.classList.remove('is-active');
+      }
+      
+      this.classList.toggle('is-active');
+      targetContent.classList.toggle('is-active');
+    });
+  });
+  });
+</script>

@@ -1,0 +1,114 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_DY4TLi": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/C0190T01.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1734375113d9333fa9": {
+      "type": "apps",
+      "blocks": {
+        "my_product_cares_registration_form_EPtn3U": {
+          "type": "shopify://apps/my-product-cares/blocks/registration-form/fd762697-cd8b-4acd-bd03-03c62edf58c9",
+          "settings": {
+            "slug": "aeroled-product-registration",
+            "mode": "form",
+            "openRegisteredEntities": false
+          }
+        }
+      },
+      "block_order": [
+        "my_product_cares_registration_form_EPtn3U"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "rich_text_qPHPBR": {
+      "type": "rich-text",
+      "blocks": {
+        "text_3RtXYn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please click here to view AeroLEDs Warranty</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_3RtXYn"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "richtext_with_btn_zY6cd6": {
+      "type": "richtext-with-btn",
+      "blocks": {
+        "button_DeCnJA": {
+          "type": "button",
+          "settings": {
+            "button_label": "Warranty Terms & Conditions",
+            "button_link": "shopify://pages/warranty",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_DeCnJA"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "border_bottom": false,
+        "padding_top": 0,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "image_banner_DY4TLi",
+    "main",
+    "1734375113d9333fa9",
+    "rich_text_qPHPBR",
+    "richtext_with_btn_zY6cd6"
+  ]
+}

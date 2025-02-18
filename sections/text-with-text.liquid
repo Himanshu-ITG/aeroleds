@@ -1,0 +1,60 @@
+{{ 'text-with-text.css' | asset_url | stylesheet_tag }}
+<div class="text-with-text-wrapper">
+  <div class="page-width">
+    <div class="text-with-text-row">
+      <div class="text-with-row-left-column">
+        <div class="text-with-text-left-content">
+          {% if section.settings.heading != blank %}
+            {{ section.settings.heading }}
+          {% endif %}
+        </div>
+      </div>
+      <div class="text-with-row-right-column">
+        <div class="text-with-text-right-content">
+          {% if section.settings.content != blank %}
+            {{ section.settings.content }}
+          {% endif %}
+          {% if section.settings.caption != blank %}
+            <span>{{ section.settings.caption }}</span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Text with text",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Left side content",
+    },
+    {
+      "type": "richtext",
+      "id": "heading",
+      "label": "Heading"
+    },
+    {
+      "type": "header",
+      "content": "Right side content",
+    },
+    {
+      "type": "richtext",
+      "id": "content",
+      "label": "Content"
+    },
+    {
+      "type": "text",
+      "id": "caption",
+      "label": "Caption"
+    }
+  ],
+  "presets": [
+    {
+      "name": "text with text"
+    }
+  ]
+}
+{% endschema %}

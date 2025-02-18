@@ -1,0 +1,116 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "custom_image_with_text_QMkCbb": {
+      "type": "custom-image-with-text",
+      "blocks": {
+        "text_rw7G9d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Trent Palmer is a filmmaker based out of Reno, Nevada who shares his passion for recreational bush flying through his YouTube and social media channels. A drone pilot in the film industry by trade and passionate aviator at heart, Trent promotes general aviation while flying his famous Kitfox, (named FreedomFox) through the backcountry with stunning drone footage.</p>",
+            "text_style": "body"
+          }
+        },
+        "social_media_jaKTUK": {
+          "type": "social_media",
+          "settings": {
+            "facebook": "https://www.facebook.com/PilotTrentPalmer",
+            "youtube": "https://www.youtube.com/trentpalmer1",
+            "instagram": "https://www.instagram.com/trentonpalmer",
+            "link": "https://www.trentpalmer.com/"
+          }
+        }
+      },
+      "block_order": [
+        "text_rw7G9d",
+        "social_media_jaKTUK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/trent-palmner-aeroleds-partner.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 52
+      }
+    },
+    "custom_rich_text_qCQ4FG": {
+      "type": "custom-rich-text",
+      "blocks": {
+        "video_popup_button_9JHnfh": {
+          "type": "video_popup_button",
+          "settings": {
+            "button_label": "See Trent's Featured Video",
+            "video_url": "https://www.youtube.com/watch?v=aa6QIfM5ty8"
+          }
+        }
+      },
+      "block_order": [
+        "video_popup_button_9JHnfh"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_WxGKtE": {
+      "type": "rich-text",
+      "blocks": {
+        "button_W8CjRg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Back To Partners",
+            "button_link": "shopify://pages/partners",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_W8CjRg"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_image_with_text_QMkCbb",
+    "custom_rich_text_qCQ4FG",
+    "rich_text_WxGKtE"
+  ]
+}

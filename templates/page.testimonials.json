@@ -1,0 +1,460 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_YcPVWV": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Turbo-Arrow-Bob-Marks-II-rev2-11MB-scaled.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_G8ngPr": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Npg7ze": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>When I pull up to the ramp, they say “Dang! We could see you coming from 10 miles away!”</h5>"
+          }
+        },
+        "text_6cPn63": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>I also wanted to mention every time I use that Landing light and pulse in the day time, when I pull up to the ramp, they say “Dang! We could see you coming from 10 miles away!” That’s when I tell them about the product. And for me, I can see airport signs light up in the day time as if they have internal strobes blinking behind/inside the airport signage. Let the team know they are the best and doing it right!</em></p>"
+          }
+        },
+        "caption_PQUXkr": {
+          "type": "caption",
+          "settings": {
+            "caption": "Mike Jeswald",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_Npg7ze", "text_6cPn63", "caption_PQUXkr"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_gPKd7x": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LeB7kG": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>This light is fantastic and so much stronger than the one that came with the plane. I couldn’t believe the difference…</h5>"
+          }
+        },
+        "text_jwgRyB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>After seeing your lights at last year’s Sun N Fun, I finally got a Sunspot 36 4313 landing light installed on my Tecnam P2008 at Tecnam USA in Sebring last week. After waiting a long while for an LOA from Tecnam, the wait was worth it, as this light is fantastic and so much stronger than the one that came with the plane. I couldn’t believe the difference and I did suggest to Tecnam, that maybe the parent company should offer it as an option on all their planes, as all that was necessary was an increase in the circuit breaker from 3.5 to 7.5 amps.</p><p></p><p>Just wanted to let you know that I am very pleased.</p>"
+          }
+        },
+        "caption_atpW7J": {
+          "type": "caption",
+          "settings": {
+            "caption": "Dr. Ian Moore",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_LeB7kG", "text_jwgRyB", "caption_atpW7J"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_BH4Bxg": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Frwe3b": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>OUTSTANDING CUSTOMER SERVICE – I’m a customer for life and will tell anyone that will listen.</h5>"
+          }
+        },
+        "text_yEJ4JX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I am doing a spinner to stinger refurbishment and update of my R182 including avionics, interior, paint and updating all the lights to LED. Over the months I’ve being collecting parts for use in the project, some not needed immediately but nevertheless needed. In doing so I ordered a pair of landing lights from a well known supplier in November last year. The lights were supplied directly from AeroLEDs in Boise ID.</p><p>Working on a theory that the most expensive is best I ended up buying lights size PAR46 when of course as you all know our aircraft use PAR36. I contacted the supplier from whom I bought them who without question agreed to let me exchange them but due to the fact it had been in excess of 30 days since they were ordered they have a policy of charging a 15% restocking fee. On a $1500 order that is $225. My fault I know but it’s still a lot of cash.</p><p>In the meantime I had been in contact with Ryan and Susan at AeroLEDs, Ryan recommended the best light for my application which retails through the same supplier for $635 each not $750 that I paid for the originals. This would mean for me to return the originals and exchange them for the correct less expensive ones I would have to pay an additional $115.</p><p>With that in mind I called AeroLEDs again and spoke with Susan and asked if I could simply exchange them directly with them to avoid further on-cost and I would eat the price difference. Susan offered to contact the supplier and see what she could work out and assured me that somehow she would take care of me.</p><p>An hour later she emailed me saying she had negotiated with the supplier that they refund me in full. I return the light to Boise, they refund the supplier and the refund is passed on in full to me to buy the replacements.</p><p>That my friends is OUTSTANDING CUSTOMER SERVICE.</p><p>Thank you Susan, thank you Ryan, thank you AeroLEDs and thank you to the supplier for agreeing to waive the restock fee.</p><p>I’m a customer for life and will tell anyone that will listen.</p>"
+          }
+        },
+        "caption_MrQK3X": {
+          "type": "caption",
+          "settings": {
+            "caption": "Tony Gee",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_Frwe3b", "text_yEJ4JX", "caption_MrQK3X"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_9BTjBG": {
+      "type": "rich-text",
+      "blocks": {
+        "text_3Bz67q": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>I just landed after a night flight that included 4 landings at small, poorly lit runways.</h4>"
+          }
+        },
+        "text_gYqkHU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I just landed after a night flight that included 4 landings at small, poorly lit runways. I found the Sunspot to be at least as bright as the GE bulb that it replaced and I found the “quality” of the light superior. The GE light is yellowish, whereas the Sunspot has a “bluer” light that seems to penetrate better and give a clearer view. During the day, I leave the landing light on for the entire flight. With the low current draw (I measured less than 3 amps at 14 volts) and the 50,000 hour life, it can be used throughout every flight, day or night.</p><p>Thanks for a great product</p>"
+          }
+        },
+        "caption_w9WdAT": {
+          "type": "caption",
+          "settings": {
+            "caption": "Bill Harrelson",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_3Bz67q", "text_gYqkHU", "caption_w9WdAT"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_wBdkVG": {
+      "type": "rich-text",
+      "blocks": {
+        "text_jATaH7": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>The low power consumption has freed up usable power for other critical flight items. I will not leave the ground without them..</h5>"
+          }
+        },
+        "text_zgq8za": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Sunlites fit perfectly in my clear wingtips on my Model 4 Kitfox. I love the wig-wag feature. They are brighter than the old 55 watt halogens I removed to install the Sunlite’s. The low power consumption of the AeroLed’s Sunlite’s has freed up usable power for other critical flight items. I will not leave the ground without them on and they stay on the entire duration of the flight for safety.I posted a “product review” on TeamKitfox.com including a short Youtube video showing the lights as I promised you I would. It’s generated some nice comments. Sorry it took so long to get time to do the install.”</p><p>Here is a <a href=\"http://www.teamkitfox.com/Forums/showthread.php?t=2221&page=2\" target=\"_blank\">link to the thread.</a></p>"
+          }
+        },
+        "caption_KXCdcz": {
+          "type": "caption",
+          "settings": {
+            "caption": "Steve Kellander",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_jATaH7", "text_zgq8za", "caption_KXCdcz"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_9i8gyT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_g3ejH7": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>The installation was a direct swap -The light was extremely bright, excellent visibility…</h5>"
+          }
+        },
+        "text_9bc8UD": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Just a brief review of my new recognition light installed on my RV12. I had one of the 8 bulb original recognition lights that began to fail after 6 years. I received the latest updated version and the installation was a direct swap. I could tell on the ground the light was much brighter, but the true test was the review from the tower at my home field. I commonly turn on this light to pulse as I come into the pattern for landing. I requested the tower to assess my recognition as the light flashed into the pattern on a sunny morning. The tower advised the light was very visible while on the base leg. When I turned final the tower felt the light was extremely bright, excellent visibility, and speculated that at night it would be really bright. I am a day VFR flier anyway so this installation was perfect for me and my flying. Thanks for such a great product and support in the replacement of that original light.</em></p>"
+          }
+        },
+        "caption_KPgmtw": {
+          "type": "caption",
+          "settings": {
+            "caption": "Patrick Claar",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_g3ejH7", "text_9bc8UD", "caption_KPgmtw"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_hCdfiQ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_WBFjwX": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Ground control told me I was the brightest aircraft they’ve ever seen land.</h5>"
+          }
+        },
+        "text_GfNrLK": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>I’m Marv Wessel, a gyroplane pilot based in Chandler AZ. I was flying my Sportcopter II gyroplane for the first time in Class D airspace on a sunny Arizona afternoon. My gyroplane is equipped with an AeroLEDs Sunspot landing light, Sunbeam Sunbeacon and Pulsar nav/strobe lights. I made my radio call to enter the class D airspace 5 miles from the airport. I entered the airspace and landed. When I changed frequencies from tower to ground control, the controller told me they were amazed that they had me sighted when I made my initial radio call over 4 miles away! He also told me I was the brightest aircraft they’ve ever seen land (referring to my lighting). I’m glad to know I made a great decision equipping my aircraft with Aero LED lighting products. Standing out and being seen around the congested Arizona class B airspace adds a little peace of mind while flying the Phoenix metro airspace.</em></p>"
+          }
+        },
+        "caption_qgjBFT": {
+          "type": "caption",
+          "settings": {
+            "caption": "Marv Wessel",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_WBFjwX", "text_GfNrLK", "caption_qgjBFT"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_GEGpUK": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Wnny8V": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>WOW! This thing is BRIGHT! – I must say, it’s love at first sight…</h5>"
+          }
+        },
+        "text_kVgKmM": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>The SunTail I ordered from AeroLEDs a couple of weeks ago arrived today. It’s a very attractive unit, I must say! I like the aluminum casing, which the instructions indicate is also the heat sink. (Where is the heat sink for the PosiStrobe?) It’s obvious that it will mount easily to the tail light adapter ring I bought from Cleaveland.Being unable to resist temptation, I promptly hooked it up to a 12V supply I had in the workshop (for the amateur radio equipment) and … WOW! This thing is BRIGHT! The position LEDs are outboard of the strobe LEDs and as Dan posted earlier, each function operates independently. After accidentally nearly blinding my wife (“Hi, honey, look at this!”), I was convinced to put it away until I have more airplane to install it in. I must say, it’s love at first sight, however!</em></p>"
+          }
+        },
+        "caption_nQGTHV": {
+          "type": "caption",
+          "settings": {
+            "caption": "Chris",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_Wnny8V", "text_kVgKmM", "caption_nQGTHV"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_tM6AGR": {
+      "type": "rich-text",
+      "blocks": {
+        "text_AhWi7q": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>I have flown in dark twilight several times. – I fly in busy airspace and keep the wigwags on most of the time for extra visibility.</h5>"
+          }
+        },
+        "text_iVw46M": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>I have flown in dark twilight several times. The AeroSUNLites are great. Also, I fly in busy airspace and keep the wigwags on most of the time for extra visibility. Your product is great and I recommended them to some of my homebuilder friends. I am looking forward to your new products and will upgrade to them as soon as they are available.</em></p>"
+          }
+        },
+        "caption_pAKH7k": {
+          "type": "caption",
+          "settings": {
+            "caption": "Tim Garrett",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_AhWi7q", "text_iVw46M", "caption_pAKH7k"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_c43Qkj": {
+      "type": "rich-text",
+      "blocks": {
+        "text_BeNDqj": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>“What a difference in current draw”.</h5>"
+          }
+        },
+        "text_CJPrE3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I have been using The Aeroflash Nav/Strobe system on my 601 HDS for a little over four years. The control boxes are mounted between the center wing section and the outer wings. I had a landing light and a taxi light mounted in the left wing for almost that same amount of time. I do a lot of night flying and because of the high draw of the two GE 4509 bulbs and the Nav/Strobe lights I had to watch the amount of time I had these lights turned on during long taxis or low RPM times. The Jabiru alternator is a 1:1 ratio and does not charge, or charges very little, until you have higher RPM. It is not like an external alternator with a 2:5 or 3:1 overdrive ratio like your car or most marine engines.Like Rick said “This sounds like a commercial”, but it’s not. While at the show in Oshkosh I was looking at all the different light set-ups. I bought two LED lights (4 LED’s per), one for landing and one for taxi. (SEE PICS Attached) I did not buy the one with 8 LED’s because I have to set them at two different angles. Because of the high nose angle of the HDS during landing I set one with a slight down angle and the other level to the ground for taxi. With the old set-up I would use one light at a time, but with the new LED’s they are both on at once. The old lights would draw about 8 Amps. each and the new ones draw 9 tenths of an Amp. With both on at the same time they are brighter than one of the 4509’s. The beam of light is much wider than the old ones so even the taxi light set level works as a landing light. I did not run any more wires to control the new lights. The switch I used for my taxi light is now used to control both lights in their Wig/Wag mode. The company I bought from is called AeroLEDs. “What a difference in current draw”.</p><p>While at the AeroLED booth I also looked at their new AERO-PULSAR Nav/Strobe/Pos wing tip lights that they were still developing and they said that they should be out by the end of this year. They had a show special — If you paid $200 down they would knock off $150 from the list price, and if you didn’t like them when you got them you would get your money back. Because these are also LED’s they will draw a lot less Amps compaired to the Aeroflash lights I am now using. With the new lights I will not need my tail light, but they said they are working on an LED tail/strobe light that will fit my mount. I will be installing a new tail light when they are available (The more strobes the better).</p>"
+          }
+        },
+        "caption_FNfFKH": {
+          "type": "caption",
+          "settings": {
+            "caption": "Al Beyer",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_BeNDqj", "text_CJPrE3", "caption_FNfFKH"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_BjiqnP": {
+      "type": "rich-text",
+      "blocks": {
+        "text_qH6Xyg": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>A Diamond DA-40 owner, installed a set of Pulsar NSPs</h5>"
+          }
+        },
+        "text_7hfETk": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>I am very happy with these strobes and would definitely do this again.</em></p>"
+          }
+        },
+        "caption_6NrgKj": {
+          "type": "caption",
+          "settings": {
+            "caption": "Chris B",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_qH6Xyg", "text_7hfETk", "caption_6NrgKj"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_43zggm": {
+      "type": "rich-text",
+      "blocks": {
+        "text_d6BR6P": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>I have been evaluating whether to use LEDs or traditional position/strobe lights on my RV-10.</h5>"
+          }
+        },
+        "text_Tahxhk": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>At first I thought the cost difference between LEDs and traditional nav/pos/strobes was much greater. However, as I looked into it, I realized that the costs are pretty close. Two mistakes I made in my initial evaluation might be made by others. I assumed (incorrectly) that the $95 wingtip landing lights sold by Van’s included the wingtip pos/strobe lights because both are in all the pictures on the Van’s website and catalog – it is a bit deceiving, though I’m sure not intentional. I also neglected to include the cost (and weight) of the strobe power supply. So, this is how the two options priced out for me, using pricing on Van’s website for AeroLEDs products: Traditionals lights/strobes Wingtip nav/pos/strobes: 2 each A650-PG-14 = $338 Power supply for three strobes= $390 Tail Position/strobe (LN A500-14) = $144 Total = $872Aero Leds Suntail = $340 NS90 = $760/pair Total = $1100Difference = $228 This does not include or consider the higher cost and hassle and weight of strobe wiring or the increased reliability of the LEDs or the possibility of RF interference with the longer runs of strobe wires needed with the traditional system. It also assumes the LEDs are as bright or brighter than the traditional lights, which I cannot verify personally but have heard/read anecdotally they are very close. In my view, for a difference of $228 there is no reason not to use the LEDs. My initial error in the evaluation is probably due to me being new at this, but others may be in the same boat. Thought I’d post it for general consumption.</em></p>"
+          }
+        },
+        "caption_Lw7PKT": {
+          "type": "caption",
+          "settings": {
+            "caption": "Bryan Douglass",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": ["text_d6BR6P", "text_Tahxhk", "caption_Lw7PKT"],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "image_banner_YcPVWV",
+    "main",
+    "rich_text_G8ngPr",
+    "rich_text_gPKd7x",
+    "rich_text_BH4Bxg",
+    "rich_text_9BTjBG",
+    "rich_text_wBdkVG",
+    "rich_text_9i8gyT",
+    "rich_text_hCdfiQ",
+    "rich_text_GEGpUK",
+    "rich_text_tM6AGR",
+    "rich_text_c43Qkj",
+    "rich_text_BjiqnP",
+    "rich_text_43zggm"
+  ]
+}

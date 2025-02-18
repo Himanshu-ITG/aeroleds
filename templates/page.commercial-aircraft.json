@@ -1,0 +1,381 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_jQD9df": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-COMMERCIAL-AIRCRAFT-2025-HEADER-DESKTOP-1200x400.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "richtext_with_btn_iN4d6c": {
+      "type": "richtext-with-btn",
+      "blocks": {
+        "heading_c39c4K": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Enhanced Visibility. Unmatched Reliability.</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_GbNnwe": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>AeroLEDs' SunSpot® Series Landing and Taxi Lights</strong> are the ultimate lighting solution for commercial operators, providing superior illumination, efficiency, and durability for Boeing, Airbus, and Embraer aircraft. Designed for airlines and commuter fleets, SunSpot lights ensure maximum visibility and operational safety during taxi, takeoff, and landing operations.<br/></p>"
+          }
+        },
+        "border_iBD9HM": {
+          "type": "border",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_c39c4K",
+        "text_GbNnwe",
+        "border_iBD9HM"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "border_bottom": true,
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "richtext_with_btn_8RRNVD": {
+      "type": "richtext-with-btn",
+      "blocks": {
+        "single_button_RU83EH": {
+          "type": "single_button",
+          "settings": {
+            "single_button_label": "BUILT FOR PERFORMANCE IN COMMERCIAL AVIATION",
+            "single_btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "single_button_RU83EH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "border_bottom": false,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "support_multicolumn_gDatTy": {
+      "type": "support-multicolumn",
+      "blocks": {
+        "column_EQaHE3": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-COMMERCIAL-AIRCRAFT-Universal-Compatibility-ICON.svg",
+            "title": "UNIVERSAL COMPATIBILITY",
+            "text": "<p>SunSpot® lights are engineered to seamlessly integrate with Boeing, Airbus, and Embraer platforms, offering a perfect fit for both airlines and commuter operators.<br/></p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_xVqdRp": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-COMMERCIAL-AIRCRAFT-Dual-Power-Capability-ICON.svg",
+            "title": "DUAL POWER CAPABILITY",
+            "text": "<p>Operates on both VAC and VDC, providing flexibility across a wide range of aircraft systems.</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_Hg3qte": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-COMMERCIAL-AIRCRAFT-Unrivaled-Efficiency-ICON.svg",
+            "title": "UNRIVALED EFFICIENCY",
+            "text": "<p>SunSpot LEDs deliver brighter, clearer light with significantly lower power draw compared to legacy incandescent or halogen systems.</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_fXwahY": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-COMMERCIAL-AIRCRAFT-Extended-Lifespan-ICON.svg",
+            "title": "EXTENDED LIFESPAN",
+            "text": "<p>With an operational life exceeding 30,000 hours, SunSpot lights reduce maintenance costs and downtime, ensuring reliable performance during extended flight cycles.</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_BM4KLH": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-COMMERCIAL-AIRCRAFT-Superior-Illumination-ICON.svg",
+            "title": "SUPERIOR ILLUMINATION",
+            "text": "<p>The optimized beam pattern enhances visibility for pilots during critical phases of flight, improving safety in low-light conditions and adverse weather.</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EQaHE3",
+        "column_xVqdRp",
+        "column_Hg3qte",
+        "column_fXwahY",
+        "column_BM4KLH"
+      ],
+      "settings": {
+        "separator_line": true,
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "liquid_code": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 20
+      }
+    },
+    "richtext_with_btn_bjkrUx": {
+      "type": "richtext-with-btn",
+      "blocks": {
+        "single_button_4ixtHW": {
+          "type": "single_button",
+          "settings": {
+            "single_button_label": "WHY AIRLINES TRUST AEROLEDS SUNSPOT®",
+            "single_btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "single_button_4ixtHW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "border_bottom": false,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "support_multicolumn_J6zwzH": {
+      "type": "support-multicolumn",
+      "blocks": {
+        "column_TLPp6b": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-COMMERCIAL-AIRCRAFT-Increased-Safety-ICON.svg",
+            "title": "INCREASED SAFETY",
+            "text": "<p>Better runway illumination ensures precise taxi and landing operations.</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_JMLhbn": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-COMMERCIAL-AIRCRAFT-Reduced-Operating-Costs-ICON.svg",
+            "title": "REDUCED OPERATING COSTS",
+            "text": "<p>Lower power consumption and longer lifespan minimize total cost of ownership.</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_WtV69K": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-COMMERCIAL-AIRCRAFT-Rugged-and-Reliable-ICON.svg",
+            "title": "RUGGED & RELIABLE",
+            "text": "<p>Designed to withstand the demands of daily commercial operations with vibration-resistant, shockproof construction.</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TLPp6b",
+        "column_JMLhbn",
+        "column_WtV69K"
+      ],
+      "settings": {
+        "separator_line": true,
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "liquid_code": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_NJRMUR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6Hde3N": {
+          "type": "heading",
+          "settings": {
+            "heading": "Upgrade Your Fleet Today!",
+            "heading_size": "h2"
+          }
+        },
+        "text_PyiM9b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover how <strong>AeroLEDs' SunSpot® Landing & Taxi Lights</strong> can enhance your fleet's efficiency, reliability, and safety. AeroLEDs is committed to delivering cutting-edge lighting solutions that meet the rigorous demands of commercial aviation. <a href=\"/pages/contact-1\" title=\"Contact Us\">CONTACT US TODAY</a> to learn more or request a quote for your Boeing, Airbus, or Embraer fleet!</p>"
+          }
+        },
+        "text_aFKYy7": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Contact Us today to learn more and request special fleet pricing options:</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6Hde3N",
+        "text_PyiM9b",
+        "text_aFKYy7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 40
+      }
+    },
+    "support_multicolumn_qDKgXq": {
+      "type": "support-multicolumn",
+      "blocks": {
+        "column_867tYk": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Ryan-Edmark-PHOTO_a3ebb5fb-a86e-4c6e-999d-127587fc9907.png",
+            "title": "<strong>RYAN EDMARK</strong>",
+            "text": "<p>Director of Sales</p>",
+            "email": "<p><a href=\"mailto:ryan@AeroLEDs.com\" title=\"mailto:ryan@AeroLEDs.com\"><strong>ryan@AeroLEDs.com</strong></a></p>",
+            "number": "<p><a href=\"tel:+208-361-6635\" title=\"tel:+208-361-6635\"><strong>+208-361-6635</strong></a></p>",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_867tYk"
+      ],
+      "settings": {
+        "separator_line": false,
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "liquid_code": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_jQD9df",
+    "main",
+    "richtext_with_btn_iN4d6c",
+    "richtext_with_btn_8RRNVD",
+    "support_multicolumn_gDatTy",
+    "richtext_with_btn_bjkrUx",
+    "support_multicolumn_J6zwzH",
+    "rich_text_NJRMUR",
+    "support_multicolumn_qDKgXq"
+  ]
+}

@@ -1,0 +1,125 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "custom_image_with_text_cDCw6F": {
+      "type": "custom-image-with-text",
+      "blocks": {
+        "caption_Lh8Y8t": {
+          "type": "caption",
+          "settings": {
+            "caption": "\"GPS\" (GUY IN THE PINK SHIRT)",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "text_xRGqXz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gary Reeves of PilotSafety.org is the the Lead rep for the FAA Safety Team, and the 2019 FAA National Instructor of the Year with over 8,000 hours of teaching Single Pilot IFR. Widely known as the top expert in using GPS (or the pink line) for Single Pilot IFR, Gary has authored the book<a href=\"https://pilotsafety.org/book\" target=\"_blank\"> Single-Pilot IFR Pro Tips</a> to help pilots all over the world truly master their avionics for Single Pilot IFR.</p>",
+            "text_style": "body"
+          }
+        },
+        "social_media_fDGhBb": {
+          "type": "social_media",
+          "settings": {
+            "facebook": "https://www.facebook.com/PilotSafety.org",
+            "youtube": "https://www.youtube.com/channel/UC-OwXLMyQHFH79GWtv2Zctw",
+            "instagram": "https://www.instagram.com/pilotsafetyorg/?hl=en",
+            "link": "https://pilotsafety.org/home"
+          }
+        }
+      },
+      "block_order": [
+        "caption_Lh8Y8t",
+        "text_xRGqXz",
+        "social_media_fDGhBb"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Screen-Shot-2021-04-04-at-9.49.44-PM-9781792366246_a90093cb-1e2c-4713-b824-6c430172d066.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 52
+      }
+    },
+    "custom_rich_text_8XrLzK": {
+      "type": "custom-rich-text",
+      "blocks": {
+        "video_popup_button_Xgeiy8": {
+          "type": "video_popup_button",
+          "settings": {
+            "button_label": "See Gary's Featured Video",
+            "video_url": "https://www.youtube.com/watch?v=HKNpKNpzmZY"
+          }
+        }
+      },
+      "block_order": [
+        "video_popup_button_Xgeiy8"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_xRh9td": {
+      "type": "rich-text",
+      "blocks": {
+        "button_yzFHx4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Back to Partners",
+            "button_link": "shopify://pages/partners",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_yzFHx4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_image_with_text_cDCw6F",
+    "custom_rich_text_8XrLzK",
+    "rich_text_xRh9td"
+  ]
+}

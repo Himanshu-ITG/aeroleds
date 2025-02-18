@@ -1,0 +1,605 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Our offices will be closed on Monday, February 17th, for Presidents' Day. Orders placed during this time will be processed on Tuesday, February 18th.",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "top_bar_e7DTn4": {
+      "type": "top-bar",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "logo-align": "right",
+        "logo_first": "shopify://shop_images/Horiz_Aero_Whelen_blk-bkgrnd-330_2.png",
+        "logo_first_link": "/",
+        "logo_second": "shopify://shop_images/TepvQERRXP6oTqzR7ssW98nSBM.png",
+        "logo_second_link": "https://flywat.com/"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "block_Uebftx": {
+          "type": "block",
+          "settings": {
+            "link-title": "Info",
+            "promo_image": "shopify://shop_images/AeroLEDs-LOGO-GREY.svg",
+            "hover_image": "shopify://shop_images/AeroLEDs-LOGO-CLR.svg",
+            "subtitle": "ABOUT AeroLEDs",
+            "link": "shopify://pages/about-us"
+          }
+        },
+        "block_49fEcU": {
+          "type": "block",
+          "settings": {
+            "link-title": "Info",
+            "promo_image": "shopify://shop_images/WAT-MEGA-MENU-INFO-CATALOGS-GREY.svg",
+            "hover_image": "shopify://shop_images/WAT-MEGA-MENU-INFO-CATALOGS-CLR.svg",
+            "subtitle": "CATALOGS",
+            "link": "shopify://pages/product-catalogs"
+          }
+        },
+        "block_YPXh6y": {
+          "type": "block",
+          "settings": {
+            "link-title": "Info",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-INFO-VIDEOS-GREY.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-INFO-VIDEOS-CLR.png",
+            "subtitle": "Videos",
+            "link": "shopify://pages/video-gallery"
+          }
+        },
+        "block_qpMUFr": {
+          "type": "block",
+          "settings": {
+            "link-title": "Info",
+            "promo_image": "shopify://shop_images/WAT-MEGA-MENU-INFO-SPONSORSHIPS-GREY_fa2a7d31-58f2-45b1-a7ef-9651a5394a92.svg",
+            "hover_image": "shopify://shop_images/WAT-MEGA-MENU-INFO-SPONSORSHIPS-CLR.svg",
+            "subtitle": "SPONSORSHIPS",
+            "link": "shopify://pages/partners"
+          }
+        },
+        "block_BRx3KB": {
+          "type": "block",
+          "settings": {
+            "link-title": "Info",
+            "promo_image": "shopify://shop_images/WAT-MEGA-MENU-INFO-WARRANTIES-TRADEMARKS-GREY.svg",
+            "hover_image": "shopify://shop_images/WAT-MEGA-MENU-INFO-WARRANTIES-TRADEMARKS-CLR.svg",
+            "subtitle": "WARRANTIES & TRADEMARKS",
+            "link": "shopify://pages/warranties-trademarks"
+          }
+        },
+        "block_gdFXCx": {
+          "type": "block",
+          "settings": {
+            "link-title": "Landing | Taxi | Recognition",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-SUNSPOT-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-SUNSPOT-CLR.png",
+            "subtitle": "Sunspot Series",
+            "link": "shopify://collections/sunspot-series"
+          }
+        },
+        "block_YiL3R6": {
+          "type": "block",
+          "settings": {
+            "link-title": "Landing | Taxi | Recognition",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-AEROSUN-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-AEROSUN-CLR.png",
+            "subtitle": "Aerosun Series",
+            "link": "shopify://collections/aerosun-series"
+          }
+        },
+        "block_UVxJj8": {
+          "type": "block",
+          "settings": {
+            "link-title": "Landing | Taxi | Recognition",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-SUNBEAM-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-SUNBEAM-CLR.png",
+            "subtitle": "Sunbeam",
+            "link": "shopify://products/sunbeam-led-landing-light"
+          }
+        },
+        "block_qU6tfg": {
+          "type": "block",
+          "settings": {
+            "link-title": "Landing | Taxi | Recognition",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-MICROSUN-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-SUNRAY-EVO-III-CLR.png",
+            "subtitle": "Microsun",
+            "link": "shopify://products/microsun-led-taxi-recognition-light"
+          }
+        },
+        "block_dnMh7J": {
+          "type": "block",
+          "settings": {
+            "link-title": "Landing | Taxi | Recognition",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-SUNRAY-EVO-III-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-SUNRAY-EVO-III-CLR_972d579b-000b-4863-b018-11a31e6fbca9.png",
+            "subtitle": "Sunray Evo iii",
+            "link": "shopify://products/sunray-evo-iii-led-landing-recognition-light"
+          }
+        },
+        "block_B4JXEW": {
+          "type": "block",
+          "settings": {
+            "link-title": "Wingtip & Tail Lights",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-PULSAR-SERIES-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-PULSAR-SERIES-CLR_d543c48c-0336-4164-b0f1-d0bbf9408227.png",
+            "subtitle": "Pulsar Series",
+            "link": "shopify://collections/pulsar-series"
+          }
+        },
+        "block_qAFWUA": {
+          "type": "block",
+          "settings": {
+            "link-title": "Wingtip & Tail Lights",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-SUNTAIL-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-SUNTAIL-CLR.png",
+            "subtitle": "Suntail",
+            "link": "shopify://collections/suntail"
+          }
+        },
+        "block_8wiqTF": {
+          "type": "block",
+          "settings": {
+            "link-title": "Wingtip & Tail Lights",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-POLARIS-BW_1.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-LANDING-TAXI-RECOGNITION-POLARIS-CLR_2.png",
+            "subtitle": "Polaris",
+            "link": "shopify://products/polaris-led-position-light-bulb"
+          }
+        },
+        "block_qF7bLk": {
+          "type": "block",
+          "settings": {
+            "link-title": "Beacons",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-BEACONS-SUNBEACON-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-BEACONS-SUNBEACON-CLR.png",
+            "subtitle": "Sunbeacon",
+            "link": "shopify://products/sunbeacon-ii-led-beacon"
+          }
+        },
+        "block_NnB6Gb": {
+          "type": "block",
+          "settings": {
+            "link-title": "Ice Lights",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-ICE-LIGHTS-STARLIGHT-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-ICE-LIGHTS-STARLIGHT-CLR.png",
+            "subtitle": "Starlight",
+            "link": "shopify://products/starlight-led-wing-inspection-light"
+          }
+        },
+        "block_nx366L": {
+          "type": "block",
+          "settings": {
+            "link-title": "Accessories",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-ACCESSORIES-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-ACCESSORIES-CLR.png",
+            "subtitle": "View All",
+            "link": "shopify://collections/accessories"
+          }
+        },
+        "block_KBwR9B": {
+          "type": "block",
+          "settings": {
+            "link-title": "FAA STC Documents",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-STC-AUTHORIZATION-LETTER-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-STC-AUTHORIZATION-LETTER-CLR.png",
+            "subtitle": "STC AUTHORIZATION LETTER",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-STC-Authorizaton-letter_SA02386AK_SR02704SE_SA04837NY_REV-B.pdf?v=1733847911"
+          }
+        },
+        "block_BURWEB": {
+          "type": "block",
+          "settings": {
+            "link-title": "FAA STC Documents",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Part-23-SunSpot-Series-STC-AML-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Part-23-SunSpot-Series-STC-AML-CLR.png",
+            "subtitle": "PART 23 - SUNSPOT SERIES STC/ML (SA02386AK)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/STC-AML-SA02386AK-3-30-21.pdf?v=1733848390"
+          }
+        },
+        "block_AFVak4": {
+          "type": "block",
+          "settings": {
+            "link-title": "FAA STC Documents",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Part-23-NAV-POSITION-BEACON-STROBE-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Part-23-NAV-POSITION-BEACON-STROBE-CLR.png",
+            "subtitle": "PART 23 - NAV, POSITION, BEACON STROBE (SA04837NY)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-23-STC-AML-SA04837NY.pdf?v=1733848885"
+          }
+        },
+        "block_VeK8pr": {
+          "type": "block",
+          "settings": {
+            "link-title": "FAA STC Documents",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Part-25-SunSpot-Series-STC-AML-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Part-25-SunSpot-Series-STC-AML-CLR.png",
+            "subtitle": "PART 25 - SUNSPOT SERIES STC/ML (ST01936WI)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-25-STC-AML-ST01936WI-2.pdf?v=1733848960"
+          }
+        },
+        "block_dCEKV8": {
+          "type": "block",
+          "settings": {
+            "link-title": "FAA STC Documents",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Part-27-SunSpot-Series-STC-AML-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Part-27-SunSpot-Series-STC-AML-CLR.png",
+            "subtitle": "PART 27 - SUNSPOT SERIES STC/AML (SR02704SE)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-27-STC-AML-SR02704SE.pdf?v=1733849025"
+          }
+        },
+        "block_GaRabL": {
+          "type": "block",
+          "settings": {
+            "link-title": "FAA STC Documents",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Part-29-SunSpot-Series-STC-AML-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Part-29-SunSpot-Series-STC-AML-CLR.png",
+            "subtitle": "PART 29 - SUNSPOT SERIES STC/AML (SR07272SE)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SR07272SE-AML-Signed.pdf?v=1733849103"
+          }
+        },
+        "block_4ppmwa": {
+          "type": "block",
+          "settings": {
+            "link-title": "FAA STC Documents",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Pilatus-PC12-STC-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-FAA-STC-DOCUMENTS-Pilatus-PC12-STC-CLR.png",
+            "subtitle": "PILATUS PC12 STC (SA02558)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SA02558SE-Pilatus-STC-Page-1.pdf?v=1733849180"
+          }
+        },
+        "block_Hw48wP": {
+          "type": "block",
+          "settings": {
+            "link-title": "Brazilian STC's",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-23-EASA-STC-SunSpot-Series-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-23-EASA-STC-SunSpot-Series-CLR.png",
+            "subtitle": "Formulario F-400-01G (STC number SA02386AK) Part 23 SunSpot",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ANAC-STC_2016S12_04_Part-23.pdf?v=1733850071"
+          }
+        },
+        "block_G9iFiR": {
+          "type": "block",
+          "settings": {
+            "link-title": "Brazilian STC's",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-27-EASA-STC-SunSpot-Series-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-27-EASA-STC-SunSpot-Series-BW_3acfd725-1d5b-4cc8-8392-fb8a74aec739.png",
+            "subtitle": "Formulario F-400-01G (STC number SR02704SE) Part 27 SunSpot",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ANAC-STC_2022S05-03_Part-27.pdf?v=1733850180"
+          }
+        },
+        "block_T7EjPm": {
+          "type": "block",
+          "settings": {
+            "link-title": "Canadian STC's",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-Canadian-STCS-Part-23-SunSpot-Series-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-Canadian-STCS-Part-23-SunSpot-Series-CLR.png",
+            "subtitle": "TRANSPORT CANADA SA22-9 (REF: SA02386A) SUNPOT LANDING TAXI LIGHTS",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SA22-09-REV2-WITH-TCCA-AML-signed-1.pdf?v=1733850227"
+          }
+        },
+        "block_aAzFdi": {
+          "type": "block",
+          "settings": {
+            "link-title": "Easa STC's",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-23-EASA-STC-SunSpot-Series-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-23-EASA-STC-SunSpot-Series-CLR.png",
+            "subtitle": "STC 10070175 (ref: SA02386AK part 23) SunSpot",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10070175_CERT_REV_0_20190613.pdf?v=1733849619"
+          }
+        },
+        "block_Tac9W6": {
+          "type": "block",
+          "settings": {
+            "link-title": "Easa STC's",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-23-NAV-POSITION-BEACON-STROBE-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-23-NAV-POSITION-BEACON-STROBE-CLR.png",
+            "subtitle": "STC 10085098 (ref: SA04837NY part 23) Nav, Strobe, Position, Beacon",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-23-EASA-STC-AML.pdf?v=1733849760"
+          }
+        },
+        "block_6yL3nb": {
+          "type": "block",
+          "settings": {
+            "link-title": "Easa STC's",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-27-EASA-STC-SunSpot-Series-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-27-EASA-STC-SunSpot-Series-BW_3acfd725-1d5b-4cc8-8392-fb8a74aec739.png",
+            "subtitle": "STC 10076166 (ref: SR02704SE part 27) SunSpot",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10076166_CERT_REV_0_20210415-FLE-2.pdf?v=1733849912"
+          }
+        },
+        "block_mfLiMk": {
+          "type": "block",
+          "settings": {
+            "link-title": "Easa STC's",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-25-EASA-STC-SunSpot-Series-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-EASA-STC-Part-25-EASA-STC-SunSpot-Series-CLR.png",
+            "subtitle": "STC 10085653 (ref: ST01936WI part 25) SunSpot",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10085653_CERT_REV_0_20241023.pdf?v=1733850014"
+          }
+        },
+        "block_6pqNzQ": {
+          "type": "block",
+          "settings": {
+            "link-title": "System Recommendations",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-System-Rec-LANDING-TAXI-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-System-Rec-LANDING-TAXI-CLR.png",
+            "subtitle": "Landing & Taxi Lights",
+            "link": "shopify://pages/landing-taxi-lights"
+          }
+        },
+        "block_cxFqwn": {
+          "type": "block",
+          "settings": {
+            "link-title": "System Recommendations",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-System-Rec-WINGTIP-LIGHTS-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-System-Rec-WINGTIP-LIGHTS-CLR.png",
+            "subtitle": "Wingtip Lights",
+            "link": "shopify://pages/wingtip-lights"
+          }
+        },
+        "block_HUHJPq": {
+          "type": "block",
+          "settings": {
+            "link-title": "System Recommendations",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-System-Rec-TAIL-LIGHTS-BW_1.png",
+            "hover_image": "shopify://shop_images/11-1260-Suntail_2.png",
+            "subtitle": "Tail Lights",
+            "link": "shopify://pages/tail-lights"
+          }
+        },
+        "block_TPMD89": {
+          "type": "block",
+          "settings": {
+            "link-title": "System Recommendations",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-System-Rec-BEACON-LIGHTS-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-System-Rec-BEACON-LIGHTS-CLR.png",
+            "subtitle": "Beacon Lights",
+            "link": "shopify://pages/beacons"
+          }
+        },
+        "block_n7GwbN": {
+          "type": "block",
+          "settings": {
+            "link-title": "System Recommendations",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-System-Rec-RESELLER-STC-KITS-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-System-Rec-RESELLER-STC-KITS-CLR.png",
+            "subtitle": "Reseller STC's",
+            "link": "https://www.steneaviation.com/pages/quasar-cx"
+          }
+        },
+        "block_Jyb9hU": {
+          "type": "block",
+          "settings": {
+            "link-title": "Installation Guides | PMA Documents",
+            "promo_image": "shopify://shop_images/a.jpg",
+            "hover_image": "shopify://shop_images/b.jpg",
+            "subtitle": "Install Guides",
+            "link": "shopify://pages/installation-guides"
+          }
+        },
+        "block_UhK76j": {
+          "type": "block",
+          "settings": {
+            "link-title": "Installation Guides | PMA Documents",
+            "promo_image": "shopify://shop_images/c.jpg",
+            "hover_image": "shopify://shop_images/d.jpg",
+            "subtitle": "PMA Supplements",
+            "link": "shopify://pages/pma-supplements"
+          }
+        },
+        "block_amF4RL": {
+          "type": "block",
+          "settings": {
+            "link-title": "Installation Guides | PMA Documents",
+            "promo_image": "shopify://shop_images/e.jpg",
+            "hover_image": "shopify://shop_images/f.jpg",
+            "subtitle": "STC Documents",
+            "link": "shopify://pages/stc-documents"
+          }
+        },
+        "block_yeqFHp": {
+          "type": "block",
+          "settings": {
+            "link-title": "Installation Guides | PMA Documents",
+            "promo_image": "shopify://shop_images/g.jpg",
+            "hover_image": "shopify://shop_images/h.jpg",
+            "subtitle": "Instructions for Continued Airworthiness (ICA)",
+            "link": "shopify://pages/instruction-for-continued"
+          }
+        },
+        "block_9CpJnP": {
+          "type": "block",
+          "settings": {
+            "link-title": "Installation Guides | PMA Documents",
+            "promo_image": "shopify://shop_images/i.jpg",
+            "hover_image": "shopify://shop_images/j.jpg",
+            "subtitle": "TSO Approvals",
+            "link": "shopify://pages/tso-approvals"
+          }
+        },
+        "block_Tt9qzp": {
+          "type": "block",
+          "settings": {
+            "link-title": "Jet & turboprop led kits",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-BOEING-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-BOEING-CLR.png",
+            "subtitle": "Boeing | AirBus | Commercial Airliners",
+            "link": "shopify://pages/sunspot™-landing-taxi-lights-for-commercial-aircraft"
+          }
+        },
+        "block_VmHtiX": {
+          "type": "block",
+          "settings": {
+            "link-title": "Jet & turboprop led kits",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-BOMBARDIER-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-BOMBARDIER-CLR.png",
+            "subtitle": "Bombardier",
+            "link": "shopify://collections/bombardier-led-light-kits"
+          }
+        },
+        "block_XLWDGB": {
+          "type": "block",
+          "settings": {
+            "link-title": "Jet & turboprop led kits",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-DASSAULT-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-DASSAULT-CLR.png",
+            "subtitle": "Dassualt",
+            "link": "shopify://products/falcon-50-900-2000-7x-8x-parmetheus™-g3-led-landing-taxi-light-kits"
+          }
+        },
+        "block_8KXGVQ": {
+          "type": "block",
+          "settings": {
+            "link-title": "Jet & turboprop led Kits",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-GULFSTREAM-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-GULFSTREAM-CLR.png",
+            "subtitle": "Gulfstream",
+            "link": "shopify://collections/gulfstream-led-light-kits"
+          }
+        },
+        "block_DVQKtn": {
+          "type": "block",
+          "settings": {
+            "link-title": "Jet & turboprop led kits",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-PILATUS-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-PILATUS-CLR.png",
+            "subtitle": "Pilatus",
+            "link": "shopify://products/pilatus-led-landing-taxi-light-kit-sunspot-pcx"
+          }
+        },
+        "block_piM3AW": {
+          "type": "block",
+          "settings": {
+            "link-title": "Jet & turboprop led Kits",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-TEXTRON-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-PRODUCTS-JET-TURBOPROP-LED-KITS-TEXTRON-CLR.png",
+            "subtitle": "Textron",
+            "link": "shopify://collections/textron-led-lighting-kits"
+          }
+        },
+        "block_d3N8hX": {
+          "type": "block",
+          "settings": {
+            "link-title": "Product Registration",
+            "promo_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-Brazilian-STC-AUTHORIZATION-LETTER-BW.png",
+            "hover_image": "shopify://shop_images/AeroLEDs-MEGA-MENU-DOCUMENTS-Brazilian-STC-AUTHORIZATION-LETTER-CLR.png",
+            "subtitle": "Product Registration",
+            "link": "shopify://pages/product-registration"
+          }
+        },
+        "menu_z7dUFr": {
+          "type": "menu",
+          "settings": {
+            "link-sub-title": "System Recommendations",
+            "s-title": "Cross Reference List",
+            "menu_list": "cross-reference-list"
+          }
+        }
+      },
+      "block_order": [
+        "block_Uebftx",
+        "block_49fEcU",
+        "block_YPXh6y",
+        "block_qpMUFr",
+        "block_BRx3KB",
+        "block_gdFXCx",
+        "block_YiL3R6",
+        "block_UVxJj8",
+        "block_qU6tfg",
+        "block_dnMh7J",
+        "block_B4JXEW",
+        "block_qAFWUA",
+        "block_8wiqTF",
+        "block_qF7bLk",
+        "block_NnB6Gb",
+        "block_nx366L",
+        "block_KBwR9B",
+        "block_BURWEB",
+        "block_AFVak4",
+        "block_VeK8pr",
+        "block_dCEKV8",
+        "block_GaRabL",
+        "block_4ppmwa",
+        "block_Hw48wP",
+        "block_G9iFiR",
+        "block_T7EjPm",
+        "block_aAzFdi",
+        "block_Tac9W6",
+        "block_6yL3nb",
+        "block_mfLiMk",
+        "block_6pqNzQ",
+        "block_cxFqwn",
+        "block_HUHJPq",
+        "block_TPMD89",
+        "block_n7GwbN",
+        "block_Jyb9hU",
+        "block_UhK76j",
+        "block_amF4RL",
+        "block_yeqFHp",
+        "block_9CpJnP",
+        "block_Tt9qzp",
+        "block_VmHtiX",
+        "block_XLWDGB",
+        "block_8KXGVQ",
+        "block_DVQKtn",
+        "block_piM3AW",
+        "block_d3N8hX",
+        "menu_z7dUFr"
+      ],
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "main-menu-1",
+        "menu_type_desktop": "mega",
+        "sticky_header_type": "on-scroll-up",
+        "transparent_header": true,
+        "show_line_separator": true,
+        "color_scheme": "scheme-a92bf190-e130-4edb-b56a-c25a02bbcc4e",
+        "menu_color_scheme": "scheme-1",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "enable_customer_avatar": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "top_bar_e7DTn4",
+    "header"
+  ]
+}

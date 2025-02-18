@@ -1,0 +1,192 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_APj4qq": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Untitled-1000-x-660-px-2000-x-1200-px-4-e1652402053602.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_yhNawz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cERJdb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Facility",
+            "heading_size": "h1"
+          }
+        },
+        "text_rzi4tD": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>AeroLEDs™ has established itself as the industry pioneer and leader of LED-based aircraft lighting. Year after year we continue to dominate the Aerospace lighting market from our “Brick & Mortar” manufacturing plant here in Boise, Idaho – USA.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cERJdb",
+        "text_rzi4tD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "our_image_block_VhJRNT": {
+      "type": "our-image-block",
+      "blocks": {
+        "blocks_6W7eHi": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/1.jpg"
+          }
+        },
+        "blocks_jCCyDR": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/2.jpg"
+          }
+        },
+        "blocks_k3kERh": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/3.jpg"
+          }
+        },
+        "blocks_C8EJiH": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/4.jpg"
+          }
+        },
+        "blocks_tynYGR": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/5.jpg"
+          }
+        },
+        "blocks_3dG7Rd": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/6.jpg"
+          }
+        },
+        "blocks_LYKPBR": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/7.jpg"
+          }
+        },
+        "blocks_YeAhr4": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/8.jpg"
+          }
+        },
+        "blocks_neJCrq": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/9.jpg"
+          }
+        },
+        "blocks_HEec4y": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/10.jpg"
+          }
+        },
+        "blocks_bVq7hU": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/11.jpg"
+          }
+        },
+        "blocks_AVaJdz": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/12.jpg"
+          }
+        },
+        "blocks_whT7BT": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/13.jpg"
+          }
+        },
+        "blocks_ixHp49": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/14.jpg"
+          }
+        },
+        "blocks_F8ULkp": {
+          "type": "blocks",
+          "settings": {
+            "image": "shopify://shop_images/15.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "blocks_6W7eHi",
+        "blocks_jCCyDR",
+        "blocks_k3kERh",
+        "blocks_C8EJiH",
+        "blocks_tynYGR",
+        "blocks_3dG7Rd",
+        "blocks_LYKPBR",
+        "blocks_YeAhr4",
+        "blocks_neJCrq",
+        "blocks_HEec4y",
+        "blocks_bVq7hU",
+        "blocks_AVaJdz",
+        "blocks_whT7BT",
+        "blocks_ixHp49",
+        "blocks_F8ULkp"
+      ],
+      "settings": {
+        "heading": "",
+        "content": "<p>Operating under the highest standard of quality, our manufacturing facility has been audited by the U.S. Federal Aviation Administration (FAA) and has been issued a Parts Manufacturing Approval (PMA # PQ5259NM). The PMA designation authorizes our facility to produce and sell approved FAA-PMA LED lighting products directly to aircraft operators and aircraft parts distributors.  </p>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_APj4qq",
+    "rich_text_yhNawz",
+    "our_image_block_VhJRNT"
+  ]
+}

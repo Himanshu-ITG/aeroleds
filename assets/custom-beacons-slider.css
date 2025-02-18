@@ -1,0 +1,1678 @@
+.itg-landing-taxi-lights .custom-landing .led_inline {
+  min-height: 150px;
+}
+.itg-landing-taxi-lights .custom-landing .led_grid-img {
+  min-height: 100px;
+}
+.itg-wingtip-lights .led_content {
+  justify-content: unset;
+  min-height: 480px;
+}
+.itg-beacons a.space_grid {
+  padding-top: 10px;
+  display: block;
+}
+.itg-beacons .approvedcontent {
+  border-top: 0;
+}
+.itg-landing-taxi-lights .item-ledContent .label_led label {
+  width: 25px;
+  min-height: 25px;
+}
+.itg-landing-taxi-lights .partNumbercontent span {
+  margin-left: 10px;
+  position: relative;
+  font-family: Gotham Book;
+}
+.itg-landing-taxi-lights .partNumbercontent span:after {
+  position: absolute;
+  content: "";
+  left: -12px;
+  top: 6px;
+  width: 6px;
+  min-height: 6px;
+  background-color: #ffd500;
+  border-radius: 50%;
+  display: block;
+}
+.itg-beacons .rich-text__text h2,
+.itg-beacons .led_content h3,
+.itg-beacons .led_content h4,
+.itg-beacons .led_content h5,
+.itg-beacons .led_content h6 {
+  font-size: unset;
+  font-family: Gotham Bold;
+  text-transform: capitalize;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  padding-top: 0;
+  margin-left: 0;
+}
+.custom-landing .multicolumn__title h3 {
+  margin-top: 0;
+  margin-bottom: 1px;
+}
+.custom-landing .multicolumn__title .inline-richtext, 
+.heading_titlecontent h3 {
+  font-size: 18px;
+}
+.rte.led-choose-rte .heading_titlecontent {
+    flex-direction: column;
+}
+.custom-landing .main_title-led .rte h2 {
+  font-size: 34px;
+  text-align: center;
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  margin-top: 0;
+  margin-bottom: 3rem;
+  line-height: 1.4em;
+  padding-bottom: 3px;
+}
+.custom-landing .main_title-led .rte h1:after,
+.custom-landing .main_title-led .rte h2:after {
+  content: "";
+  position: absolute;
+  min-height: 3px;
+  width: 100px;
+  background: #ffd500;
+  top: auto;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%);
+}
+.custom-landing .custom_title-text .rte h1,
+.custom-landing .custom_title-text .rte h2 {
+  font-size: 34px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  margin: 0;
+  line-height: 1.4em;
+  position: relative;
+}
+.custom-landing .custom_title-text .rte {
+  position: relative;
+  padding-bottom: 10px;
+}
+.custom-landing .custom_title-text .rte:after {
+  content: "";
+  position: absolute;
+  min-height: 3px;
+  width: 100px;
+  background: #ffd500;
+  top: auto;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%);
+}
+.custom-landing .custom_title-text .rte p {
+  margin: 0;
+  font-size: 18px;
+}
+.custom_title-text {
+  padding-top: 80px;
+}
+.custom_grid-led {
+  width: 80%;
+  margin: 0 auto;
+  justify-content: center;
+  padding-top: 30px;
+  border-bottom: 2px solid #88888875;
+}
+.grid_custom {
+  display: flex;
+  flex-wrap: wrap;
+  /* width: 80%;
+    margin: 0 auto; */
+  justify-content: center;
+}
+.led_item {
+  max-width: max-content;
+  padding: 0px 60px;
+  border-right: 2px solid #88888875;
+  margin-top: 60px;
+}
+/* .led_item:last-child {
+    border-right: 0;
+} */
+.led_inline h3 {
+  font-size: 28px;
+  margin: 0;
+}
+.led_inline p {
+  margin: 0;
+}
+.led_grid-img {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.led_series {
+  width: 150px;
+  position: relative;
+}
+.led_series span {
+  /* position: absolute;
+  top: 2px;
+  right: 28px; */
+  font-family: Gotham Black;
+  font-size: 18px;
+  font-style: italic;
+}
+.led_par {
+  width: 50px;
+}
+.led_heading {
+  min-height: 40px;
+  margin: 20px 0px;
+}
+.led_heading h4 {
+  background: #000;
+  padding: 9px;
+  color: #ffd500;
+  text-align: center;
+  margin: 0px;
+  font-size: 17px;
+  clip-path: polygon(var(--p) 100%, calc(100% - var(--p)) 100%, 100% 0, 0 0);
+  width: 100%;
+  --p: 25px;
+  min-height: 40px;
+}
+.led_main-img {
+  width: 300px;
+  margin: 0 auto;
+}
+.led_content {
+  text-align: center;
+  padding: 50px 0px;
+  min-height: 315px;
+}
+.led_content h5 {
+  font-size: 16px;
+  margin: 0;
+}
+.led_content p {
+  margin: 0;
+  letter-spacing: 0;
+}
+.led_content hr {
+  margin: 2rem 0;
+}
+.custom-landing .button.btn-custom {
+  background-color: #ffd500;
+  color: #000;
+}
+.led_item {
+  display: none;
+}
+.led-tab img {
+    filter: grayscale(100%);
+    cursor: pointer;
+}
+.led-tab.active img {
+    filter: grayscale(0%);
+}
+.rte.led-choose-rte.active {
+    display: block;
+}
+.rte.led-choose-rte {
+    display: none;
+}
+
+/* template-seo-landing-taxi-lights start */
+.multicolumn__title.custom_title-text {
+  display: none;
+}
+.multicolumn__title.custom_title-text:first-child {
+  display: block;
+}
+.for_small_screen {
+  display: none;
+}
+
+.itg-landing-taxi-lights .custom_grid-led,
+.itg-tail-lights .custom_grid-led {
+  align-items: baseline;
+}
+
+.itg-landing-taxi-lights .led_main-img img {
+  max-height: 100%;
+}
+
+.itg-landing-taxi-lights
+  .custom_grid-led
+  .item_led:first-child
+  img.main_img {
+  max-height: 193px;
+  min-height: -webkit-fill-available;
+  margin-top: 4rem;
+}
+
+.itg-landing-taxi-lights .led_main-img {
+  margin: 0 auto;
+  text-align: center;
+}
+.item-img-led {
+  position: relative;
+  /* padding-bottom: 45%!important; */
+}
+/*  template-seo-tail-lights start */
+
+.itg-tail-lights .led_content {
+  /* margin-top: 50px; */
+  min-height: 420px;
+  margin-bottom: 50px;
+  justify-content: flex-start;
+}
+.itg-landing-taxi-lights .led_content {
+  min-height: 360px;
+  margin-bottom: 50px;
+  justify-content: flex-start;
+}
+.itg-landing-taxi-lights .heading_titlecontent {
+  min-height: 70px;
+  padding-bottom: 15px;
+}
+.itg-tail-lights .grid_custom {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 80%;
+  margin: 0 auto;
+}
+.itg-tail-lights .led_item {
+  max-width: 33.33%;
+  width: 33.33%;
+  padding: 0 35px;
+  border-right: 2px solid #88888875;
+  margin-top: 60px;
+  position: relative;
+}
+.approvedcontent {
+  border-bottom: 2px solid #33333333;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  padding-top: 15px;
+  border-top: 2px solid #33333333;
+}
+.itg-wingtip-lights .approvedcontent {
+  border-top: 2px solid #33333333;
+}
+.itg-landing-taxi-lights
+  .led-1[data-title="landing-lights-par-36"]
+  .heading_titlecontent,
+.itg-landing-taxi-lights
+  .led-3[data-title="taxi-lights-par-36"]
+  .heading_titlecontent,
+.itg-landing-taxi-lights
+  .led-5[data-title="landing-lights-par-46"]
+  .heading_titlecontent {
+  border-bottom: 2px solid #33333333;
+}
+.itg-beacons .heading_titlecontent {
+  min-height: 25px;
+  margin: 15px 0px;
+}
+h5.space_grid {
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+/* .itg-tail-lights .led_button {
+    position: absolute;
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+     
+} */
+
+.itg-tail-lights .led_main-img {
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  /* max-height: 100px; */
+}
+.itg-tail-lights .led_content h6 {
+  color: black;
+}
+
+.itg-tail-lights .led_content .custom_clr_for_tem {
+  color: #ffd500;
+}
+
+.itg-tail-lights .custom_grid-led .item_led:first-child .item-img-led {
+  padding-bottom: 50.20438% !important;
+}
+
+.itg-tail-lights
+  .custom_grid-led
+  .item_led:nth-child(2)
+  .item-img-led {
+  padding-bottom: 65.45977% !important;
+}
+/* .itg-tail-lights .led_item.led-2,.itg-tail-lights .led_item.led-4 {
+    border: 0;
+} */
+.template-full-width-support .banner_land {
+  background: #fff;
+}
+.template-full-width-support
+  .banner_land
+  .banner:not(.banner--mobile-bottom):not(.email-signup-banner)
+  .banner__box {
+  background: #fff;
+}
+
+/* template-seo-wingtip-lights  start */
+.itg-wingtip-lights .led_item {
+  width: 25%;
+  max-width: 25%;
+  padding: 0 35px;
+}
+
+.itg-wingtip-lights .led_series span {
+  top: 0px;
+  right: 18px;
+}
+
+.itg-wingtip-lights .led_series {
+  padding-bottom: 10px;
+}
+.itg-wingtip-lights .led_grid-img {
+  border-bottom: 2px solid #ffd500;
+  margin-bottom: 45px;
+}
+/* .itg-landing-taxi-lights
+  .for_big_screen
+  .led_item:first-child
+  .led_grid-img {
+  border-bottom: 0;
+  padding-bottom: 0;
+} */
+.itg-landing-taxi-lights .approvedcontent {
+  border-top: 0;
+}
+.itg-landing-taxi-lights .led_grid-img {
+  border-bottom: 2px solid #ffd500;
+  padding-bottom: 45px;
+}
+.itg-tail-lights .led_grid-img,
+.itg-beacons .led_grid-img {
+  border-bottom: 2px solid #ffd500;
+}
+.itg-tail-lights .led_series,
+.itg-beacons .led_series {
+  padding-bottom: 10px;
+}
+/* .itg-wingtip-lights .led_main-img {
+    width: unset;
+    margin: 0 auto;
+} */
+.itg-wingtip-lights .led_content {
+  text-align: center;
+  padding: 50px 0;
+  min-height: 480px;
+}
+
+.itg-wingtip-lights .led_heading {
+  min-height: unset;
+  margin: 0;
+}
+
+.itg-wingtip-lights .led_main-img {
+  width: 230px;
+  margin: 0 auto;
+  max-height: 200px;
+  min-height: 100%;
+  text-align: center;
+}
+.itg-wingtip-lights .led_content .heading_titlecontent {
+  min-height: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border-bottom: 2px solid #33333333; */
+  padding-bottom: 15px;
+}
+.itg-wingtip-lights .banner_landing .media,
+.itg-beacons .banner_landing .media,
+.itg-tail-lights .banner_landing .media {
+  background-color: #fff;
+}
+
+.itg-wingtip-lights .item-ledContent {
+  justify-content: right;
+}
+
+.itg-wingtip-lights .item_text p {
+  display: none;
+}
+
+/* .itg-wingtip-lights .led_content p:first-child {
+    min-height: 80px;
+    flex-wrap: wrap;
+} */
+
+.itg-beacons .led_main-img {
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.itg-beacons .item-ledContent {
+  gap: 20px;
+  flex-direction: column-reverse;
+}
+
+/* .itg-tail-lights .led_main-img {
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
+} */
+.itg-beacons .item-ledContent h3 {
+  margin-bottom: 0;
+}
+
+.itg-tail-lights .item-ledContent {
+  flex-direction: column;
+  gap: 0;
+}
+.itg-beacons .grid_custom {
+  max-width: 80%;
+  margin: 0 auto;
+}
+/* .itg-tail-lights .led_button {
+    position: absolute;
+    top: 93%;
+    left: 17%;
+
+   } */
+.itg-beacons .led_item[data-title="2-1-2-diameter-base"] .led_content {
+  min-height: 520px;
+  justify-content: flex-start;
+  padding-top: 0;
+}
+.itg-beacons .led_item[data-title="3-3-4-diameter-base"] .led_content {
+  min-height: 660px;
+  justify-content: flex-start;
+  padding-top: 0;
+}
+.itg-beacons .heading_subcontent {
+  min-height: 100px;
+  border-bottom: 2px solid #33333333;
+  padding-bottom: 16px;
+}
+.itg-tail-lights .heading_titlecontent {
+  border-bottom: 2px solid #33333333;
+  padding-bottom: 15px;
+  min-height: 55px;
+}
+/* .itg-wingtip-lights .approvedcontent {
+    border-bottom: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+} */
+
+.beacons_slider .item_led {
+  width: calc(50% - 4px);
+  border-right: 2px solid #88888875;
+  margin-bottom: 30px;
+  padding: 0 15px;
+}
+.itg-beacons .custom_grid-led .item_led:last-child,
+.mobile_show .item_led:last-child {
+  border-right: none;
+}
+/* .beacons_slider .main_img-slide .item-img-led {
+    padding-bottom: 10.4037% !important;
+} */
+.beacons_slider .main_slider-flex {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.beacons_slider .thumnil_slider .item-img-led img {
+  /* width: 90px !important;
+    min-height: 90px; */
+  margin: 0 auto;
+}
+.itg-beacons .beacons_slider .item-img-led {
+  min-height: 100%;
+}
+.beacons_slider .media_led img,
+.itg-tail-lights .item-img-led img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100%;
+  object-fit: contain;
+}
+.beacons_slider .thumnil_slider .slick-list.draggable {
+  max-width: 390px;
+  margin: 0 auto;
+}
+.beacons_slider .thumnil_slider .item-img-led {
+  padding-bottom: 0 !important;
+  min-height: 90px;
+
+  /* margin-left: 10px;
+    margin-right: 10px; */
+}
+/* .beacons_slider .thumnil_slider .slick-track {
+    display: flex;
+    justify-content: center;
+} */
+.beacons_slider .slick-arrow svg {
+  stroke: #000;
+  width: 35px !important;
+  min-height: 35px !important;
+}
+.beacons_slider .slick-next {
+  right: 50px;
+  z-index: 1;
+}
+.beacons_slider .slick-prev {
+  left: 50px;
+  z-index: 1;
+}
+.itg-beacons .item-ledContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 25px;
+}
+.beacons_slider p,
+.custom-landing p {
+  margin: 0;
+  line-height: 1.4em;
+}
+.itg-tail-lights .label_led {
+  margin: 15px 0;
+}
+.itg-beacons .led_item:first-child {
+  border-left: 0;
+}
+.itg-beacons .led_series img,
+.led_par img {
+  width: 100%;
+  vertical-align: middle;
+}
+.itg-beacons .led_series {
+  padding-bottom: 0;
+}
+.itg-beacons .led_grid-img {
+  align-items: end;
+  padding-bottom: 20px;
+}
+.itg-beacons .led_inline {
+  padding-bottom: 10px;
+}
+.itg-beacons .led_par {
+  width: 50px;
+  display: flex;
+  flex-direction: row;
+}
+.itg-beacons .custom-landing .grid_custom .led_item:nth-child(1),
+.itg-wingtip-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(1),
+.itg-wingtip-lights
+  .for_big_screen
+  .led_item[data-title="landing-lights-par-46"]:nth-child(8),
+.itg-tail-lights .custom-landing .grid_custom .led_item:nth-child(1),
+.itg-landing-taxi-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(1) {
+  border-left: 0;
+}
+.itg-beacons .custom-landing .grid_custom .led_item:nth-child(3),
+.itg-beacons .custom-landing .grid_custom .led_item:nth-child(4),
+.itg-beacons .custom-landing .grid_custom .led_item:nth-child(7),
+.itg-wingtip-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(3),
+.itg-wingtip-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(6),
+.itg-wingtip-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(7),
+.itg-wingtip-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(12),
+.itg-wingtip-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(14),
+.itg-wingtip-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(9),
+.itg-tail-lights .custom-landing .grid_custom .led_item:nth-child(3),
+.itg-tail-lights .custom-landing .grid_custom .led_item:nth-child(4),
+.itg-tail-lights .custom-landing .grid_custom .led_item:nth-child(8),
+.itg-tail-lights .custom-landing .grid_custom .led_item:nth-child(7),
+.itg-landing-taxi-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(3),
+.itg-landing-taxi-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(5),
+.itg-landing-taxi-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(10),
+.itg-landing-taxi-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(8),
+.itg-landing-taxi-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(13),
+.itg-landing-taxi-lights
+  .custom-landing
+  .grid_custom
+  .led_item:nth-child(15) {
+  border-right: 0;
+}
+.itg-wingtip-lights .grid_custom,
+.itg-tail-lights .grid_custom {
+  justify-content: flex-start;
+}
+.itg-beacons .custom-landing .grid_custom .led_item:last-child {
+  border-right: 0;
+}
+.itg-beacons .custom-landing .grid_custom {
+  justify-content: flex-start;
+}
+.itg-beacons .custom-landing .grid_custom .rte {
+  letter-spacing: 0;
+}
+.itg-wingtip-lights .item_led,
+.itg-tail-lights .item_led {
+  width: calc(33.33% - 8px);
+  /* border-right: 2px solid #88888875; */
+  margin-bottom: 30px;
+  padding: 0 15px;
+  padding-bottom: 15px;
+}
+
+.itg-wingtip-lights .item-img-led img,
+.itg-landing-taxi-lights .item-img-led img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100%;
+  object-fit: contain;
+}
+.itg-landing-taxi-lights .item-img-led, .itg-wingtip-lights .item-img-led {
+    position: relative;
+    height: 200px;
+}
+.itg-wingtip-lights .grid_custom {
+  width: 80%;
+  margin: 0 auto;
+}
+.itg-wingtip-lights .led_item {
+  width: 33.33%;
+  max-width: 33.33%;
+}
+.itg-wingtip-lights .item-img-led img,
+.itg-beacons .item-img-led img {
+  /* min-height: 100%; */
+  transition: unset;
+  filter: unset;
+}
+.itg-wingtip-lights .item-img-led .hover_img,
+.itg-tail-lights .item-img-led .hover_img,
+.itg-landing-taxi-lights .item-img-led .hover_img {
+  display: none;
+}
+.itg-wingtip-lights .led_main-img.bottom-img,
+.itg-tail-lights .led_main-img.bottom-img {
+  margin-top: 30px;
+}
+.itg-tail-lights .led_main-img {
+  min-height: 200px;
+}
+.itg-landing-taxi-lights .item_led {
+  width: calc(25% - 8px);
+}
+.itg-landing-taxi-lights .led_series img {
+  width: 100%;
+  vertical-align: middle;
+}
+.itg-landing-taxi-lights .led_image-par {
+  display: flex;
+  gap: 15px;
+}
+.itg-landing-taxi-lights .grid_custom {
+  width: 80%;
+  margin: 0 auto;
+}
+.itg-landing-taxi-lights .for_big_screen.grid_custom .led_item {
+  width: 33.33%;
+  max-width: 33.33%;
+  padding: 0 30px;
+}
+.itg-landing-taxi-lights .item_text {
+  width: 100%;
+}
+.custom_grid-led .item_led:nth-child(4) {
+  border-left: 2px solid #88888875;
+}
+.itg-landing-taxi-lights .item-ledContent .item_text p {
+  font-weight: unset;
+  font-size: 15px;
+}
+.itg-landing-taxi-lights .item-ledContent {
+  gap: 8px;
+  margin-top: 20px;
+}
+.itg-landing-taxi-lights
+  .custom_grid-led
+  .item_led:first-child
+  img.main_img,
+.itg-landing-taxi-lights
+  .custom_grid-led
+  .item_led:first-child
+  img.hover_img {
+  max-height: 175px;
+  min-height: 175px;
+  margin-top: 2rem;
+}
+.itg-landing-taxi-lights
+  .custom_grid-led
+  .item_led:first-child
+  .item-img-led {
+  padding-bottom: 33.589744% !important;
+}
+/* .itg-landing-taxi-lights .grid_custom {
+  justify-content: flex-start;
+} */
+@media only screen and (max-width: 1300px) {
+  .itg-beacons .custom-landing .grid_custom {
+    max-width: 100%;
+    justify-content: start;
+  }
+  .itg-wingtip-lights .led_content .rte {
+    min-height: 100%;
+  }
+  .itg-landing-taxi-lights .grid_custom {
+    width: 100%;
+    margin: 0;
+  }
+  .led_inline h3 {
+    font-size: 25px;
+}
+}
+@media screen and (min-width: 750px) {
+  .image-with-text--overlap .image-with-text__content {
+    width: calc(100% + 3rem) !important;
+    min-width: calc(100% + 3rem) !important;
+  }
+
+  /* itg-beacons  start */
+
+  .itg-beacons .custom_grid-led {
+    align-items: baseline;
+  }
+
+  .itg-beacons .led_item {
+    width: 33.33%;
+    max-width: 33.33%;
+    padding: 0px 35px;
+  }
+
+  .led_item .led_content h4 {
+    /* text-decoration: underline; */
+    border-bottom: 2px solid #00000030;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .itg-tail-lights .led_button {
+    left: 25%;
+  }
+  /* .itg-tail-lights .led_main-img {
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
+} */
+  .itg-beacons .led_content {
+    min-height: 656px;
+  }
+
+  .itg-beacons .custom_grid-led {
+    width: 100%;
+  }
+  .itg-beacons .led_main-img {
+    width: auto;
+    text-align: center;
+    /* margin: 0 auto; */
+  }
+  .itg-wingtip-lights .led_item {
+    padding: 0 15px;
+  }
+  .itg-landing-taxi-lights .label_led {
+    width: 32px;
+  }
+
+  .itg-landing-taxi-lights .custom_grid-led {
+    width: 100%;
+  }
+  .itg-landing-taxi-lights .item-ledContent {
+    gap: 15px;
+  }
+
+  .itg-tail-lights .custom_grid-led {
+    width: 100%;
+  }
+  .itg-tail-lights .grid_custom,
+  .itg-beacons .grid_custom {
+    max-width: 100%;
+    justify-content: start;
+  }
+  .itg-landing-taxi-lights .led_item {
+    width: 50%;
+  }
+  .itg-wingtip-lights .led_main-img,
+  .itg-tail-lights .led_main-img,
+  .itg-landing-taxi-lights .led_main-img {
+    width: 175px;
+    max-height: 130px;
+  }
+  .led_button .button.btn-custom {
+    font-size: 15px;
+    min-height: 50px;
+    padding: 15px 15px;
+  }
+  .led_button span.plus_icon svg {
+    width: 19px !important;
+    min-height: 20px !important;
+  }
+  .itg-tail-lights .led_item {
+    padding: 0 15px;
+  }
+  .itg-beacons .led_item[data-title="3-3-4-diameter-base"] .led_content {
+    min-height: 800px;
+  }
+  .itg-landing-taxi-lights
+    .custom_grid-led
+    .item_led:first-child
+    img.main_img,
+  .itg-landing-taxi-lights
+    .custom_grid-led
+    .item_led:first-child
+    img.hover_img {
+    max-height: 180px;
+    min-height: 180px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .itg-wingtip-lights .grid_custom,
+  .itg-landing-taxi-lights .grid_custom {
+    width: 100%;
+    margin: unset;
+  }
+  .itg-beacons .custom-landing .grid_custom .led_item:nth-child(6) {
+    border-right: 0;
+  }
+  .itg-tail-lights
+    .custom_grid-led
+    .item_led:first-child
+    .item-img-led {
+    padding-bottom: 35.20438% !important;
+  }
+  .itg-beacons .led_item {
+    width: 50%;
+    max-width: 50%;
+  }
+  .custom_grid-led {
+    width: 100%;
+  }
+  .itg-beacons .led_item[data-title="3-3-4-diameter-base"] .led_content {
+    min-height: 660px;
+  }
+  .itg-landing-taxi-lights
+    .custom_grid-led
+    .item_led:first-child
+    img.main_img,
+  .itg-landing-taxi-lights
+    .custom_grid-led
+    .item_led:first-child
+    img.hover_img {
+    max-height: 175px;
+    min-height: 175px;
+    margin-top: 2rem;
+  }
+
+  .itg-beacons .custom-landing .grid_custom .led_item:nth-child(2),
+  .itg-tail-lights .custom-landing .grid_custom .led_item:nth-child(2),
+  .itg-tail-lights .custom-landing .grid_custom .led_item:nth-child(6),
+  .itg-landing-taxi-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(2),
+  .itg-landing-taxi-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(4),
+  .itg-landing-taxi-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(7),
+  .itg-landing-taxi-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(9),
+  .itg-landing-taxi-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(12) {
+    border-right: 0;
+  }
+  .itg-beacons .custom-landing .grid_custom .led_item:nth-child(3),
+  .itg-tail-lights .custom-landing .grid_custom .led_item:nth-child(3),
+  .itg-tail-lights .custom-landing .grid_custom .led_item:nth-child(7),
+  .itg-landing-taxi-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(3),
+  .itg-landing-taxi-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(8) {
+    border-right: 2px solid #88888875;
+  }
+  .itg-landing-taxi-lights .for_big_screen.grid_custom .led_item {
+    width: 50%;
+    max-width: 50%;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .itg-wingtip-lights .led_item,
+  .itg-tail-lights .led_item {
+    width: 50%;
+    max-width: 50%;
+  }
+  /* .itg-wingtip-lights
+    .for_big_screen
+    .led_item[data-title="landing-lights-par-36"]:nth-child(3),
+  .itg-tail-lights
+    .for_big_screen
+    .led_item[data-title="horizontal-mount"]:nth-child(3),
+  .itg-tail-lights
+    .for_big_screen
+    .led_item[data-title="vertical-mount"]:nth-child(6) {
+    border-left: 2px solid #88888875;
+  } */
+  .itg-beacons .custom-landing .for_big_screen .led_item:nth-child(3) {
+    border-left: 0 !important;
+  }
+  .itg-wingtip-lights
+    .for_big_screen
+    .led_item[data-title="taxi-lights-par-36"]:nth-child(7) {
+    border-left: 2px solid #88888875;
+  }
+  /* .itg-beacons
+    .beacons_slider
+    .led_item[data-title="3-3-4-diameter-base"]:nth-child(3),
+  .itg-beacons
+    .beacons_slider
+    .led_item[data-title="2-1-2-diameter-base"]:nth-child(4),
+  .itg-beacons
+    .beacons_slider
+    .led_item[data-title="2-1-2-diameter-base"]:nth-child(6) {
+    border-left: 2px solid #88888875;
+  } */
+  .custom_support h3.inline-richtext {
+    font-size: 20px;
+  }
+  .itg-wingtip-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(2),
+  .itg-wingtip-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(4),
+  .itg-wingtip-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(11),
+  .itg-wingtip-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(13) {
+    border-right: 0;
+  }
+  .itg-wingtip-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(3),
+  .itg-wingtip-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(12) {
+    border-right: 2px solid #88888875;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .itg-wingtip-lights .item-img-led {
+    padding-bottom: 40% !important;
+  }
+  .itg-tail-lights .grid_custom {
+    justify-content: center;
+  }
+  .itg-wingtip-lights .led_content {
+    padding: 40px 0;
+    min-height: auto;
+  }
+  .itg-tail-lights .led_item {
+    width: 100%;
+    max-width: 100%;
+  }
+  .itg-wingtip-lights .for_big_screen {
+    display: none !important;
+  }
+  .itg-beacons .led_item {
+    width: 100%;
+    max-width: 100%;
+  }
+  .multicolumn__title.for_big_screen.custom_title-text {
+    display: none !important;
+  }
+  .itg-wingtip-lights .custom_grid-led {
+    width: 100%;
+  }
+  .itg-wingtip-lights .banner_land .media,
+  .itg-beacons .banner_land .media,
+  .itg-tail-lights .banner_land .media {
+    background-color: #fff;
+  }
+  .itg-wingtip-lights .led_item {
+    width: 100%;
+    max-width: 100%;
+    padding-bottom: 40px;
+    min-height: 100%;
+  }
+  .itg-landing-taxi-lights .label_led {
+    width: 25px;
+  }
+  .itg-tail-lights .led_item {
+    /* max-width: max-content; */
+    width: 100%;
+  }
+
+  .itg-tail-lights .led_content {
+    text-align: center;
+    padding: 50px 0;
+    min-height: 320px;
+  }
+  .itg-tail-lights .led_button {
+    position: unset;
+    bottom: unset;
+  }
+  .itg-tail-lights .led_item {
+    padding: 0 15px 40px;
+    border-left: 0;
+    border-right: 0;
+  }
+  .itg-landing-taxi-lights
+    .custom_grid-led
+    .item_led:first-child
+    img.main_img,
+  .itg-landing-taxi-lights
+    .custom_grid-led
+    .item_led:first-child
+    img.hover_img {
+    margin-top: 2rem;
+  }
+  .led_inline h3 {
+    font-size: 22px;
+  }
+  .led_series span {
+    font-size: 15px;
+  }
+  .led_series {
+    width: 130px;
+  }
+  .led_par {
+    width: 35px;
+  }
+  .led_heading {
+    min-height: 30px;
+    margin: 15px 0;
+  }
+  .led_heading h4 {
+    padding: 6px;
+    font-size: 13px;
+    min-height: 30px;
+  }
+  .led_content hr {
+    margin: 1.5rem 0;
+  }
+  .led_content {
+    padding: 40px 0;
+    min-height: 270px;
+  }
+  .custom_title-text {
+    padding-top: 40px;
+  }
+  .custom-landing .custom_title-text .rte h2 {
+    font-size: 24px;
+  }
+  .custom-landing .custom_title-text .rte p {
+    font-size: 16px;
+  }
+  .led_item {
+    padding: 0px 15px;
+    margin-top: 50px;
+    width: 50%;
+    max-width: 50%;
+  }
+  .itg-landing-taxi-lights .for_small_screen .led_main-img {
+    width: 250px;
+    min-height: 240px;
+  }
+  .custom-landing .main_title-led .rte h2 {
+    font-size: 24px;
+  }
+  .item-ledContent {
+    gap: 15px;
+    margin-top: 20px;
+  }
+  .label_led > input[type="radio"]:checked + label:after {
+    min-height: 10px;
+    width: 6px;
+    top: 3px;
+    left: 7px;
+  }
+  .label_led {
+    width: 22px;
+    min-height: 22px;
+    line-height: 22px;
+  }
+  .custom_grid-led {
+    padding-top: 10px;
+  }
+  .led_grid-img {
+    margin-top: 10px;
+  }
+  .itg-wingtip-lights .item-ledContent {
+    justify-content: center;
+  }
+  .beacons_slider .item_led {
+    width: 100%;
+    border-right: 0;
+    margin-bottom: 30px;
+    padding: 0 0 20px;
+    border-bottom: 2px solid #88888875;
+  }
+  .itg-wingtip-lights .item_led {
+    width: 100%;
+  }
+  .itg-wingtip-lights .grid_custom {
+    width: 100%;
+    margin: unset;
+  }
+}
+
+.for_big_screen .led_item:first-child,
+.itg-landing-taxi-lights
+  .for_big_screen
+  .led_item[data-title="taxi-lights-par-36"]:nth-child(3),
+.itg-landing-taxi-lights
+  .for_big_screen
+  .led_item[data-title="landing-lights-par-46"]:nth-child(5),
+.itg-wingtip-lights
+  .for_big_screen
+  .led_item[data-title="taxi-lights-par-36"]:nth-child(5),
+.itg-tail-lights
+  .for_big_screen
+  .led_item[data-title="vertical-mount"]:nth-child(4) {
+  border-left: 2px solid #88888875;
+}
+.led_grid-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100%;
+}
+.led_main-img {
+  min-height: 240px;
+}
+.led_content {
+  min-height: 340px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+/* .itg-beacons .led_heading {
+    min-height: auto;
+    margin: 0;
+    display: none;
+} */
+.itg-tail-lights .led_item[data-title="vertical-mount"] .led_content {
+  min-height: 315px;
+}
+.itg-tail-lights
+  .led_item[data-title="vertical-mount"]
+  .led_main-img
+  img {
+  /* transform: rotate(108deg); */
+}
+.itg-tail-lights .led_content a {
+  text-decoration: none;
+  font-family: "Gotham Bold";
+  font-size: 13px;
+  letter-spacing: 0px;
+}
+.itg-beacons .led_content a {
+  text-decoration: none;
+  font-family: "Gotham Bold";
+  font-size: 15px;
+  letter-spacing: 0px;
+}
+.itg-tail-lights .led_content a:hover,
+.itg-beacons .led_content a:hover {
+  color: #ffd500 !important ;
+}
+.itg-tail-lights h6 {
+  font-size: 13px;
+}
+.itg-wingtip-lights
+  .led_item.led-5[data-title="taxi-lights-par-36"]
+  .heading_titlecontent
+  strong {
+  color: red;
+}
+.beacons_slider img.main_img {
+  display: block !important;
+}
+.beacons_slider img.hover_img {
+  display: none !important;
+}
+.beacons_slider .active-slide .slick-current img.main_img {
+  display: none !important;
+}
+.beacons_slider .active-slide .slick-current img.hover_img {
+  display: block !important;
+}
+.itg-landing-taxi-lights
+  .column_image:nth-child(1)
+  .column-main-image {
+  /* width: 70%; */
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  min-height: 100%;
+  flex-wrap: wrap;
+}
+#col-main .header_html {
+  display: none;
+}
+.mobile_show {
+  display: none;
+}
+.beacons_slider .media_led {
+  position: relative;
+  padding-bottom: 40% !important;
+}
+.swym-ui-component .swym-wishlist-grid .swym-wishlist-item .swym-title {
+  overflow: visible !important;
+  white-space: normal !important;
+}
+.swym-ui-component .swym-wishlist-detail-header .swym-wishlist-main-title {
+  letter-spacing: 0 !important;
+  font-family: "Gotham Bold" !important;
+}
+.swym-ui-component .swym-wishlist-grid .swym-wishlist-item {
+  border: none !important;
+}
+.swym-ui-component .swym-wishlist-grid li {
+  border: 1px solid #33333363 !important;
+}
+.swym-ui-component .swym-wishlist-grid .swym-wishlist-item .swym-title {
+  font-size: 14px !important;
+}
+.swym-ui-component .swym-wishlist-grid li {
+  margin: initial !important;
+}
+
+.swym-ui-component .swym-wishlist-grid {
+  justify-content: center !important;
+  gap: 20px !important;
+}
+.swym-ui-component .swym-empty-wishlist-container .swym-empty-wishlist-title {
+  font-size: 20px !important;
+  font-family: "Gotham Bold" !important;
+}
+.led_main-img img {
+  max-width: 100%;
+}
+.led-choose-light {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 25px 0;
+}
+.certified_img {
+    width: 150px;
+    position: relative;
+}
+.certified_img img, .experimental_img img {
+    width: 100%;
+    display: block;
+    height: 20px;
+    object-fit: contain;
+}
+.experimental_img {
+    width: 150px;
+}
+.certified_img:after {
+    position: absolute;
+    content: "";
+    border-right: 1px solid #3333;
+    width: 10px;
+    height: 50px;
+    right: -8px;
+    top: -15px;
+    bottom: auto;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 750px) {
+  .itg-landing-taxi-lights .led_content {
+    min-height: auto;
+  }
+  .itg-landing-taxi-lights .led_series span {
+    position: absolute;
+  }
+  .for_small_screen,
+  .itg-tail-lights .for_small_screen,
+  .for_big_screen,
+  .itg-tail-lights .for_big_screen,
+  .multicolumn__title.custom_title-text:first-child .for_big_screen {
+    display: none;
+  }
+  .multicolumn__title.for_big_screen.custom_title-text {
+    display: none;
+  }
+  .itg-landing-taxi-lights .led_item {
+    width: 100%;
+  }
+  .itg-tail-lights .led_content {
+    min-height: auto;
+    margin-bottom: 0;
+  }
+  .itg-landing-taxi-lights
+    .custom_grid-led
+    .item_led:first-child
+    img.main_img,
+  .itg-landing-taxi-lights
+    .custom_grid-led
+    .item_led:first-child
+    img..itg-landing-taxi-lights
+    .custom_grid-led
+    .item_led:first-child
+    img.hover_img {
+    max-height: unset;
+  }
+  .item_led {
+    width: 100%;
+    border-right: 0;
+    margin-bottom: 30px;
+    padding: 0;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #88888875;
+  }
+  .custom_grid-led {
+    border-bottom: 0;
+  }
+  .led_item {
+    padding: 0 15px;
+    margin-top: 40px;
+    padding-bottom: 40px;
+    max-width: 100%;
+    width: 100%;
+    border-right: 0;
+    margin-top: 30px;
+    border-bottom: 2px solid #88888875;
+  }
+  .led_content {
+    min-height: auto;
+  }
+  .item_led:last-child {
+    margin-bottom: 0;
+  }
+  .led_item:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+  }
+  .itg-tail-lights .led_item .led_content {
+    min-height: auto;
+  }
+  .itg-beacons .led_content,
+  .itg-beacons .led_item[data-title="2-1-2-diameter-base"] .led_content,
+  .itg-tail-lights .heading_titlecontent,
+  .itg-tail-lights
+    .led_item[data-title="vertical-mount"]
+    .led_content {
+    min-height: auto;
+  }
+  .itg-landing-taxi-lights .heading_titlecontent,
+  .itg-wingtip-lights .led_content .heading_titlecontent,
+  .itg-beacons .led_item[data-title="3-3-4-diameter-base"] .led_content {
+    min-height: auto;
+  }
+  .itg-beacons .item-img-led {
+    padding-bottom: 45% !important;
+  }
+  .led_main-img,
+  .itg-landing-taxi-lights .heading_titlecontent {
+    min-height: auto;
+  }
+  .itg-wingtip-lights .led_grid-img,
+  .itg-tail-lights .led_grid-img,
+  .itg-beacons .led_grid-img {
+    justify-content: center;
+  }
+  .desktop_img_d {
+    display: none;
+  }
+  .mobile_show {
+    display: flex !important;
+  }
+  .mobile_show .for_small_screen {
+    display: block !important;
+  }
+  .beacons_slider .main_slider-flex {
+    display: block;
+  }
+  .beacons_slider .item_led {
+    width: 100%;
+  }
+  .beacons_slider .main_img-slide .item-img-led {
+    padding-bottom: 0 !important;
+  }
+  .thumnil_slider {
+    margin-top: 30px;
+  }
+  .beacons_slider .slick-prev {
+    left: 0px;
+  }
+  .beacons_slider .slick-next {
+    right: 0px;
+  }
+  .item_led[data-index="3-3-4-diameter-base"] {
+    order: 0;
+  }
+  .custom_h[data-index="3-3-4-diameter-base"] {
+    order: 1;
+  }
+  .led_item.led-5 {
+    order: 2;
+  }
+  .led_item.led-6 {
+    order: 3;
+  }
+  .led_item.led-7 {
+    order: 4;
+  }
+  .led_item.led-8 {
+    order: 5;
+  }
+  .item_led[data-index="2-1-2-diameter-base"] {
+    order: 6;
+  }
+  .custom_h[data-index="2-1-2-diameter-base"] {
+    order: 7;
+  }
+  .led_item.led-9 {
+    order: 8;
+  }
+  .led_item.led-10 {
+    order: 9;
+  }
+  .led_item.led-11 {
+    order: 10;
+  }
+  .led_item.led-12 {
+    order: 11;
+  }
+  .mobile_show .custom_title-text {
+    padding-top: 0px;
+    padding-bottom: 30px;
+  }
+  .mobile_show .led_item {
+    margin-top: 20px;
+  }
+  .itg-landing-taxi-lights
+    .column_image:nth-child(1)
+    .column-main-image
+    img {
+    /* max-width: 170px; */
+  }
+  .itg-landing-taxi-lights
+    .column_image:nth-child(1)
+    .column-main-image {
+    justify-content: center;
+  }
+  .item_led[data-index="2-1-2-diameter-base"] {
+    margin-top: 30px;
+  }
+  .itg-beacons .led_grid-img {
+    justify-content: space-between;
+  }
+  .itg-wingtip-lights .led_grid-img {
+    justify-content: space-between;
+  }
+  .itg-wingtip-lights .custom_grid-led .item_led:nth-child(3) {
+    border-left: 0;
+  }
+  .itg-wingtip-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(3),
+  .itg-wingtip-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(12),
+  .itg-tail-lights .custom-landing .grid_custom .led_item:nth-child(3),
+  .itg-tail-lights .custom-landing .grid_custom .led_item:nth-child(7),
+  .itg-landing-taxi-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(8),
+  .itg-landing-taxi-lights
+    .custom-landing
+    .grid_custom
+    .led_item:nth-child(3) {
+    border-right: 0;
+  }
+  .itg-wingtip-lights .item_led {
+    padding: 0;
+  }
+  .itg-wingtip-lights .item-ledContent {
+    padding-bottom: 15px;
+  }
+  .itg-tail-lights .item_led {
+    width: 100%;
+    padding: 0;
+  }
+  .itg-tail-lights .led_grid-img {
+    justify-content: space-between;
+  }
+  .itg-landing-taxi-lights .item_led {
+    width: 100%;
+  }
+  .itg-landing-taxi-lights .led_inline {
+    text-align: left;
+  }
+  .itg-landing-taxi-lights .item_text {
+    width: unset;
+  }
+  .itg-landing-taxi-lights .led_grid-img {
+    padding-bottom: 20px;
+  }
+  .itg-landing-taxi-lights .led_item:first-child .led_grid-img {
+    border-bottom: 0;
+  }
+  .itg-landing-taxi-lights .led_content {
+    margin-bottom: 0px;
+  }
+  .itg-landing-taxi-lights .custom_grid-led .item_led:nth-child(3),
+  .itg-landing-taxi-lights .custom_grid-led .item_led:nth-child(4),
+  .itg-landing-taxi-lights .custom_grid-led .item_led:nth-child(4) {
+    border-left: 0;
+  }
+
+  .itg-landing-taxi-lights .landing-image-banner .main_image img,
+  .itg-landing-taxi-lights
+    .landing-image-banner
+    .column_image_wrapper.row
+    .column-main-image
+    img {
+    max-width: 200px;
+  }
+  .itg-landing-taxi-lights .landing-image-banner .banner__box {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .itg-wingtip-lights .led_main-img {
+    min-height: auto;
+}
+  .certified_img img, .experimental_img img {
+    object-fit: contain;
+}
+  .led-choose-light {
+    justify-content: center;
+}
+  .beacons_slider .thumnil_slider .item-img-led {
+    margin: 0 5px;
+}
+}

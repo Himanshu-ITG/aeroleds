@@ -1,0 +1,1003 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_ggtQcc": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/IMG_7642-scaled.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "product_images_blocks_6YVajc": {
+      "type": "product-images-blocks",
+      "blocks": {
+        "content_f7c8yb": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/FAA-STC-Approved-Model-List-AML-LOGO.png",
+            "text": ""
+          }
+        },
+        "content_A4Qp3n": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/EASA.png",
+            "text": ""
+          }
+        },
+        "content_giHYXW": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Transport-Canada-LOGO.png",
+            "text": ""
+          }
+        },
+        "content_m8U6M7": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/ANAC-STC-LOGO.png",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "content_f7c8yb",
+        "content_A4Qp3n",
+        "content_giHYXW",
+        "content_m8U6M7"
+      ],
+      "settings": {
+        "heading": "",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "border_bottom": false
+      }
+    },
+    "multicolumn_HVDJqq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_j6PxeF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 1 - Sunspot 36 Aviat Husky",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-1-Sunspot-36-Aviat-Husky_92622d3c-f1c6-48e8-991c-6034f2aa71c0.pdf?v=1735041132"
+          }
+        },
+        "column_MbHVxU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 2 - SunSpot 36HX/LX and 36LX Cessna 185",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-2-Sunspot-36HX-and-36LX-Cessna-185_65d015a6-1a40-41dd-bb75-af621aeb5d91.pdf?v=1735041186"
+          }
+        },
+        "column_TL9jkQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 3 - SunSpot36-H-A-P Enstrom 480B, Sunspot46HX Air Tractor, Sunspot 64 DC-3",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-3-SunSpot36-H-A-P-Enstrom-480B-Sunspot46HX-Air-Tractor-Sunspot-64-DC-3_00b1814a-3b71-4765-b4b3-af904847fd42.pdf?v=1735041247"
+          }
+        },
+        "column_UYaLEr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 4 - SunSpot 36 and 46",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-Ammended-PMA-Supplement-4_1a9c9bb4-ed21-418f-9797-fa761b8252d5.pdf?v=1735041305"
+          }
+        },
+        "column_yW6fed": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 5 - Sunbeam Air Tractor",
+            "link": ""
+          }
+        },
+        "column_ibKj9E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 6 - Sunspot 36-4596 and Sunspot 36-4587 Cessna 300 and 400 series",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-5-Sunbeam-Air-Tractor_dce93baa-2359-4eb1-b971-0b0820b6e287.pdf?v=1735041362"
+          }
+        },
+        "column_NxjYxQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 7 - Sunspot 36HX/LX, Sunspot 46HX/LX, Aerostar, Beechcraft (Textron), Cessna (Textron), Commander, Maule, Mooney, Socata, Twin Commander, True Flight (Grumman)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-7-Sunspot-36HX-and-LX-Sunspot-46HX-and-LX-Aerostar-Beechcraft-Textron-Cessna-Textron-Commander-Maule-Mooney-Socata-Twin-Commander-True-Flight-Grumman_1bb57372-7a65-4cd8-9129-2d1eb3e52c96.pdf?v=1735041459"
+          }
+        },
+        "column_YEcYaX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 8 - AeroSun Cx (Quasar Cx)",
+            "link": ""
+          }
+        },
+        "column_x9YcX8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 9",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-9-PC12_c83339a4-2439-44b7-a515-ed04d4488052.pdf?v=1735041711"
+          }
+        },
+        "column_iDWjVC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 10 - StarLight",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-10-Logo-Light-Starlight_b005ae31-1a54-44de-8ad1-a05324abd2be.pdf?v=1735041791"
+          }
+        },
+        "column_7XtrLR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 11",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-11-AML_MDL-STC_SA02386AK_0b06beb0-2594-4e97-8b0d-b7c151c47859.pdf?v=1735041855"
+          }
+        },
+        "column_jJdb8p": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 12",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-12-Nextant_6b357684-0171-48d5-9665-ab9d44e43877.pdf?v=1735041925"
+          }
+        },
+        "column_c4nmKz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 15 - Polaris Bulb",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-15-Polaris-Bulb_f258215d-a53c-4b92-ad95-be20ba8aee90.pdf?v=1735041987"
+          }
+        },
+        "column_QQb7rR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 16 - Polaris Bulb",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-16-Polaris-Bulb_4613c5e7-55b0-4212-8584-5daa2abdbf37.pdf?v=1735042053"
+          }
+        },
+        "column_yYRmGm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 17 - Polaris Bulb",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-17-Polaris-Bulb.pdf?v=1735042140"
+          }
+        },
+        "column_pe3hWh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 18 - Part 27 Rotorcraft  (PAR36/PAR46)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-18_8f55cb68-4a17-4924-b277-4958c642901b.pdf?v=1735042201"
+          }
+        },
+        "column_mXRwHF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 19 - Part 23 STC SA02386AK",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-19-Part-23-SA02386AK_b911115d-f0b5-47ea-bb70-ea2661773bcf.pdf?v=1735042310"
+          }
+        },
+        "column_JeAhqB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 20 - Part 25 Transportation Category Aircraft",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-20-Part-25_ba2afdb1-4b92-4a3b-ab2c-8d14e6846178.pdf?v=1735042378"
+          }
+        },
+        "column_FpNEhm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 21 – Polaris Bulb",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Supplement-21-Polaris-Bulb_5eec12b8-cf34-4539-a247-a77a93df3c60.pdf?v=1735042458"
+          }
+        },
+        "column_cXwYf8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 22 - Part 29 Sikorsky Landing and Taxi Lights",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Supplement-22-Sikorsky-Landing-and-Taxi-Lights_67148b3d-a815-47c5-ad51-7cb3a6ce6c0b.pdf?v=1735042531"
+          }
+        },
+        "column_J7CkRJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 23 – Polaris Bulb",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-23-Polaris-Bulb_4e005f53-16d5-4327-ab83-d1090a3c157a.pdf?v=1735042598"
+          }
+        },
+        "column_jNhptA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 24 - Starlight Ice Light - Part 23 Category Aircraft",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-24_47b2dc17-dfaf-4bd4-9033-9575da464405.pdf?v=1735042665"
+          }
+        },
+        "column_hPXxYJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 25 - Starlight Ice Light - Part 25 Category Aircraft",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-25_099ef2a0-a3fa-4c9e-94ca-26e764c40d89.pdf?v=1735042721"
+          }
+        },
+        "column_PteC3B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "PMA Supplement 26 - Part 23 NAV, STROBE, POSITION, BEACON Lights - Part 23 Category Aircraft",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-27_11ad2022-23c0-4e76-9f81-b87122fcfa49.pdf?v=1735042774"
+          }
+        }
+      },
+      "block_order": [
+        "column_j6PxeF",
+        "column_MbHVxU",
+        "column_TL9jkQ",
+        "column_UYaLEr",
+        "column_yW6fed",
+        "column_ibKj9E",
+        "column_NxjYxQ",
+        "column_YEcYaX",
+        "column_x9YcX8",
+        "column_iDWjVC",
+        "column_7XtrLR",
+        "column_jJdb8p",
+        "column_c4nmKz",
+        "column_QQb7rR",
+        "column_yYRmGm",
+        "column_pe3hWh",
+        "column_mXRwHF",
+        "column_JeAhqB",
+        "column_FpNEhm",
+        "column_cXwYf8",
+        "column_J7CkRJ",
+        "column_jNhptA",
+        "column_hPXxYJ",
+        "column_PteC3B"
+      ],
+      "settings": {
+        "title": "PMA Supplements",
+        "heading_size": "h2",
+        "subtitle": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_btn_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_B6EwEV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kMeF8g": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "0003-0001 MDL Rev T - Part 23 STC SA02386AK",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0003-0001_MDL_SA02386AK_Rev-T_4cb79f4c-20f3-4100-9cd0-c69cb73f8085.pdf?v=1735042958"
+          }
+        },
+        "column_6cgQtr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "ST-20-502-02 Rev A – Part 27 STC SR02704SE",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ST-20-502-02-Rev-A-MDL_4993bca1-b9ad-43e5-a3cb-07fcaba1df48.pdf?v=1735042957"
+          }
+        },
+        "column_MitM9E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "0031-0003 MDL Rev IR - Part 23 STC SA04837NY",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0031-0003-Rev.-IR-MDL_398f42ba-ec4d-43e9-8f45-fdfc403e8e98.pdf?v=1735042956"
+          }
+        },
+        "column_tnXfFH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "ST-20-503-02 MDL Rev C - Part 29 STC SR02727SE",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ST-20-503-02-Rev-C-MDL_71087d77-760a-408a-bca9-bb2dba038a0a.pdf?v=1735042957"
+          }
+        }
+      },
+      "block_order": [
+        "column_kMeF8g",
+        "column_6cgQtr",
+        "column_MitM9E",
+        "column_tnXfFH"
+      ],
+      "settings": {
+        "title": "Master Drawing List",
+        "heading_size": "h2",
+        "subtitle": "",
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_btn_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_CkH9Na": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7YrYJc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "STC Authorization Letter",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-STC-Authorizaton-letter_SA02386AK_SR02704SE_SA04837NY_REV-B_df7d2e9f-7ee7-4e64-bfdf-391628966a3f.pdf?v=1735043222"
+          }
+        },
+        "column_PAWq9L": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 23 - SunSpot Series STC/AML (SA02386AK)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/STC-AML-SA02386AK-3-30-21_f1e436b5-ee1f-4699-8bad-fbca130d7010.pdf?v=1735043270"
+          }
+        },
+        "column_gqhjdq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 23 - NAV, STROBE, POSITION, BEACON (SA04837NY)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-23-STC-AML-SA04837NY_56ea8e66-615d-4aee-a129-37c0cc53a755.pdf?v=1735043373"
+          }
+        },
+        "column_HJWGbf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 25 - SunSpot Series STC/AML (ST01936WI)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-25-STC-AML-ST01936WI.pdf?v=1735043429"
+          }
+        },
+        "column_CDWH8d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 27 - SunSpot Series STC/AML (SR02704SE)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-27-STC-AML-SR02704SE_0552f74d-0a32-4da1-b3b7-3a37ab68276e.pdf?v=1735043500"
+          }
+        },
+        "column_azFG9H": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 29 - SunSpot Series STC/AML (SR07272SE)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SR07272SE-AML-Signed_8349d32c-687d-4d79-be68-137a69ba829d.pdf?v=1735043561"
+          }
+        },
+        "column_JMhVfc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Pilatus PC12 - STC (SA02558SE)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SA02558SE-Pilatus-STC-Page-1_70a43180-43b6-443a-9287-6fc0a49fa975.pdf?v=1735043661"
+          }
+        }
+      },
+      "block_order": [
+        "column_7YrYJc",
+        "column_PAWq9L",
+        "column_gqhjdq",
+        "column_HJWGbf",
+        "column_CDWH8d",
+        "column_azFG9H",
+        "column_JMhVfc"
+      ],
+      "settings": {
+        "title": "STC & Approved Model List (AML)",
+        "heading_size": "h2",
+        "subtitle": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_btn_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_BBjBMq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_33KJxJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Diamond DA-40 SunBeam",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Diamond-DA-40-Sunbeam-337_932b2f3a-5de8-4c36-9318-e374e5fb6e83.pdf?v=1735043772"
+          }
+        },
+        "column_nrPezn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Husky A-1C SunTail",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Husky-SunTail_ad6a1d32-6626-454f-ac69-4a8d5bfc3f79.pdf?v=1735043774"
+          }
+        },
+        "column_KeWXcP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Cessna 182 Pulsar NS",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Pulsar-NS-Field-Approval-Cessna-182_02bfe4d7-b2b0-47b7-a308-7bebf8c01594.pdf?v=1735043774"
+          }
+        },
+        "column_LNLtTf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Socata TB 21",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Socata-TB21-multiple-lights_fc90741d-4e3b-4219-bd08-266798a081b8.pdf?v=1735043774"
+          }
+        }
+      },
+      "block_order": [
+        "column_33KJxJ",
+        "column_nrPezn",
+        "column_KeWXcP",
+        "column_LNLtTf"
+      ],
+      "settings": {
+        "title": "FAA Form 337 Field Approval",
+        "heading_size": "h2",
+        "subtitle": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_btn_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_ww9tqy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Dbb6mV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "0003-0005 - Part 23 ICA and Installation Instructions (SUNSPOT 36, 46 AND SUNBEAM LANDING AND TAXI LIGHTS)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0003-0005-Instructions-for-Continued-Airworthiness-STC-SA02386AK-Rev_A_9c97fdef-9bf1-4be9-9264-5d7891048bab.pdf?v=1735043990"
+          }
+        },
+        "column_yTWhrB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "0031-0001 - Part 23 ICA Installation Instructions (PULSAR, N, NS, NSP, SUNTAIL, AND SUNBEACON POSITION, NAVIGATION, STROBE, AND ANTI-COLLISION LIGHTS)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0031-0001-Part-23-Instructions-for-Continued-Airworthiness-including-Installation-Instructions-Rev_IR_b588d3c5-4223-4f7d-bf76-a1ac9f5c1692.pdf?v=1735043990"
+          }
+        },
+        "column_EpWh7z": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "0027-0001 - Part 27 ICA and Installation Instructions (SunSpot 36 AND 46 LANDING AND TAXI LIGHTS)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0027-0001-Part-27-Instructions-for-Continued-Airworthiness-including-Installation-Instructions-Rev_A_b28c988b-69f1-4918-9f2a-f69c7873246f.pdf?v=1735043989"
+          }
+        }
+      },
+      "block_order": [
+        "column_Dbb6mV",
+        "column_yTWhrB",
+        "column_EpWh7z"
+      ],
+      "settings": {
+        "title": "Instructions for Continued Airworthiness (ICA)",
+        "heading_size": "h2",
+        "subtitle": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_btn_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_7LUV6W": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_D8mHNq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 23 EASA STC - SunSpot Series (AML - SA02386AK)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10070175_CERT_REV_0_20190613_31d94666-29a7-43b0-a494-1cf0ded77338.pdf?v=1735044229"
+          }
+        },
+        "column_kzJyEi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 23 EASA STC - NAV, STROBE, POSITION, BEACON (AML - SA04837NY)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Part-23-EASA-STC-AML_e1126a20-ad43-4ae1-8136-a99e04c0f447.pdf?v=1735044237"
+          }
+        },
+        "column_FmhTKb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 27 EASA STC - SunSpot Series (AML - SR02704SE)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10076166_CERT_REV_0_20210415-FLE.pdf?v=1735044232"
+          }
+        },
+        "column_aHVz6p": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 25 EASA STC - SunSpot Series (AML - ST01936WI)",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/10085653_CERT_REV_0_20241023_72d64b6e-caba-4c2a-adbb-68ca1ec5c1ce.pdf?v=1735044232"
+          }
+        }
+      },
+      "block_order": [
+        "column_D8mHNq",
+        "column_kzJyEi",
+        "column_FmhTKb",
+        "column_aHVz6p"
+      ],
+      "settings": {
+        "title": "EASA STC",
+        "heading_size": "h2",
+        "subtitle": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_btn_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_PXYXGt": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hm3KjQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 23 ANAC STC",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ANAC-STC_2016S12_04_Part-23_38d389c2-046e-4fe5-a90f-b7f60c14cdf5.pdf?v=1735044459"
+          }
+        },
+        "column_tkPzqn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 27 ANAC STC",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ANAC-STC_2022S05-03_Part-27_a99e0ee0-7fd4-474b-9ca9-9a839bbed474.pdf?v=1735044459"
+          }
+        }
+      },
+      "block_order": [
+        "column_hm3KjQ",
+        "column_tkPzqn"
+      ],
+      "settings": {
+        "title": "ANAC STC",
+        "heading_size": "h2",
+        "subtitle": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_btn_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_TBrGEz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_rynYCi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Part 23 TCCA STC",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SA22-09-REV2-WITH-TCCA-AML-signed-1_984f7b47-18a5-47fa-a73b-374ce5e63bc5.pdf?v=1735045827"
+          }
+        },
+        "column_LnyEWq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_rynYCi",
+        "column_LnyEWq"
+      ],
+      "settings": {
+        "title": "TCCA STC",
+        "heading_size": "h2",
+        "subtitle": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_btn_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_dDFQGU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Q7egtQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Pulsar 11-1100",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-1100-TSOA-letter_a6d36ca8-d64d-49e1-bec6-7b401defa76c.pdf?v=1735045974"
+          }
+        },
+        "column_diVeTQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Pulsar N 11-1280-A",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-1280-BC-TSOA-Letter_b2196872-542e-42ed-8f1c-3cbb024bc270.pdf?v=1735045974"
+          }
+        },
+        "column_4TcWxc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Pulsar NS 11-1280-B and Pulsar NSP 11-1280-C",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-1280-BC-TSOA-Letter_b2196872-542e-42ed-8f1c-3cbb024bc270.pdf?v=1735045974"
+          }
+        },
+        "column_RyVypd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "SunBeacon II, Red 11-2200-A",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-2200-A-TSOA-C96A-Letter_e446ba1f-e3d2-43e3-ab92-03e5f77dd795.pdf?v=1735045974"
+          }
+        },
+        "column_kH7W4D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "SunBeacon II, White 11-2200-B",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-2200-B-TSOA-C96A-Letter_8c858d66-6262-44d4-856b-782d15f10e43.pdf?v=1735045974"
+          }
+        },
+        "column_mdbLiy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "SunTail 11-1260",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-1260-TSOA-Letter_aa1fe3ce-54c5-415d-974b-13ebfea84c2d.pdf?v=1735045974"
+          }
+        },
+        "column_BYhYh9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/images_1.png",
+            "title": "",
+            "name": "",
+            "text": "",
+            "link_label": "Pilatus Wingtip Light System",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Pilatus-Wingtip-Light-System-TSOA-Letter.pdf?v=1735045975"
+          }
+        }
+      },
+      "block_order": [
+        "column_Q7egtQ",
+        "column_diVeTQ",
+        "column_4TcWxc",
+        "column_RyVypd",
+        "column_kH7W4D",
+        "column_mdbLiy",
+        "column_BYhYh9"
+      ],
+      "settings": {
+        "title": "TSO Approvals",
+        "heading_size": "h2",
+        "subtitle": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_btn_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_ggtQcc",
+    "main",
+    "product_images_blocks_6YVajc",
+    "multicolumn_HVDJqq",
+    "multicolumn_B6EwEV",
+    "multicolumn_CkH9Na",
+    "multicolumn_BBjBMq",
+    "multicolumn_ww9tqy",
+    "multicolumn_7LUV6W",
+    "multicolumn_PXYXGt",
+    "multicolumn_TBrGEz",
+    "multicolumn_dDFQGU"
+  ]
+}

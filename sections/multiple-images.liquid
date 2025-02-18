@@ -1,0 +1,71 @@
+{{ 'multiple-images.css' | asset_url | stylesheet_tag }}
+
+<div class="multiple-images-wrapper">
+  <div class="page-width">
+    {% if section.settings.heading != blank %}
+      <div class="multiple-heading">
+        <h2>{{ section.settings.heading }}</h2>
+      </div>
+    {% endif %}
+    <div class="multiple-images-row">
+      {% for block in section.blocks %}
+        <div class="multiple-images-blocks">
+          {% if block.settings.image != blank %}
+            <div class="multiple-images">
+              <img src="{{ block.settings.image | img_url: 'master' }}" alt="" height="" width="">
+            </div>
+          {% endif %}
+          {% if block.settings.text != blank %}
+            <strong>{{ block.settings.text }}</strong>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+    {% if section.settings.content_text != blank -%}
+      <div class="lower-content">
+        {{ section.settings.content_text }}
+      </div>
+    {% endif %}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Multiple-images",
+  "settings": [
+      {
+        "type": "inline_richtext",
+        "id": "heading",
+        "label": "Heading"
+      },
+    {
+      "type": "richtext",
+      "id": "content_text",
+      "label": "Content"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "image",
+      "name":"Image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "text",
+          "label": "Content"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name":"Multiple-images"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,50 @@
+<div class="warning-wrapper">
+  <div class="page-width">
+    {% if section.settings.text != blank %}
+      <p>
+        <img
+          src="https://cdn.shopify.com/s/files/1/0901/7573/4077/files/warning-Icon.png?v=1730893354"
+          alt=""
+          height=""
+          width=""
+        >
+        {{- section.settings.text }}
+      </p>
+    {% endif %}
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Warning",
+  "settings": [
+    {
+      "type": "inline_richtext",
+      "id": "text",
+      "label": "Text"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Warning"
+    }
+  ]
+}
+{% endschema %}
+<style>
+    .warning-wrapper img {
+      width: 35px;
+      vertical-align: middle;
+  }
+    .warning-wrapper p {
+      text-align: center;
+      line-height: 1.5em;
+      letter-spacing: 0;
+  }
+    .warning-wrapper a{
+      color: #8080ff;
+      transition: 0.2s all linear;
+    }
+  .warning-wrapper a:hover{
+      color: #0000cc;
+    }
+</style>

@@ -1,0 +1,341 @@
+{{ 'component-image-with-text.css' | asset_url | stylesheet_tag }}
+
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.50 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.50 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+
+<div class="custom-landing landing_grid section-{{ section.id }}-padding">
+  <div class="page-width">
+    {%- unless section.settings.title == blank -%}
+      <div class="multicolumn__title main_title-led {{ section.settings.desktop_content_alignment }}">
+        <h3 class="inline-richtext">
+          {{ section.settings.title }}
+        </h3>
+        {% if section.settings.text != blank %}
+          <div class="rte">
+            {{ section.settings.text }}
+          </div>
+        {% endif %}
+      </div>
+    {%- endunless -%}
+    <div class="custom_grid-led {{ section.settings.desktop_content_alignment }}">
+      {% if section.settings.img_one != blank %}
+        <div class="item_led" data-index="{{ section.settings.text_one | strip_html | handleize }}">
+          <div
+            class="item-img-led"
+          >
+            {% if section.settings.img_one != blank %}
+              <img class="main_img" src="{{ section.settings.img_one | img_url: 'master' }}" alt="{{ shop.name }}">
+            {% endif %}
+          </div>
+          <div class="item-ledContent">
+            <div class="item_text">
+              {{ section.settings.text_one }}
+            </div>
+
+            <div class="label_led">
+              <input
+                type="radio"
+                id="one"
+                checked
+                name="led_text"
+                value="{{ section.settings.text_one | strip_html | handleize }}"
+              >
+              <label for="one"></label>
+            </div>
+          </div>
+
+          <div class="for_small_screen">
+            {%- unless section.settings.title_one == blank -%}
+              <div class="multicolumn__title custom_title-text {{ section.settings.desktop_content_alignment }}">
+                <h3 class="inline-richtext">
+                  {{ section.settings.title_one }}
+                </h3>
+                {% if section.settings['text-title_one'] != blank %}
+                  <div class="rte">
+                    {{ section.settings['text-title_one'] }}
+                  </div>
+                {% endif %}
+              </div>
+            {%- endunless -%}
+          </div>
+        </div>
+      {% endif %}
+      {% if section.settings.img_two != blank %}
+        <div class="item_led" data-index="{{ section.settings.text_two | strip_html | handleize }}">
+          <div
+            class="item-img-led"
+          >
+            {% if section.settings.img_two != blank %}
+              <img class="main_img" src="{{ section.settings.img_two | img_url: 'master' }}" alt="{{ shop.name }}">
+            {% endif %}
+          </div>
+          <div class="item-ledContent">
+            <div class="item_text">
+              {{ section.settings.text_two }}
+            </div>
+            <div class="label_led">
+              <input
+                type="radio"
+                id="two"
+                
+                name="led_text"
+                value="{{ section.settings.text_two | strip_html | handleize }}"
+              >
+              <label for="two"></label>
+            </div>
+          </div>
+
+          <div class="for_small_screen">
+            {%- unless section.settings.title_two == blank -%}
+              <div class="multicolumn__title custom_title-text {{ section.settings.desktop_content_alignment }}">
+                <h3 class="inline-richtext">
+                  {{ section.settings.title_two }}
+                </h3>
+                {% if section.settings['text-title_two'] != blank %}
+                  <div class="rte">
+                    {{ section.settings['text-title_two'] }}
+                  </div>
+                {% endif %}
+              </div>
+            {%- endunless -%}
+
+          </div>
+        </div>
+      {% endif %}
+    </div>
+    <div class="landing-description">
+    {{ section.settings.description }}
+    </div>
+    <div class="grid_custom pma-supplements-wrapper">
+          {% for block in section.blocks %}
+                <div class="pma-block" data-title="{{ block.settings.match_title | strip_html | handleize }}">
+                  <div class="pma-block-image">
+                    {% if block.settings.block_image %}
+                      <img
+                        src="{{ block.settings.block_image | img_url: 'master' }}"
+                        alt="{{ block.settings.block_heading }}"
+                        class="pma-block-image"
+                        height=""
+                        width=""
+                      >
+                    {% endif %}
+                  </div>
+                  <div class="pma-block-content">
+                    {% if block.settings.block_heading %}
+                      <h3 class="pma-block-heading">{{ block.settings.block_heading }}</h3>
+                      {% if block.settings.discontinued-text %}
+                      <span class="discontinued-text">{{ block.settings.discontinued-text }}</span>
+                      {% endif %}
+                    {% endif %}
+                    {% if block.settings.block_content %}
+                      {{ block.settings.block_content }}
+                    {% endif %}
+                    <div class="block_image_logo">
+                      {% if block.settings.block_image_logo_1 %}
+                        <img
+                          src="{{ block.settings.block_image_logo_1 | img_url: 'small' }}"
+                          alt="{{ block.settings.block_image_logo_1 }}"
+                          class="pma-block-image-logo"
+                          height=""
+                          width=""
+                        >
+                      {% endif %}
+                      {% if block.settings.block_image_logo_2 %}
+                        <img
+                          src="{{ block.settings.block_image_logo_2 | img_url: 'small' }}"
+                          alt="{{ block.settings.block_image_logo_2 }}"
+                          class="pma-block-image-logo"
+                          height=""
+                          width=""
+                        >
+                      {% endif %}
+                      {% if block.settings.block_image_logo_3 %}
+                        <img
+                          src="{{ block.settings.block_image_logo_3 | img_url: 'small' }}"
+                          alt="{{ block.settings.block_image_logo_3 }}"
+                          class="pma-block-image-logo"
+                          height=""
+                          width=""
+                        >
+                      {% endif %}                      
+                    </div>
+                    {%- if block.settings.button_label != blank -%}
+                      <a
+                        {% if block.settings.button_link == blank %}
+                          role="link" aria-disabled="true"
+                        {% else %}
+                          href="{{ block.settings.button_link }}"
+                        {% endif %}
+                        class="pma-block-button"
+                      >
+                        <span>{{- block.settings.button_label | escape -}}</span>
+                      </a>
+                    {%- endif -%}
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Landing section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Heading"
+    },
+    {
+      "type": "select",
+      "id": "heading_size",
+      "options": [
+        {
+          "value": "h2",
+          "label": "t:sections.all.heading_size.options__1.label"
+        },
+        {
+          "value": "h1",
+          "label": "t:sections.all.heading_size.options__2.label"
+        },
+        {
+          "value": "h0",
+          "label": "t:sections.all.heading_size.options__3.label"
+        }
+      ],
+      "default": "h1",
+      "label": "t:sections.all.heading_size.label"
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Text"
+    },
+    {
+      "type": "image_picker",
+      "id": "img_one",
+      "label": "Image One"
+    },
+    {
+      "type": "richtext",
+      "id": "text_one",
+      "label": "Text One"
+    },
+    {
+      "type": "image_picker",
+      "id": "img_two",
+      "label": "Image Two"
+    },
+    {
+      "type": "richtext",
+      "id": "text_two",
+      "label": "Text Two"
+    },
+    {
+      "type": "richtext",
+      "id": "description",
+      "label": "Description"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.padding.section_padding_heading"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
+    }
+  ],
+  "blocks": [
+    {
+      "type": "column",
+      "name": "column",
+      "settings": [
+        {
+          "type": "text",
+          "id": "match_title",
+          "label": "Match Title"
+        },
+        {
+          "type": "image_picker",
+          "id": "block_image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "block_heading",
+          "label": "Heading"
+        },
+        {
+          "type": "text",
+          "id": "discontinued-text",
+          "label": "Discontinued Text"
+        },
+        {
+          "type": "richtext",
+          "id": "block_content",
+          "label": "Content"
+        },
+        {
+          "type": "image_picker",
+          "id": "block_image_logo_1",
+          "label": "Image"
+        },
+        {
+          "type": "image_picker",
+          "id": "block_image_logo_2",
+          "label": "Image"
+        },
+       {
+          "type": "image_picker",
+          "id": "block_image_logo_3",
+          "label": "Image"
+        },
+          {
+          "type": "text",
+          "id": "button_label",
+          "label": "t:sections.rich-text.blocks.buttons.settings.button_label_1.label",
+          "info": "t:sections.rich-text.blocks.buttons.settings.button_label_1.info"
+        },
+        {
+          "type": "url",
+          "id": "button_link",
+          "label": "t:sections.rich-text.blocks.buttons.settings.button_link_1.label"
+        },
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Landing section"
+    }
+  ]
+}
+{% endschema %}

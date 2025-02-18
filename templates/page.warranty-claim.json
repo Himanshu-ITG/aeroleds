@@ -1,0 +1,72 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 8
+      }
+    },
+    "1736364026c802f861": {
+      "type": "apps",
+      "blocks": {
+        "my_product_cares_registration_form_zj4Cfa": {
+          "type": "shopify://apps/my-product-cares/blocks/registration-form/fd762697-cd8b-4acd-bd03-03c62edf58c9",
+          "settings": {
+            "slug": "warranty",
+            "mode": "normal",
+            "openRegisteredEntities": false
+          }
+        }
+      },
+      "block_order": [
+        "my_product_cares_registration_form_zj4Cfa"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "richtext_with_btn_Ti63UH": {
+      "type": "richtext-with-btn",
+      "blocks": {
+        "button_74Jk6M": {
+          "type": "button",
+          "settings": {
+            "button_label": "Warranty Terms & Conditions",
+            "button_link": "shopify://pages/warranty",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_74Jk6M"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "border_bottom": false,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1736364026c802f861",
+    "richtext_with_btn_Ti63UH"
+  ]
+}

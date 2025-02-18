@@ -1,0 +1,133 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_YmMFji": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/aero-leds-banner-bulb-cross-reference.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_PakXWQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_igmfXh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Owner Registration",
+            "heading_size": "h1"
+          }
+        },
+        "text_MTzGNb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thank you for choosing AeroLEDs! You won’t be disappointed. We pride ourselves on good “old fashioned” customer service. So if you have a question, don’t hesitate to call (LINK) or email (LINK) us! You can always count on talking to a real live AeroLEDs team member. We’re here for you, and we want your installation to go as smoothly as possible.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_igmfXh",
+        "text_MTzGNb"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "owner_registration_hH9AD7": {
+      "type": "owner-registration",
+      "blocks": {
+        "column_cCFpLw": {
+          "type": "column",
+          "settings": {
+            "heading": "Product Registration",
+            "content": "<p>Register within 30 days for your warranty</p>",
+            "button_label": "Register your lights",
+            "url": "/pages/product-registration",
+            "button_label_second": "",
+            "url_second": ""
+          }
+        },
+        "column_beWqRj": {
+          "type": "column",
+          "settings": {
+            "heading": "Manuals and Diagrams",
+            "content": "<p>Installation Instructions</p>",
+            "button_label": "Installation Instructions",
+            "url": "shopify://pages/installation-guides",
+            "button_label_second": "",
+            "url_second": ""
+          }
+        },
+        "column_ggTz6T": {
+          "type": "column",
+          "settings": {
+            "heading": "FAA CERTIFICATIONS",
+            "content": "<p>Learn more about our FAA Certifications</p>",
+            "button_label": "FAA Certification Documentation",
+            "url": "shopify://pages/stc-documents",
+            "button_label_second": "",
+            "url_second": ""
+          }
+        },
+        "column_cQj8dH": {
+          "type": "column",
+          "settings": {
+            "heading": "WARRANTY INFORMATION",
+            "content": "<p>Find out more about our 5-year warranty</p>",
+            "button_label": "SEE THE AEROLEDS WARRANTY",
+            "url": "shopify://pages/warranty",
+            "button_label_second": "",
+            "url_second": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_cCFpLw",
+        "column_beWqRj",
+        "column_ggTz6T",
+        "column_cQj8dH"
+      ],
+      "settings": {
+        "heading": "",
+        "padding_top": 20,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "image_banner_YmMFji",
+    "main",
+    "rich_text_PakXWQ",
+    "owner_registration_hH9AD7"
+  ]
+}

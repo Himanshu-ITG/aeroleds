@@ -1,0 +1,27 @@
+<div class="custom-pdf-section">
+  <div class="page-width">
+    <div class="pdf-wrapper">
+      <div class="pdf-section-heading">
+        <h2>{{ section.settings.heading }}</h2>
+      </div>
+      {% for block in section.blocks %}
+        <a href="{{ block.settings.pdf_url }}">
+          <div class="pdf-row"> 
+            <div>
+              <h3>{{ block.settings.block_heading }}</h3>
+            </div>
+            <div>
+              <span class="pdf"></span>
+            </div>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% schema %}
+  {
+    "name": "Section name",
+    "settings": []
+  }
+{% endschema %}

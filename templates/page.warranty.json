@@ -1,0 +1,116 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_wBRj3x": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/IMG_7708-scaled.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_nEmVXG": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Q6GBwt": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>AEROLEDS FACTORY DIRECT WARRANTY </strong></h2><h2>(FOR AVIATION PRODUCTS ONLY)</h2>"
+          }
+        },
+        "button_iQqQrn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click for Product Registration",
+            "button_link": "shopify://pages/product-registration",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "text_fHH7XH": {
+          "type": "text",
+          "settings": {
+            "text": "<p> AeroLEDs Holdings LLC, (AeroLEDs) warrants products of its manufacture against defects in material and workman- ship for the time periods noted below, provided that the product has been installed and operated in accordance with the manufacturer's recommendations. During the applicable warranty period, the AeroLEDs  technical support team will replace any AeroLEDs parts or electronic assemblies of the unit having a defect in material or workmanship. AeroLEDs will pay ground transportation from the AeroLEDs factory to customer via U.P.S. Ground where available (in the continental United States).</p><p> </p><p> The above warranty is between the end consumer (ultimate user) and AeroLEDs (manufacturer). Prior authorization is required for returning WAT products for warranty consideration. Each AeroLEDs product sold is covered only by the official warranty in effect at time of purchase<strong>.</strong></p><p> </p><p>This warranty is not applicable to any AeroLEDs product that has failed due to abuse, misuse, improper installation, excessive voltages, or alterations to the product that affect, in the manufacturer's judgment, intended use and service. This Limited Warranty does not apply to parts or products that are misused; abused; modified; damaged by chemicals, accident, fire or other hazard; improperly installed or operated; or not maintained in accordance with the maintenance procedures set forth in AeroLEDs™ Installation and Operating Instructions.  AeroLEDs shall not be liable for any indirect, consequential, special, punitive or incidental damages, and AeroLEDs assumes no responsibility or liability for expenses incurred in: (i) the removal and/or re-installation of products requiring service and/or replacement; (ii) the packaging, handling, and shipping of products to AeroLEDs  and/or (iii) the handling of products returned from AeroLEDs after replacement.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Q6GBwt",
+        "button_iQqQrn",
+        "text_fHH7XH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 12
+      }
+    },
+    "custom_liquid_6y4ddG": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\"><p class=\"custom-liquid\">THIS WARRANTY IS THE ONLY WARRANTY ON AEROLEDS PRODUCTS AND IS MADE EXPRESSLY IN LIEU OF ALL OTHER WARRANTIES AND REPRESENTATIONS, EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, ALL OF WHICH ARE HEREBY DISCLAIMED.</p></div>",
+        "color_scheme": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_6m8K4N": {
+      "type": "rich-text",
+      "blocks": {
+        "text_nHgxrj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>AeroLEDs reserves the right to modify this warranty at any time or discontinue, modify, or upgrade any products of its manufacture with design improvements without prior notice.</p><p>This warranty gives you specific rights, and you may also have other rights which vary from state to state. </p><h4><strong>AEROLEDS ELECTRO-MECHANICAL PRODUCTS</strong></h4><p><strong> </strong></p><p> </p><p><strong>5-YEAR WARRANTY</strong></p><p><strong> </strong></p><p>Aviation LED product is covered by a factory direct warranty up to a maximum five years from date of purchase (not to exceed six years from date of manufacture), with proof of purchase. In accordance with the factory direct warranty described herein, the unit may be returned directly back to the AeroLEDs for warranty consideration.</p><p> </p><p> </p><p>STEPS TO BE TAKEN FOR WARRANTY RETURN:</p><p>1) Contact AeroLEDs Technical Support - <a href=\"https://flywat.com/pages/tech-support\">https://www.aeroleds.com/</a>pages/contact-us</p><p>2) Fill out the Warranty Claim form provided by the technical support team. </p><p>3) AeroLEDs products are to be returned freight prepaid to the:</p><p><strong> </strong></p><p><strong>AeroLEDs </strong></p><p><strong>ATTN: RMA # _______</strong></p><p><strong>8475 W. Elisa St.</strong></p><p><strong>Boise, ID 83709</strong></p><p>Do not ship by bus.</p><p> </p><p>6) Warranty Service: AeroLEDs will pay ground transportation from </p><p>AeroLEDs to the customer via U.P.S. Ground where available in the continental United States.</p><p> </p><p> </p><h4>— EFFECTIVE 01/01/2025, REPLACES ALL PREVIOUSLY PUBLISHED SERVICE POLICIES —</h4>"
+          }
+        }
+      },
+      "block_order": [
+        "text_nHgxrj"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_wBRj3x",
+    "rich_text_nEmVXG",
+    "custom_liquid_6y4ddG",
+    "rich_text_6m8K4N"
+  ]
+}

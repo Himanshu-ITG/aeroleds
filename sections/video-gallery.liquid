@@ -1,0 +1,122 @@
+{{ 'video-gallery.css' | asset_url | stylesheet_tag }}
+
+  {%- style -%}
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top | times: 0.30 | round: 0 }}px;
+      padding-bottom: {{ section.settings.padding_bottom | times: 0.50 | round: 0 }}px;
+    }
+
+    @media screen and (min-width: 750px) {
+      .section-{{ section.id }}-padding {
+        padding-top: {{ section.settings.padding_top }}px;
+        padding-bottom: {{ section.settings.padding_bottom }}px;
+      }
+    }
+  {%- endstyle -%}
+
+<div class="video_wrapper_cover section-{{ section.id }}-padding">
+  <div class="page-width">
+    <div class="video_heading">
+      <h2>{{ section.settings.heading_video }}</h2>
+    </div>
+      <div class="video_img_wrapper" id="video-wrapper">
+        {% for block in section.blocks %}
+          <div class="video_block">
+          <a data-fancybox="gallery" href="{{ block.settings.video_tag }}" data-caption="{{ block.settings.caption_content }}">
+          <div class="video_img_block">  
+            {% if block.settings.img_video != blank %}
+              <img src="{{ block.settings.img_video | img_url:"master"}}" alt="" width="" height="">
+            {% endif %}
+           <div class="video_caption">
+             {{ block.settings.caption_content }} 
+           </div>
+           <div class="sby_play_btn">
+              <span class="sby_play_btn_bg"></span>
+                <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="svg-inline--fa fa-youtube fa-w-18"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" class=""></path></svg>                    
+			</div>
+          </div>
+          </a>
+          <div class="video_block_content">
+            {{ block.settings.content_div }}
+          </div>
+          </div>
+        {% endfor %}
+      </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Video Gallery",
+    "settings": [
+      {
+        "type":"text",
+        "id":"heading_video",
+        "label":"Heading"
+      },
+      {
+        "type": "header",
+        "content": "Padding"
+      },
+      {
+        "type": "range",
+        "id": "padding_top",
+        "min": 0,
+        "max": 100,
+        "step": 4,
+        "unit": "px",
+        "label": "Top Padding",
+        "default": 36
+      },
+      {
+        "type": "range",
+        "id": "padding_bottom",
+        "min": 0,
+        "max": 100,
+        "step": 4,
+        "unit": "px",
+        "label": "Bottom Padding",
+        "default": 36
+      }
+    ],
+    "blocks":[
+      {
+        "type":"video",
+        "name":"Add Video",
+        "settings":[
+          {
+            "type":"url",
+            "id":"video_tag",
+            "label":"Video Url"
+          },
+          {
+            "type":"image_picker",
+            "id":"img_video",
+            "label":"Image"
+          },
+          {
+            "type":"richtext",
+            "id":"content_div",
+            "label":"Text"
+          },
+          {
+            "type":"richtext",
+            "id":"caption_content",
+            "label":"Caption Content"
+          }
+        ]
+      }
+    ],
+    "presets": [
+    {
+      "name": "Video Gallery"
+    }
+  ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

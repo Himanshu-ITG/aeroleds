@@ -1,0 +1,183 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {}
+        },
+        "reseller_rhqGFg": {
+          "type": "reseller",
+          "settings": {
+            "contact_reseller": "Contact Reseller",
+            "button_url": "/apps/store-locator"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "complementary_L7Q8Kc": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Optional Accessories",
+            "make_collapsible_row": true,
+            "icon": "plane",
+            "product_list_limit": 5,
+            "products_per_page": 4,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": false
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "reseller_rhqGFg",
+        "share",
+        "complementary_L7Q8Kc"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "product_des": false,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 100,
+        "padding_bottom": 60
+      }
+    },
+    "description_tab_zdVGw9": {
+      "type": "description-tab",
+      "settings": {}
+    },
+    "warning_section_dJcAEj": {
+      "type": "warning-section",
+      "settings": {
+        "text": "<strong>WARNING:</strong> These products may contain chemicals known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, visit <a href=\"https://eaqghj-3x.myshopify.com/pages/regulatory\" title=\"https://eaqghj-3x.myshopify.com/pages/regulatory\">aeroleds.com/regulatory</a>."
+      }
+    },
+    "rich_text_4zdaBq": {
+      "type": "rich-text",
+      "blocks": {
+        "button_myQxiz": {
+          "type": "button",
+          "settings": {
+            "button_label": "Product Data Sheet",
+            "button_link": "https://eaqghj-3x.myshopify.com/apps/product-registration?form=data-sheet-request",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_myQxiz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "text": "<p>IMPROVING PERFORMANCE & SAFETY</p>",
+        "heading": "You may also like",
+        "subheading": "",
+        "heading_size": "h2",
+        "slider_visual": "counter",
+        "products_to_show": 7,
+        "enable_desktop_slider": true,
+        "columns_desktop": 4,
+        "swipe_on_mobile": true,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28,
+        "quick_add": "standard",
+        "contact_reseller": "Contact ReSeller",
+        "button_url": "/apps/store-locator"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "description_tab_zdVGw9",
+    "warning_section_dJcAEj",
+    "rich_text_4zdaBq",
+    "related-products"
+  ]
+}

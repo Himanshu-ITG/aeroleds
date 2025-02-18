@@ -1,0 +1,645 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "multicolumn_icon_NWjFHF": {
+      "type": "multicolumn-icon",
+      "blocks": {
+        "column_whpRg4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AeroLEDs-Website-2024-Contact-Email-ICON_f507e489-ced4-4808-8d52-5cf4974defb9.svg",
+            "title": "<a href=\"mailto:info@AeroLEDs.com\" title=\"mailto:info@AeroLEDs.com\">info@AeroLEDs.com</a>",
+            "name": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rfpRwq": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/WAT-Website-Repair-Support-ICON.svg",
+            "title": "REPAIR",
+            "name": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7Yz36D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/phone.svg",
+            "title": "<a href=\"tel:208-850-3294\" title=\"tel:208-850-3294\">208-850-3294</a>",
+            "name": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_whpRg4",
+        "column_rfpRwq",
+        "column_7Yz36D"
+      ],
+      "settings": {
+        "caption": "contact",
+        "heading": "AeroLEDs",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
+    "support_multicolumn_kRtzqW": {
+      "type": "support-multicolumn",
+      "blocks": {
+        "column_dDcH9J": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Ryan-Edmark-PHOTO.png",
+            "title": "Ryan Edmark",
+            "text": "<h5>Director of Sales     / Technical Support      </h5>",
+            "email": "<p><a href=\"mailto:ryan@AeroLEDs.com\" title=\"mailto:ryan@AeroLEDs.com\"><strong>ryan@AeroLEDs.com</strong></a></p>",
+            "number": "<p><a href=\"tel:+1 208-361-6635\" title=\"tel:+1 208-361-6635\"><strong>+1 208-361-6635</strong></a></p>",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_9tkz3f": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Ken-Robinson-PHOTO.png",
+            "title": "Ken robinson",
+            "text": "<h5>Sr. Electrical Engineer / Technical Support</h5>",
+            "email": "<p><a href=\"mailto:ken@AeroLEDs.com\" target=\"_blank\" title=\"mailto:ken@AeroLEDs.com\">ken@AeroLEDs.com</a></p>",
+            "number": "<p><a href=\"tel:+1 208-361-6676\" title=\"tel:+1 208-361-6676\"><strong>+1 208-361-6676</strong></a></p>",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_nejm38": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Mark-McCormack-PHOTO.png",
+            "title": "Mark MCCORMACK",
+            "text": "<h5>Project Manager | EE / Technical Support</h5>",
+            "email": "<p><a href=\"mailto:mark@AeroLEDs.com\" target=\"_blank\" title=\"mailto:mark@AeroLEDs.com\"><strong>mark@AeroLEDs.com</strong></a></p>",
+            "number": "<p><a href=\"tel:+1 208-361-6641\" title=\"tel:+1 208-361-6641\"><strong>+1 208-361-6641</strong></a></p>",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_zFT3j7": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Susan-Calvin-PHOTO.png",
+            "title": "Susan Calvin",
+            "text": "<h5>General Manager / Customer Service</h5>",
+            "email": "<p><a href=\"mailto:susan@AeroLEDs.com\" target=\"_blank\" title=\"mailto:susan@AeroLEDs.com\">susan@AeroLEDs.com</a></p>",
+            "number": "<p><a href=\"tel:+1 208-361-6628\" title=\"tel:+1 208-361-6628\"><strong>+1 208-361-6628</strong></a></p>",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_8qbPG7": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Ashelie-Edmark-PHOTO.png",
+            "title": "Ashelie Edmark",
+            "text": "<h5>Creative Director</h5>",
+            "email": "<p><a href=\"mailto:ashelie@AeroLEDs.com\" target=\"_blank\" title=\"mailto:ashelie@AeroLEDs.com\">ashelie@AeroLEDs.com</a></p>",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_KJmQ6X": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Nate-Calvin-PHOTO.png",
+            "title": "Nate Calvin",
+            "text": "<p>CTO</p>",
+            "email": "<p><a href=\"mailto:nate@AeroLEDs.com\" target=\"_blank\" title=\"mailto:nate@AeroLEDs.com\">nate@AeroLEDs.com</a></p>",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_hiU6Tc": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Josiah-Savino-PHOTO.png",
+            "title": "joshiah savion",
+            "text": "<h5>Mechanical Engineering</h5>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_XQBVMT": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Mallory-Edmark-PHOTO.png",
+            "title": "Mallory Edmark",
+            "text": "<p>Production Manager</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_hLnL4g": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Hannah-Calvin-PHOTO.png",
+            "title": "hannah calvin",
+            "text": "<p>Data Analyst</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_UJgyVc": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Wendy-Dillion-PHOTO.png",
+            "title": "Wendy Dillion",
+            "text": "<p>Shipping | Customer Service</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dDcH9J",
+        "column_9tkz3f",
+        "column_nejm38",
+        "column_zFT3j7",
+        "column_8qbPG7",
+        "column_KJmQ6X",
+        "column_hiU6Tc",
+        "column_XQBVMT",
+        "column_hLnL4g",
+        "column_UJgyVc"
+      ],
+      "settings": {
+        "separator_line": true,
+        "title": "Our Team",
+        "heading_size": "h1",
+        "text": "",
+        "liquid_code": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
+    },
+    "support_multicolumn_kFWJtx": {
+      "type": "support-multicolumn",
+      "blocks": {
+        "column_jjdpyj": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Ashelie-Edmark-PHOTO.png",
+            "title": "Ashelie Edmark",
+            "text": "<h5>Creative Director</h5>",
+            "email": "<p><a href=\"mailto:ashelie@AeroLEDs.com\" target=\"_blank\" title=\"mailto:ashelie@AeroLEDs.com\">ashelie@AeroLEDs.com</a></p>",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_hMWNUj": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Nate-Calvin-PHOTO.png",
+            "title": "Nate Calvin",
+            "text": "<p>CTO</p>",
+            "email": "<p><a href=\"mailto:nate@AeroLEDs.com\" target=\"_blank\" title=\"mailto:nate@AeroLEDs.com\">nate@AeroLEDs.com</a></p>",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_9M8qdX": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Josiah-Savino-PHOTO.png",
+            "title": "josiah savino",
+            "text": "<h5>Mechanical Engineering</h5>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_77QNV6": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Mallory-Edmark-PHOTO.png",
+            "title": "Mallory Edmark",
+            "text": "<p>Production Manager</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jjdpyj",
+        "column_hMWNUj",
+        "column_9M8qdX",
+        "column_77QNV6"
+      ],
+      "settings": {
+        "separator_line": true,
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "liquid_code": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 52,
+        "padding_bottom": 24
+      }
+    },
+    "support_multicolumn_cmBxyw": {
+      "type": "support-multicolumn",
+      "blocks": {
+        "column_AzFhFR": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Hannah-Calvin-PHOTO.png",
+            "title": "hannah calvin",
+            "text": "<p>Data Analyst</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_nD4tG9": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Wendy-Dillion-PHOTO.png",
+            "title": "Wendy Dillion",
+            "text": "<p>Shipping | Customer Service</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_AzFhFR",
+        "column_nD4tG9"
+      ],
+      "settings": {
+        "separator_line": false,
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "liquid_code": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 52,
+        "padding_bottom": 24
+      }
+    },
+    "support_multicolumn_t4ywUM": {
+      "type": "support-multicolumn",
+      "blocks": {
+        "column_3Rmfjb": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/WAT_Website_CONTACT_PAGE_2024_Lauren_Bradely.jpg",
+            "title": "Lauren Bradley",
+            "text": "<p>Mechanical Engineering Supervisor</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_XgnFEC": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Ken_Thayer_3becf88b-8c46-4050-ad6b-85f693f437a4.jpg",
+            "title": "Ken Thayer",
+            "text": "<h5>Mechanical Engineer</h5>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_jGmUrb": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/WAT_Website_CONTACT_PAGE_2024_Aaron.jpg",
+            "title": "Aaron Rose",
+            "text": "<p>Mechanical Engineer</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_8NjJYp": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Hayley-Adkins_d796f901-cce2-465f-a24c-14340fabf3c2.jpg",
+            "title": "Hayley Adkins",
+            "text": "<h5>Mechanical Engineer</h5>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_kGwteX": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Andrew_Wilding_ca773e4e-f491-4c20-a037-4647da0b7c69.jpg",
+            "title": "Andrew Wilding",
+            "text": "<h5>Electrical Engineer</h5>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_HVE9UM": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Mike_Lorello_b110290b-3851-48b7-82e1-626c9e57f6f0.jpg",
+            "title": "Michael Lorello",
+            "text": "<h5>Electrical Engineer</h5>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_mAJbWL": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Eric-Macdonald_b92f4da9-17d3-4a2d-b7ad-104d9d44f782.jpg",
+            "title": "Eric MacDonald",
+            "text": "<h5>Electrical Engineer</h5>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_mEEmEz": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/WAT_Website_CONTACT_PAGE_2024_Jakub.jpg",
+            "title": "Jakub Gwiazda",
+            "text": "<p>Electrical Engineer</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_eeiUqp": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/DSC07645_2.png",
+            "title": "Jordan rivera",
+            "text": "<p>Manufacturing Engineer</p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_TxHpPz": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Tom_Novack_293be3d2-0f24-4569-b054-81a8cb5f40f1.jpg",
+            "title": "Tom Novak",
+            "text": "<h5>Certification Engineer</h5>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3Rmfjb",
+        "column_XgnFEC",
+        "column_jGmUrb",
+        "column_8NjJYp",
+        "column_kGwteX",
+        "column_HVE9UM",
+        "column_mAJbWL",
+        "column_mEEmEz",
+        "column_eeiUqp",
+        "column_TxHpPz"
+      ],
+      "disabled": true,
+      "settings": {
+        "separator_line": true,
+        "title": "WAT Engineering, Test, & Certification Group",
+        "heading_size": "h1",
+        "text": "",
+        "liquid_code": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "support_multicolumn_m8nYcc": {
+      "type": "support-multicolumn",
+      "blocks": {
+        "column_iE8rHQ": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Tyler-Wheeler-photo_a541f5b2-13de-47d3-8f71-3ec77b589852.jpg",
+            "title": "Tyler Wheeler",
+            "text": "<h5>CEO</h5>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_WhrWPC": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/brenda_a1f8c432-3050-4270-807a-cca20a881fec.jpg",
+            "title": "Brenda Hogue",
+            "text": "<h5>General Manager</h5>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_iE8rHQ",
+        "column_WhrWPC"
+      ],
+      "disabled": true,
+      "settings": {
+        "separator_line": true,
+        "title": "Leadership Team",
+        "heading_size": "h1",
+        "text": "",
+        "liquid_code": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_icon_NWjFHF",
+    "support_multicolumn_kRtzqW",
+    "support_multicolumn_kFWJtx",
+    "support_multicolumn_cmBxyw",
+    "support_multicolumn_t4ywUM",
+    "support_multicolumn_m8nYcc"
+  ]
+}

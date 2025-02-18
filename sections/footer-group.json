@@ -1,0 +1,72 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "image_YPrfXj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Horiz_Aero_Whelen_blk-bkgrnd-330.png",
+            "image_width": 290,
+            "alignment": ""
+          }
+        },
+        "link_list_hyW6zL": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Popular",
+            "menu": "find-out-more"
+          }
+        },
+        "link_list_GGragE": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "important-links"
+          }
+        },
+        "brand_information_6N4PLJ": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "image_YPrfXj",
+        "link_list_hyW6zL",
+        "link_list_GGragE",
+        "brand_information_6N4PLJ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/footer-bg-img.png",
+        "color_scheme": "scheme-a92bf190-e130-4edb-b56a-c25a02bbcc4e",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

@@ -1,0 +1,140 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 44
+      }
+    },
+    "support_multicolumn_Gb7ttz": {
+      "type": "support-multicolumn",
+      "blocks": {
+        "column_Xg3aD4": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Product_photo_Website_TEMPLATE_Recovered.png",
+            "title": "",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-1100-TSOA-letter.pdf?v=1733932049\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-1100-TSOA-letter.pdf?v=1733932049\">Pulsar 600  11-1100</a></p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_MdfGKP": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Pulsar_N_TSO.png",
+            "title": "",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-1280-A-TSOA-Letter-2.pdf?v=1733932760\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-1280-A-TSOA-Letter-2.pdf?v=1733932760\">pulsar n 11-1280-A</a></p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_jWrm9M": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/650_tso.png",
+            "title": "",
+            "text": "<p><a href=\"#\" title=\"#\">pulsar 650 11-1280-B &<br/>pulsar 660 11-1280-C</a></p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_da7CBh": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Sunbeacon_Red_3.png",
+            "title": "",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-2200-A-TSOA-C96A-Letter.pdf?v=1733933803\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-2200-A-TSOA-C96A-Letter.pdf?v=1733933803\">SunBeacon II<br/>red 11-2200-A</a></p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_wWwVHX": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/SunbeaconWhite.png",
+            "title": "",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-2200-B-TSOA-C96A-Letter.pdf?v=1733933860\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-2200-B-TSOA-C96A-Letter.pdf?v=1733933860\">SunBeacon II<br/>White 11-2200-B</a></p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_nQnr4F": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/Suntail_Install_2.png",
+            "title": "",
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-1260-TSOA-Letter-2.pdf?v=1733933928\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/11-1260-TSOA-Letter-2.pdf?v=1733933928\">SunTail 11-1260</a></p>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Xg3aD4",
+        "column_MdfGKP",
+        "column_jWrm9M",
+        "column_da7CBh",
+        "column_wWwVHX",
+        "column_nQnr4F"
+      ],
+      "settings": {
+        "separator_line": false,
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "liquid_code": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "support_multicolumn_Gb7ttz"
+  ]
+}

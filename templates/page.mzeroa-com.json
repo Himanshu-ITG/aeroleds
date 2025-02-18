@@ -1,0 +1,116 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "custom_image_with_text_Hraq3A": {
+      "type": "custom-image-with-text",
+      "blocks": {
+        "text_nF4mBH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>MzeroA.com is the #1 Rated Online Flight Training School across the nation. Based out of Ocala, FL. MzeroA.com was Founded and produced by Jason Schappert, a CFII and ATP rated pilot and author of eight aviation flight training books. MxeroA.com provides online FAA training and test preparation for everything from drones to airline pilots.</p>",
+            "text_style": "body"
+          }
+        },
+        "social_media_3FKMV8": {
+          "type": "social_media",
+          "settings": {
+            "facebook": "https://www.facebook.com/MzeroA",
+            "youtube": "https://www.youtube.com/user/MzeroAFlightTraining",
+            "instagram": "https://www.instagram.com/mzeroa",
+            "link": "https://www.m0a.com/"
+          }
+        }
+      },
+      "block_order": [
+        "text_nF4mBH",
+        "social_media_3FKMV8"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Logo.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "custom_rich_text_69Uqym": {
+      "type": "custom-rich-text",
+      "blocks": {
+        "video_popup_button_gA96wW": {
+          "type": "video_popup_button",
+          "settings": {
+            "button_label": "See MzeroA.com's Featured Video",
+            "video_url": "https://www.youtube.com/watch?v=apP7a9WKSKo"
+          }
+        }
+      },
+      "block_order": [
+        "video_popup_button_gA96wW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "custom_rich_text_rdNwnf": {
+      "type": "custom-rich-text",
+      "blocks": {
+        "button_K8KDfU": {
+          "type": "button",
+          "settings": {
+            "button_label": "Back to Partners",
+            "button_link": "shopify://pages/partners",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_K8KDfU"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_image_with_text_Hraq3A",
+    "custom_rich_text_69Uqym",
+    "custom_rich_text_rdNwnf"
+  ]
+}

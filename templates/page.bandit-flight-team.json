@@ -1,0 +1,116 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "custom_image_with_text_zdK6wj": {
+      "type": "custom-image-with-text",
+      "blocks": {
+        "text_AAnQan": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Bandit Flight Team based out of Raleigh, NC, is a group of highly-trained, experienced pilots that combine their love of flying with an appreciation for vintage military aircraft. The Bandits are based in the Raleigh, NC area and flies their aircraft to preserve the military Warbird heritage and as an opportunity to salute our returning war veterans.</p>",
+            "text_style": "body"
+          }
+        },
+        "social_media_ePaj9T": {
+          "type": "social_media",
+          "settings": {
+            "facebook": "https://www.facebook.com/banditflightteam",
+            "youtube": "https://www.youtube.com/channel/UCFAlj9tRy1krA4HqBDg3jyQ",
+            "instagram": "https://www.instagram.com/bandit_flight_team",
+            "link": "http://www.banditflightteam.com/"
+          }
+        }
+      },
+      "block_order": [
+        "text_AAnQan",
+        "social_media_ePaj9T"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/bandit-flight-team-logo_1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 52
+      }
+    },
+    "custom_rich_text_tccCWh": {
+      "type": "custom-rich-text",
+      "blocks": {
+        "video_popup_button_HCj4xP": {
+          "type": "video_popup_button",
+          "settings": {
+            "button_label": "See Bandit's Featured Video",
+            "video_url": "https://www.youtube.com/watch?v=VYsqIHhOYOI"
+          }
+        }
+      },
+      "block_order": [
+        "video_popup_button_HCj4xP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_Tg4FPJ": {
+      "type": "rich-text",
+      "blocks": {
+        "button_ByJVXa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Back to Partners",
+            "button_link": "shopify://pages/partners",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_ByJVXa"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_image_with_text_zdK6wj",
+    "custom_rich_text_tccCWh",
+    "rich_text_Tg4FPJ"
+  ]
+}

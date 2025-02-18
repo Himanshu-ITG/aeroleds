@@ -1,0 +1,84 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_rimdLA": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Bulf-Cross-Ref.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_cbQrr3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xMyTJ6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Aircraft Bulb Replacement Chart",
+            "heading_size": "h1"
+          }
+        },
+        "text_NgFRQk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>AeroLEDs is the perfect solution for your aircraft bulb replacement needs. If you are looking at replacing your incandescent bulbs with LED, this chart will help with that conversion. You will find that <a href=\"/pages/the-led-advantage\" title=\"The Led Advantage\">LED based lighting</a> products will easily last over 30,000 hours of continuous operation. This is far greater than their halogen and xenon counterparts. Additionally, they typically use 1/3 the power of halogen lights and are extremely lightweight—perfect for aircraft lighting.</p><p>To use the Bulb Cross Reference Sheet, look up your current bulb and you will find the AeroLEDs LED bulb replacement across from it. If you don’t see your bulb, give us a <a href=\"tel:+1-208-850-3294\">call</a> or a quick <a href=\"mailto:sales@AeroLEDS.com\">email</a>. We are happy to help you find an AeroLEDs LED replacement bulb.</p>"
+          }
+        },
+        "button_ddCiTt": {
+          "type": "button",
+          "settings": {
+            "button_label": "LANDING LIGHT – BULB REPLACEMENT CHART",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Landing-Bulb-Chart.pdf?v=1732171118",
+            "button_style_secondary": false,
+            "button_label_2": "TAXI LIGHT – BULB REPLACEMENT CHART",
+            "button_link_2": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Taxi-Bulb-Chart.pdf?v=1732171818",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xMyTJ6",
+        "text_NgFRQk",
+        "button_ddCiTt"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_rimdLA",
+    "rich_text_cbQrr3"
+  ]
+}

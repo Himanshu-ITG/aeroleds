@@ -1,0 +1,489 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_CReTML": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_3PqKBh": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Event Page",
+            "button_link_1": "shopify://products/starlight-led-wing-inspection-light",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_3PqKBh"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Starlight-Web-Banner-1.png",
+        "image_overlay_opacity": 10,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-bf6f7a1e-a03a-4c3f-884b-14c34aeb59aa",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_AQB6W8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EEahxx": {
+          "type": "heading",
+          "settings": {
+            "heading": "AEROLEDS INSTALLATION GALLERY",
+            "heading_size": "h1"
+          }
+        },
+        "text_tde4kJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Embark on a visual journey through our gallery, showcasing AeroLEDs installations on diverse variations of aircraft makes and models. We want you to make an informed decision when it comes to this important safety upgrade. Don’t see your aircraft listed? Not to worry! AeroLEDs is certified to equip virtually any aircraft in the Part 23, 25, 27, 29 and Experimental categories. From nose to tail we offer a vast array of LED solutions to bring your aircraft to life and keep you flying safer.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EEahxx",
+        "text_tde4kJ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "installation_gallery_TAJTEE": {
+      "type": "installation-gallery",
+      "blocks": {
+        "image_zrERHc": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/SunSpot-36-Bonanza-Custom-rotated.jpg",
+            "title1": "Bonanza",
+            "image2": "shopify://shop_images/BeechJeet-400_SunSpot45-4580_Recog-in-V-Stab-01.jpg",
+            "title2": "Beechjet",
+            "image3": "shopify://shop_images/KingAir-AeroLEDs-InstalPR1-002-scaled.jpg",
+            "title3": "King Air",
+            "image4": "shopify://shop_images/Bonanza-B36TC-Cowl-landing-light-scaled.jpg",
+            "title4": "Bonanza",
+            "image5": "shopify://shop_images/Bearhawk_Pulsar-NSP-01-scaled.jpg",
+            "title5": "",
+            "image6": "shopify://shop_images/Bearhawk_AeroSun-01-2-Custom.jpg",
+            "title6": "",
+            "image7": "shopify://shop_images/Husky_SunSpot36_01-Custom-1.jpg",
+            "title7": "Husky",
+            "image8": "shopify://shop_images/American-Champion-Xtreme-Decathalon_Pulsar-NSP.jpg",
+            "title8": "",
+            "title9": "",
+            "title10": ""
+          }
+        },
+        "image_zCbbQP": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/BeechJeet-Recog-in-V-Stab_SunBeam-01_cropped.jpg",
+            "title1": "Beechjet",
+            "image2": "shopify://shop_images/BeechJet-400-_-cropped-scaled.jpg",
+            "title2": "Beechjet",
+            "image3": "shopify://shop_images/New-Fairing-SunBeacon-II.jpg",
+            "title3": "Bonanza",
+            "image4": "shopify://shop_images/BeachJet-400_SunBEaconII-01_copy.jpg",
+            "title4": "Beechjet",
+            "image5": "shopify://shop_images/Bonanza-B36TC_Pulsar-NS_SunBeam-4.jpg",
+            "title5": "Bonanza",
+            "image6": "shopify://shop_images/BeechJet-400_Starlight-01-scaled.jpg",
+            "title6": "Beechjet",
+            "image7": "shopify://shop_images/Bonanza-DShannon-scaled.jpg",
+            "title7": "Bonanza",
+            "image8": "shopify://shop_images/T6-SunSpot46-4580-1.jpg",
+            "title8": "T-6",
+            "image9": "shopify://shop_images/Bonanza-SunSpot46-4580-Custom.jpg",
+            "title9": "Bonanza",
+            "image10": "shopify://shop_images/King-Air_SunSpot-36-Custom.jpg",
+            "title10": "King Air"
+          }
+        },
+        "image_XgE4xA": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/Cessna_150_Colby-Chad_SunSpot-36-4000-Landing_On-scaled.jpg",
+            "title1": "150",
+            "image2": "shopify://shop_images/Cessna-182_-SunSpot-36-scaled.jpg",
+            "title2": "182",
+            "image3": "shopify://shop_images/Cessna-414A-Taxi-Light-scaled.jpg",
+            "title3": "414",
+            "image4": "shopify://shop_images/310A-scaled.jpg",
+            "title4": "310",
+            "image5": "shopify://shop_images/Bombardier-Challenger-6XX_Starlight-01.jpg",
+            "title5": "Challenger",
+            "image6": "shopify://shop_images/Challenger-604-scaled.jpg",
+            "title6": "Challenger",
+            "image7": "shopify://shop_images/Bell-407_Pulsar-NSP-01-scaled.jpg",
+            "title7": "407",
+            "image8": "shopify://shop_images/Jaime-Samuell-Bell-47-Custom.jpg",
+            "title8": "47",
+            "image9": "shopify://shop_images/Beech-F33-IMG_0723.jpg",
+            "title9": "Bonanza",
+            "image10": "shopify://shop_images/Left-Wing-LED.jpg",
+            "title10": "Bonanza"
+          }
+        },
+        "image_jbKECT": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/Zodiak-XL_SunSpot36-01-Custom-250x250.jpg",
+            "title1": "XL",
+            "title2": "",
+            "image3": "shopify://shop_images/RV8_AeroSun-vX-Pulsar-NS-1.jpg",
+            "title3": "RV-8",
+            "image4": "shopify://shop_images/RV8_Pulsar-NS-01-scaled.jpg",
+            "title4": "RV-8",
+            "image5": "shopify://shop_images/RV7_Pulsar-NS-03-2-scaled.jpg",
+            "title5": "RV-7",
+            "image6": "shopify://shop_images/krea_ellis_vansrv7a_N853DF-10-2-1-scaled.jpg",
+            "title6": "RV-7",
+            "image7": "shopify://shop_images/Screenshot-704.png",
+            "title7": "RV-10",
+            "image8": "shopify://shop_images/Screenshot-705.png",
+            "title8": "RV-7",
+            "image9": "shopify://shop_images/Screenshot-706.png",
+            "title9": "RV-8",
+            "image10": "shopify://shop_images/RV10_Pulsar-NS_AeroSun-VX-01-scaled.jpg",
+            "title10": "RV-10"
+          }
+        },
+        "image_8Tt9tW": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/Cessna_205_Colby-Chad_SunTail-scaled.jpg",
+            "title1": "205",
+            "image2": "shopify://shop_images/Cessna-421-Retract-SunSpot-46-4580-scaled.jpg",
+            "title2": "421",
+            "image3": "shopify://shop_images/Cessna-182RG-SunTail-scaled.jpg",
+            "title3": "182",
+            "image4": "shopify://shop_images/Cessna-Turbo-210-rotated.jpg",
+            "title4": "210",
+            "image5": "shopify://shop_images/Cessna_205_Colby-Chad_SunBeacon-scaled.jpg",
+            "title5": "205",
+            "image6": "shopify://shop_images/Cessna-185jpg.jpg",
+            "title6": "185",
+            "image7": "shopify://shop_images/Cessna-A185F-amphib-2-1-scaled.jpg",
+            "title7": "185",
+            "image8": "shopify://shop_images/T182-4-1-rotated.jpg",
+            "title8": "182",
+            "image9": "shopify://shop_images/NSP-Cessna-scaled.jpg",
+            "title9": "",
+            "image10": "shopify://shop_images/Cessna-185-NSP-Photo_4.jpg",
+            "title10": "185"
+          }
+        },
+        "image_zQTQzM": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/IMG_4842-scaled.jpg",
+            "title1": "DA40",
+            "image2": "shopify://shop_images/IMG_4847-scaled.jpg",
+            "title2": "DA40",
+            "image3": "shopify://shop_images/IMG_7534-scaled_1.jpg",
+            "title3": "Falcon",
+            "image4": "shopify://shop_images/IMG_7786-scaled_1.jpg",
+            "title4": "Falcon",
+            "image5": "shopify://shop_images/Kodiak_Pulsar-NSP-01--scaled.jpg",
+            "title5": "Kodiak",
+            "image6": "shopify://shop_images/Graham-Bruce.jpg",
+            "title6": "Carbon Cub",
+            "image7": "shopify://shop_images/aero-led-cirrus-sr22-0452_51802653393_o-Custom.jpg",
+            "title7": "SR22",
+            "image8": "shopify://shop_images/Cirrus-SR20_Pulsar-01-9-scaled.jpg",
+            "title8": "SR20",
+            "image9": "shopify://shop_images/Cirrus-_Pulsar-NSP-01-scaled.jpg",
+            "title9": "",
+            "image10": "shopify://shop_images/Cessna-195_SunTail-01-scaled.jpg",
+            "title10": "195"
+          }
+        },
+        "image_wfdHiP": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/Glasair-III_SunSpot-36-Custom-rotated.jpg",
+            "title1": "III",
+            "image2": "shopify://shop_images/Glasair-III_SunSpot-36-scaled.jpg",
+            "title2": "3",
+            "image3": "shopify://shop_images/Extra-300_Pulsar-01-3.jpg",
+            "title3": "300",
+            "image4": "shopify://shop_images/708A2880-250x250.jpg",
+            "title4": "AS350",
+            "image5": "shopify://shop_images/708A2940-scaled.jpg",
+            "title5": "AS350",
+            "image6": "shopify://shop_images/708A2839-scaled.jpg",
+            "title6": "AS350",
+            "image7": "shopify://shop_images/708A2821-scaled.jpg",
+            "title7": "AS350",
+            "image8": "shopify://shop_images/AS350B3_Guillermo-Siman_SunTail_Cropped.jpg",
+            "title8": "AS350",
+            "image9": "shopify://shop_images/Untitled-2000-x-1200-px.jpg",
+            "title9": "DA20",
+            "image10": "shopify://shop_images/DA40-with-NSP.jpg",
+            "title10": "DA40"
+          }
+        },
+        "image_q8GDhx": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/New-Logo4-scaled.jpg",
+            "title1": "",
+            "image2": "shopify://shop_images/Lancair-Evolution_Pulsar-01-4-scaled_8ae9ff5d-30ee-4e75-84db-3f6fcd90a575.jpg",
+            "title2": "Evolution",
+            "image3": "shopify://shop_images/Evolution_MicroSun-01-2-scaled_272163c7-39e9-459b-b04d-8b8ffae4cc66.jpg",
+            "title3": "Evolution",
+            "image4": "shopify://shop_images/Lancair-landing-gear-2-Custom_d33c8e39-c8bc-4dc7-993e-94f026d4bd09.jpg",
+            "title4": "",
+            "image5": "shopify://shop_images/Lancair-IVP_Aero-LED-006-Custom_f96c8626-7949-4964-aed2-46d40865b36f.jpg",
+            "title5": "IV-P",
+            "image6": "shopify://shop_images/721AE43E-E22F-47EE-9E9C-A1BA7E37139B.jpg",
+            "title6": "Series 5",
+            "image7": "shopify://shop_images/B9F26CF8-99A0-483C-80A3-948C262E3BDA.jpg",
+            "title7": "Series 5",
+            "image8": "shopify://shop_images/Pulsar-wingtip-lights-NAVACSPOS-scaled.jpg",
+            "title8": "",
+            "image9": "shopify://shop_images/JABIRU_J230-D-scaled.jpg",
+            "title9": "J230",
+            "image10": "shopify://shop_images/Glasair-Sportsman-rotated.jpg",
+            "title10": "Sportsman"
+          }
+        },
+        "image_fhwrkY": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/Cessna-A185F-amphib-2-scaled.jpg",
+            "title1": "185",
+            "image2": "shopify://shop_images/T182-3.jpg",
+            "title2": "182",
+            "image3": "shopify://shop_images/Cessna-172_Pulsar-NSP-01-scaled.jpg",
+            "title3": "172",
+            "image4": "shopify://shop_images/Cessna_150_Colby-Chad_PulsarN-scaled.jpg",
+            "title4": "205",
+            "image5": "shopify://shop_images/Cessna-185_AeroSunCx-01-4-scaled.jpg",
+            "title5": "185",
+            "image6": "shopify://shop_images/C-172L-2-Custom.jpg",
+            "title6": "172",
+            "image7": "shopify://shop_images/Cessna_205_Colby-Chad_Quasar-Cx-scaled.jpg",
+            "title7": "205",
+            "image8": "shopify://shop_images/Cessna-414A-Nacelle-Recog-Lights-scaled.jpg",
+            "title8": "414",
+            "image9": "shopify://shop_images/Cessna-180_AeroSunCx-01.jpg",
+            "title9": "180",
+            "image10": "shopify://shop_images/Cessna_210-scaled.jpg",
+            "title10": "210"
+          }
+        },
+        "image_RgApg3": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/Zodiak-XL_Pulsar-NSP-01-250x250.jpg",
+            "title1": "Zodiak XL",
+            "image2": "shopify://shop_images/RV-14_Suntail-01-2.jpg",
+            "title2": "RV-14",
+            "image3": "shopify://shop_images/RV9_SunTail-01-scaled.jpg",
+            "title3": "RV-9",
+            "image4": "shopify://shop_images/Sunray-Plus-RV9A-1.jpg",
+            "title4": "RV-9",
+            "image5": "shopify://shop_images/RV7_Pulsar-NS_SunRay-01.jpg",
+            "title5": "RV-7",
+            "image6": "shopify://shop_images/RV6_SunTail-05-scaled.jpg",
+            "title6": "RV-6",
+            "image7": "shopify://shop_images/Screenshot-710.png",
+            "title7": "RV-7",
+            "image8": "shopify://shop_images/Alan_Lancello_Vans_RV14_fullscale-4-scaled.jpg",
+            "title8": "RV-14",
+            "image9": "shopify://shop_images/Jeff-Hayes-RV-10-Full-Scale-2-scaled.jpg",
+            "title9": "RV-9",
+            "image10": "shopify://shop_images/RV10_Pulsar-NS-02-scaled.jpg",
+            "title10": "RV-10"
+          }
+        },
+        "image_Db94tr": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/Draco_SunTail-scaled.jpg",
+            "title1": "Draco",
+            "image2": "shopify://shop_images/Draco_SunBeacon-scaled.jpg",
+            "title2": "Draco",
+            "image3": "shopify://shop_images/Draco_Pulsar-NSp-scaled.jpg",
+            "title3": "Draco",
+            "image4": "shopify://shop_images/Drako-SunSpot-46-4580.jpg",
+            "title4": "Draco",
+            "image5": "shopify://shop_images/Draco-SS36-4596-scaled.jpg",
+            "title5": "Draco",
+            "image6": "shopify://shop_images/NS-Waco-scaled.jpg",
+            "title6": "",
+            "image7": "shopify://shop_images/Waco_AeroSun-Custom.jpg",
+            "title7": "GX",
+            "image8": "shopify://shop_images/SS36-Waco-Custom.jpg",
+            "title8": "",
+            "image9": "shopify://shop_images/Velocity_SunTail-scaled.jpg",
+            "title9": "",
+            "image10": "shopify://shop_images/RV8-Suntail.jpg",
+            "title10": "RV-8"
+          }
+        },
+        "image_CyU6wm": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/RV9_VX_Pulsar-NS_2.jpg",
+            "title1": "RV-9",
+            "image2": "shopify://shop_images/RV8-AeroSun-Vx-Pulsar-NS.jpg",
+            "title2": "RV-8",
+            "image3": "shopify://shop_images/RV12_AeroSun-01-Custom.jpg",
+            "title3": "RV-12",
+            "image4": "shopify://shop_images/mike_collins_vansrv7_fullsize_watermark_50scale.jpg",
+            "title4": "RV-7",
+            "image5": "shopify://shop_images/RV4-Custom.jpg",
+            "title5": "RV-4",
+            "image6": "shopify://shop_images/RV6_AeroSun-03-Custom.jpg",
+            "title6": "RV-6",
+            "image7": "shopify://shop_images/Swift_Jones-Jim-Frog-scaled.jpg",
+            "title7": "",
+            "image8": "shopify://shop_images/Socata-TBM-700_SunSpot36-01-01-4-scaled.jpg",
+            "title8": "TBM 700",
+            "image9": "shopify://shop_images/Bushcat_AeroSun-01-Custom.jpg",
+            "title9": "BushCat",
+            "image10": "shopify://shop_images/10_60d954e4-fed3-4957-a5d1-e7def77552a0.jpg",
+            "title10": "R44"
+          }
+        },
+        "image_HHQRq4": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/R66-Custom.jpg",
+            "title1": "R66",
+            "image2": "shopify://shop_images/Remos_Pulsar-NS-01-2.jpg",
+            "title2": "GX",
+            "image3": "shopify://shop_images/SunTail_MG_0078-Piper-12.jpg",
+            "title3": "PA-12",
+            "image4": "shopify://shop_images/Suntail-Supercub-scaled.jpg",
+            "title4": "Super Cub",
+            "image5": "shopify://shop_images/Piper_PA23_SunTail-scaled.jpg",
+            "title5": "PA-23",
+            "image6": "shopify://shop_images/Piper-Aztec_SunBEaconII-01-13-scaled.jpg",
+            "title6": "Aztec",
+            "image7": "shopify://shop_images/PA28-181-2-scaled.jpg",
+            "title7": "PA-28",
+            "image8": "shopify://shop_images/NSP-Supercub-scaled.jpg",
+            "title8": "Super Cub",
+            "image9": "shopify://shop_images/Piper-Seminole_Coleman-Dave_PulsarNSP-scaled.jpg",
+            "title9": "PA-44",
+            "image10": "shopify://shop_images/Screenshot-708.png",
+            "title10": "PA-32"
+          }
+        },
+        "image_FjxnaA": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/Piper-Meridian_-MicroSun-Retrofit-2-scaled.jpg",
+            "title1": "Meridian",
+            "image2": "shopify://shop_images/Piper_PA46-350P_Pulsar-2.jpg",
+            "title2": "PA-46",
+            "image3": "shopify://shop_images/Piper-Aztec_Pulsar-NSP-01-2-scaled.jpg",
+            "title3": "Aztec",
+            "image4": "shopify://shop_images/Piper-Cub_Pulsar-NSP-02-2-scaled.jpg",
+            "title4": "Cub",
+            "image5": "shopify://shop_images/SS36-Supercub-Custom.jpg",
+            "title5": "Super Cub",
+            "image6": "shopify://shop_images/Pilatus-PC12_SunSpot36-01-01.jpg",
+            "title6": "PC-12",
+            "image7": "shopify://shop_images/Pilatus-PC7_SunSpot-36-01-3-scaled_6d67a636-5e94-4e20-9638-4f8d3a32198b.jpg",
+            "title7": "PC-7",
+            "image8": "shopify://shop_images/Phoenix-Motor-Glider_NSP.jpg",
+            "title8": "Phoenix",
+            "image9": "shopify://shop_images/M20J-4-Custom-rotated.jpg",
+            "title9": "M20",
+            "image10": "shopify://shop_images/Mooney-MSE-rotated.jpg",
+            "title10": "M20"
+          }
+        },
+        "image_KPXJGr": {
+          "type": "image",
+          "settings": {
+            "image1": "shopify://shop_images/Mooney-MSE_Pulsar-NS-01.jpg",
+            "title1": "M20",
+            "image2": "shopify://shop_images/SS36-Luscombe-Custom.jpg",
+            "title2": "",
+            "image3": "shopify://shop_images/Suntail-Luscombe-scaled.jpg",
+            "title3": "",
+            "image4": "shopify://shop_images/Aircam_NS-scaled.jpg",
+            "title4": "AirCam",
+            "image5": "shopify://shop_images/0L1A8705-scaled.jpg",
+            "title5": "AW139",
+            "image6": "shopify://shop_images/American-Legend-scaled.jpg",
+            "title6": "",
+            "image7": "shopify://shop_images/DSC01578-scaled.jpg",
+            "title7": "American Legend",
+            "image8": "shopify://shop_images/Legacy-scaled.jpg",
+            "title8": "Legacy",
+            "image9": "shopify://shop_images/Lancair-Legacy-Suntail.jpg",
+            "title9": "",
+            "image10": "shopify://shop_images/Photo-2.jpg",
+            "title10": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_zrERHc",
+        "image_zCbbQP",
+        "image_XgE4xA",
+        "image_jbKECT",
+        "image_8Tt9tW",
+        "image_zQTQzM",
+        "image_wfdHiP",
+        "image_q8GDhx",
+        "image_fhwrkY",
+        "image_RgApg3",
+        "image_Db94tr",
+        "image_CyU6wm",
+        "image_HHQRq4",
+        "image_FjxnaA",
+        "image_KPXJGr"
+      ],
+      "settings": {
+        "heading": "",
+        "show_select_option": true,
+        "padding_top": 12,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "image_banner_CReTML",
+    "main",
+    "rich_text_AQB6W8",
+    "installation_gallery_TAJTEE"
+  ]
+}

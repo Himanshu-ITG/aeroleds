@@ -1,0 +1,505 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "landing_blocks_BkFfQh": {
+      "type": "landing-blocks",
+      "blocks": {
+        "column_xEpTVR": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/AeroSun-EVO-IV.png",
+            "block_heading": "AeroSun EVO IV",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-2120 </li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0100-0003-AeroSun-EVO-IV-Installation-Rev-C.pdf?v=1733853102"
+          }
+        },
+        "column_4Hq4fT": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/AeroSun-VX.png",
+            "block_heading": "AeroSun VX",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-2500</li><li>01-2500-L</li><li>01-2500-R</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0002-0005-AeroSun-Vx-Installation-Instructions-Rev-C.pdf?v=1733853231"
+          }
+        },
+        "column_cj7FEw": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/MicroSun-LED.png",
+            "block_heading": "MicroSun LED",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-1177</li><li>01-1170A</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0104-0003-01-1170-MicroSun-Installation-Rev-B_67504089-0097-4d1a-a543-12ecdda70166.pdf?v=1738156189"
+          }
+        },
+        "column_HMjfUH": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/StarLight.png",
+            "block_heading": "StarLight",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-7079-24</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0005-0007-StarLight-Installation_Rev-IR_444d8f37-cfb5-46c6-83a9-baa3b52bc4c1.pdf?v=1733338098"
+          }
+        },
+        "column_Bg8t44": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/SunBeam-LED-Landing-Light.png",
+            "block_heading": "SunBeam LED Landing Light",
+            "discontinued-text": "",
+            "block_content": "<ul><li>90-1000-12</li><li>90-1000-24</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0013-0014-SunBeam-Installation-Instructions-Rev-E_3ace187a-4902-449f-8c81-8e2187ce0df3.pdf?v=1738152320"
+          }
+        },
+        "column_xKPzTC": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/SunRay-EVO-III.png",
+            "block_heading": "SunRay EVO III",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-1150</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0004-0004-SunRay-Installation-Instructions-Rev-C_973aedb6-58e5-4bcc-9160-989179376eb6.pdf?v=1732653403"
+          }
+        },
+        "column_w7qeXG": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-36-4000-75W-Landing-Light.png",
+            "block_heading": "SunSpot 36 LXI (45W)",
+            "discontinued-text": "DISCONTINUED",
+            "block_content": "<ul><li>01-1030-L-B</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-36-ICON.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0003-0004-SunSpot36-LXi-Installation-Instructions-Rev_I_1.pdf?v=1733855310"
+          }
+        },
+        "column_qUkBWm": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-36-4000-75W-Taxi-Light.png",
+            "block_heading": "SunSpot 36 LXI (45W)",
+            "discontinued-text": "DISCONTINUED",
+            "block_content": "<ul><li>01-1030-L-A</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-36-ICON.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0003-0004-SunSpot36-LXi-Installation-Instructions-Rev_I_1.pdf?v=1733855310"
+          }
+        },
+        "column_7ektMt": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-36-4000-75W-Landing-Light.png",
+            "block_heading": "SunSpot 36-4000 (75W) Landing Light",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-1030-4509</li><li>01-1030-4509-H</li><li>01-1030-4591</li><li>01-1030-4591-H</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-36-ICON.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0019-0004-SunSpot-36-4000-Series-Installation-Instructions_Rev_H_2.pdf?v=1733866363"
+          }
+        },
+        "column_X7KrGz": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-36-4000-75W-Taxi-Light.png",
+            "block_heading": "SunSpot 36-4000 (75W) Taxi Light",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-1030-4519</li><li>01-1030-4519-H</li><li>01-1030-4626</li><li>01-1030-4626-H</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-36-ICON.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0019-0004-SunSpot-36-4000-Series-Installation-Instructions_Rev_H_2.pdf?v=1733866363"
+          }
+        },
+        "column_VFExfx": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-100W-PAR-36-LED-Landing-Light.png",
+            "block_heading": "SunSpot 36-4000 (100W) Landing Light",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-1030-4313</li><li>01-1030-4313-H</li><li>01-1030-4596</li><li>01-1030-4596-H</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-36-ICON.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0019-0004-SunSpot-36-4000-Series-Installation-Instructions_Rev_H_2.pdf?v=1733866363"
+          }
+        },
+        "column_RLRj3U": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-100W-PAR-36-LED-Taxi-Light.png",
+            "block_heading": "SunSpot 36-4000 (100W) Taxi Light",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-1030-4313</li><li>01-1030-4313-H</li><li>01-1030-4596</li><li>01-1030-4596-H</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-36-ICON.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0019-0004-SunSpot-36-4000-Series-Installation-Instructions_Rev_H_2.pdf?v=1733866363"
+          }
+        },
+        "column_NpmELQ": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-100W-PAR-36-LED-Landing-Light.png",
+            "block_heading": "SunSpot 36 EQUINOX",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-1030-LT-12</li><li>01-1030-LT-24</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "button_label": "Download Installation Guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0028-0002-SunSpot-36-Equinox-Series-Installation-Instructions_Rev_IR-20.pdf?v=1733868856"
+          }
+        },
+        "column_PytAEz": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-46-4000-Landing-Light_fdd1c3b4-58e7-4e2a-be8c-09ccd6f5bbe1.png",
+            "block_heading": "SunSpot 46 EQUINOX",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-2230-LT-12</li><li>01-2230-LT-24</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-46-ICON.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0030-0002-SunSpot-46-Equinox-Series-Installation-Instructions_Rev_IR.pdf?v=1733866752"
+          }
+        },
+        "column_MrfRHH": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-46-4000-Landing-Light_fdd1c3b4-58e7-4e2a-be8c-09ccd6f5bbe1.png",
+            "block_heading": "SunSpot 46 LX/HX",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-2130-LX <strong>DISCONTINUED</strong></li><li>01-2130-HX <strong>DISCONTINUED</strong></li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-46-ICON.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0010-0004-SunSpot-46-HX-LX-Installation-Rev-H_released.pdf?v=1733866861"
+          }
+        },
+        "column_WJbgYR": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-46-4000-Landing-Light.png",
+            "block_heading": "SunSpot 46-4000 Landing Light",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-2230-4522</li><li>01-2230-4522-H</li><li>01-2230-4580</li><li>01-2230-4580-H</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-46-ICON.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0107-0004-SunSpot-46-4000-Series-Installation-Rev_J_1.pdf?v=1733866942"
+          }
+        },
+        "column_D7jXim": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-46-4000-Taxi-Light.png",
+            "block_heading": "SunSpot 46-4000 Taxi Light",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-2230-4522</li><li>01-2230-4522-H</li><li>01-2230-4580</li><li>01-2230-4580-H</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-46-ICON.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0107-0004-SunSpot-46-4000-Series-Installation-Rev_J_1.pdf?v=1733866942"
+          }
+        },
+        "column_bKQUx4": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/Sunspot-64-4000-Landing-Light.png",
+            "block_heading": "SunSpot 64-4000 Landing Light",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-2250-4559</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-64-ICON_1.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0108-0004_SunSpot_64-4559_01-2250-4559_Installation_Instructions_Rev_D.pdf?v=1733867783"
+          }
+        },
+        "column_XWyAeH": {
+          "type": "column",
+          "settings": {
+            "match_title": "Landing & Taxi Lights",
+            "block_image": "shopify://shop_images/PilatusPCXMain.png",
+            "block_heading": "SunSpot PCX  Landing & Taxi Light",
+            "discontinued-text": "",
+            "block_content": "<ul><li>900-01-100-B</li><li>900-01-100-C</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/PAR-36-ICON.svg",
+            "block_image_logo_3": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/3000-0010-AeroLEDs-Piltatus-Landing-Taxi-Installation.pdf?v=1732259648"
+          }
+        },
+        "column_MXJTGr": {
+          "type": "column",
+          "settings": {
+            "match_title": "Navigation & Strobe Lights",
+            "block_image": "shopify://shop_images/Pulsar-11-1100.png",
+            "block_heading": "CERTIFIED Pulsar N",
+            "discontinued-text": "",
+            "block_content": "<ul><li>11-2080-A-12</li><li>11-2080-A-12-L</li><li>11-2080-A-12-R</li><li>11-2080-A-24</li><li>11-2080-A-24-L</li><li>11-2080-A-24-R</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0008-0006-Certified-Pulsar-N-Series-Installation_Rev-G-3.pdf?v=1733853464"
+          }
+        },
+        "column_bmK7WJ": {
+          "type": "column",
+          "settings": {
+            "match_title": "Navigation & Strobe Lights",
+            "block_image": "shopify://shop_images/Certified-SunBeacon-II.png",
+            "block_heading": "CERTIFIED SunBeacon II",
+            "discontinued-text": "",
+            "block_content": "<ul><li>11-2200-A-12</li><li>11-2200-A-24</li><li>11-2200-B-24</li><li>11-2200-B-24</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0012-0005-Sunbeacon-II-Installation_Rev_E.pdf?v=1733925349"
+          }
+        },
+        "column_djnFdN": {
+          "type": "column",
+          "settings": {
+            "match_title": "Navigation & Strobe Lights",
+            "block_image": "shopify://shop_images/Suntail_Install_2.png",
+            "block_heading": "CERTIFIED SunTail",
+            "discontinued-text": "",
+            "block_content": "<ul><li>11-1260-12</li><li>11-1260-24</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0009-0018-Certified-Suntail-Installation_Rev_B.pdf?v=1733925989"
+          }
+        },
+        "column_XCtMDB": {
+          "type": "column",
+          "settings": {
+            "match_title": "Navigation & Strobe Lights",
+            "block_image": "shopify://shop_images/Suntail_Install_2.png",
+            "block_heading": "EXPERIMENTAL SunTail",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-1260-12</li><li>01-1260-24</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0009-0026-Experimental-Suntail-Installation_Rev_A.pdf?v=1733926114"
+          }
+        },
+        "column_69CLRg": {
+          "type": "column",
+          "settings": {
+            "match_title": "Navigation & Strobe Lights",
+            "block_image": "shopify://shop_images/Pulsar-650.png",
+            "block_heading": "Pulsar 600",
+            "discontinued-text": "",
+            "block_content": "<ul><li>11-1100-12-L</li><li>11-1100-12-R</li><li>11-1100-24-L</li><li>11-1100-24-R</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0011-0005-Certified-Pulsar-Installation_Rev-D-1.pdf?v=1733854090"
+          }
+        },
+        "column_Azc4GE": {
+          "type": "column",
+          "settings": {
+            "match_title": "Navigation & Strobe Lights",
+            "block_image": "shopify://shop_images/Pulsar-660-EXP.png",
+            "block_heading": "Pulsar 600 EXP",
+            "discontinued-text": "",
+            "block_content": "<ul><li>11-1100-12-L</li><li>11-1100-12-R</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0011-0006-Experimental-Pulsar-Installation_Rev-A.pdf?v=1733854155"
+          }
+        },
+        "column_rznwDL": {
+          "type": "column",
+          "settings": {
+            "match_title": "Navigation & Strobe Lights",
+            "block_image": "shopify://shop_images/Pulsar-650_b7a13e7f-f595-4315-bcc6-2666b335bd37.png",
+            "block_heading": "Pulsar 650",
+            "discontinued-text": "",
+            "block_content": "<ul><li>11-1180-B-12-L</li><li>11-1180-B-12-R</li><li>11-1180-B-24-L</li><li>11-1180-B-24-R</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0008-0006-Certified-Pulsar-N-Series-Installation_Rev-G-3.pdf?v=1733853464"
+          }
+        },
+        "column_giCfFe": {
+          "type": "column",
+          "settings": {
+            "match_title": "Navigation & Strobe Lights",
+            "block_image": "shopify://shop_images/Pulsar-650-Cessna-Wingtip-Fairing-Adapter.png",
+            "block_heading": "Pulsar 650 Cessna Wingtip Fairing Adapter",
+            "discontinued-text": "",
+            "block_content": "<ul><li>KIT-01-1091</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0115-0001-Cessna-Fairing-Kit-Installation-Rev_IR-2.pdf?v=1733927062"
+          }
+        },
+        "column_DiBXK3": {
+          "type": "column",
+          "settings": {
+            "match_title": "Navigation & Strobe Lights",
+            "block_image": "shopify://shop_images/Pulsar-650-EXP.png",
+            "block_heading": "Pulsar 650 EXP",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-1280-B-12-L</li><li>01-1280-B-12-R</li><li>01-1280-B-24-L</li><li>01-1280-B-24-R</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0008-0022-Experimental-Pulsar-N-Series-Installation_Rev-F_1.pdf?v=1733853963"
+          }
+        },
+        "column_BPHiTx": {
+          "type": "column",
+          "settings": {
+            "match_title": "Navigation & Strobe Lights",
+            "block_image": "shopify://shop_images/Pulsar-660.png",
+            "block_heading": "Pulsar 660",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-1280-B-12-L</li><li>01-1280-B-12-R</li><li>01-1280-B-24-L</li><li>01-1280-B-24-R</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0008-0006-Certified-Pulsar-N-Series-Installation_Rev-G-3.pdf?v=1733853464"
+          }
+        },
+        "column_eGdrrm": {
+          "type": "column",
+          "settings": {
+            "match_title": "Navigation & Strobe Lights",
+            "block_image": "shopify://shop_images/Pulsar-660-EXP_9bd3bf2c-a737-4e38-97b5-5c8a3fd32725.png",
+            "block_heading": "Pulsar 660 EXP",
+            "discontinued-text": "",
+            "block_content": "<ul><li>01-1280-B-12-L</li><li>01-1280-B-12-R</li><li>01-1280-B-24-L</li><li>01-1280-B-24-R</li></ul>",
+            "block_image_logo_1": "shopify://shop_images/Download-Installation-Guide-ICON.svg",
+            "block_image_logo_2": "shopify://shop_images/LED-Lights-ICON.svg",
+            "button_label": "Download installation guide",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0008-0022-Experimental-Pulsar-N-Series-Installation_Rev-F_1.pdf?v=1733853963"
+          }
+        }
+      },
+      "block_order": [
+        "column_xEpTVR",
+        "column_4Hq4fT",
+        "column_cj7FEw",
+        "column_HMjfUH",
+        "column_Bg8t44",
+        "column_xKPzTC",
+        "column_w7qeXG",
+        "column_qUkBWm",
+        "column_7ektMt",
+        "column_X7KrGz",
+        "column_VFExfx",
+        "column_RLRj3U",
+        "column_NpmELQ",
+        "column_PytAEz",
+        "column_MrfRHH",
+        "column_WJbgYR",
+        "column_D7jXim",
+        "column_bKQUx4",
+        "column_XWyAeH",
+        "column_MXJTGr",
+        "column_bmK7WJ",
+        "column_djnFdN",
+        "column_XCtMDB",
+        "column_69CLRg",
+        "column_Azc4GE",
+        "column_rznwDL",
+        "column_giCfFe",
+        "column_DiBXK3",
+        "column_BPHiTx",
+        "column_eGdrrm"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "img_one": "shopify://shop_images/Pilatus-PC12-STC.png",
+        "text_one": "<p>Landing & Taxi Lights</p>",
+        "img_two": "shopify://shop_images/Navigation-Strobe-Lights-CLR.png",
+        "text_two": "<p>Navigation & Strobe Lights</p>",
+        "description": "<p>Aeroleds has listed all the manuals for our landing and taxi lights here. The manuals will show you how to successfully install our LEDs onto your aircraft. If you have any questions please don't hesitate to contact us on <a href=\"/pages/contact-1\" title=\"/pages/contact-1\">contact page</a></p>",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "landing_blocks_BkFfQh"
+  ]
+}

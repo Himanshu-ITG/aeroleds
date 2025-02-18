@@ -1,0 +1,201 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_aAW9qF": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/1_2140c552-6d6b-46c2-aac4-063194b9298d.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_aG46K4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LpwEX7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Partners",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LpwEX7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "manufacture_img_with_text_Waw9n6": {
+      "type": "manufacture-img-with-text",
+      "blocks": {
+        "image_7VVwRD": {
+          "type": "image",
+          "settings": {
+            "title_match": "",
+            "image": "shopify://shop_images/TITANS1-0-e1711654088916.jpg",
+            "height": "adapt",
+            "heading": "TITAN Aerobatic Team – OFFICIAL PREMIER PARTNER OF AEROLEDS",
+            "heading_size": "h1",
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "text": "<p>The TITAN Aerobatic Team based out of Birmingham, Alabama performs tight, awe-inspiring formation aerial maneuvers in front of millions of airshow fans all over North America. With Jimmy Fordham, team lead; Bryan Regan, right wing; and Steve Gustafson, left wing; this four-ship of T-6 Texan aircraft perform a series of loops, rolls, and bomb bursts in close formation for a classic aerobatic routine. </p><p><strong>Each aircraft is completely outfitted with AeroLEDs, including a custom “Amber Light”, which gives the illusion of flames being thrown from the tail of their aircraft. The brilliance of LEDs along with the “fire” & smoke effect is an added attraction that brings people back year-after-year to be dazzled by the TITAN Twilight Performance.</strong></p>",
+            "copy_link": "",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/TITANAerobaticTeam",
+            "you-tube": "",
+            "instagram": "https://www.instagram.com/titanaerobaticteam",
+            "button_label": "See TITAN in Action",
+            "button_link": "shopify://pages/titan-aerobatic-team-official-premier-partner-of-aeroleds",
+            "button_style_secondary": false
+          }
+        },
+        "image_z6wy48": {
+          "type": "image",
+          "settings": {
+            "title_match": "",
+            "image": "shopify://shop_images/Untitled.jpg",
+            "height": "adapt",
+            "heading": "Steve Henry",
+            "heading_size": "h1",
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "text": "<p>Steve Henry is one of the early backcountry flying content creators on YouTube, whose <a href=\"https://www.youtube.com/watch?v=jeQP-H_31JQ\" target=\"_blank\">“Dead Stick Takeoff”</a> video launched him into the spotlight as an adventure pilot more than a decade ago. He flew two miles and 1500 feet down to a riverbed with no engine running.</p><p>Since then Steve, has been consistently winning STOL competitions as well as STOL drags in his heavily modified Just Aircraft Highlander. Steve’s Yee Haw No. 44 is a the top contender in both short takeoff and landing contests, and STOL Drag races across the country.</p><p>When he’s not busy building his newest and baddest Yee Haw mod or taking part in extreme flying adventures, Steve and his wife Cathy of Nampa, Idaho are dealers for the Just Aircraft Highlander and SuperSTOL.</p>",
+            "copy_link": "https://www.wildwestaircraft.com/",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/wildwestaircraft",
+            "you-tube": "https://www.youtube.com/user/taildrgfun/featured",
+            "instagram": "https://www.instagram.com/wildweststeve/",
+            "button_label": "See Steve in Action",
+            "button_link": "shopify://pages/steve-henry",
+            "button_style_secondary": false
+          }
+        },
+        "image_Bgkjbh": {
+          "type": "image",
+          "settings": {
+            "title_match": "",
+            "image": "shopify://shop_images/Screen-Shot-2021-04-04-at-9.49.44-PM-9781792366246_9d7370b1-d640-421d-a2df-6f42e85bf14c.png",
+            "height": "adapt",
+            "heading": "Gary Reeves",
+            "heading_size": "h1",
+            "caption": "\"GPS\" (GUY IN THE PINK SHIRT)",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "text": "<p>Gary Reeves of PilotSafety.org is the the Lead rep for the FAA Safety Team, and the 2019 FAA National Instructor of the Year with over 8,000 hours of teaching Single Pilot IFR. Widely known as the top expert in using GPS (or the pink line) for Single Pilot IFR, Gary has authored the book<a href=\"https://pilotsafety.org/book\" target=\"_blank\"> Single-Pilot IFR Pro Tips</a> to help pilots all over the world truly master their avionics for Single Pilot IFR.</p><p>Recognized at top aviation conventions nationwide as “The Guy in the Pink Shirt”, thousands of pilots attend more classes from the Gary “GPS” Reeves, to learn about technology in IFR than anyone else.  </p>",
+            "copy_link": "https://pilotsafety.org/home",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/PilotSafety.org",
+            "you-tube": "https://www.youtube.com/channel/UC-OwXLMyQHFH79GWtv2Zctw",
+            "instagram": "https://www.instagram.com/pilotsafetyorg/?hl=en",
+            "button_label": "See Gary in Action",
+            "button_link": "shopify://pages/gary-reeves",
+            "button_style_secondary": false
+          }
+        },
+        "image_jbqDmc": {
+          "type": "image",
+          "settings": {
+            "title_match": "",
+            "image": "shopify://shop_images/Logo.jpg",
+            "height": "adapt",
+            "heading": "MzeroA.com",
+            "heading_size": "h1",
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "text": "<p>MzeroA.com is the #1 Rated Online Flight Training School across the nation. Based out of Ocala, FL. MzeroA.com was Founded and produced by Jason Schappert, a CFII and ATP rated pilot and author of eight aviation flight training books. MxeroA.com provides online FAA training and test preparation for everything from drones to airline pilots.</p>",
+            "copy_link": "https://www.m0a.com/",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/MzeroA",
+            "you-tube": "https://www.youtube.com/user/MzeroAFlightTraining",
+            "instagram": "https://www.instagram.com/mzeroa",
+            "button_label": "See MzeroA.com in Action",
+            "button_link": "shopify://pages/mzeroa-com",
+            "button_style_secondary": false
+          }
+        },
+        "image_UR4ham": {
+          "type": "image",
+          "settings": {
+            "title_match": "",
+            "image": "shopify://shop_images/trent-palmner-aeroleds-partner.jpg",
+            "height": "adapt",
+            "heading": "Trent Palmer",
+            "heading_size": "h1",
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "text": "<p>Trent Palmer is a filmmaker based out of Reno, Nevada who shares his passion for recreational bush flying through his YouTube and social media channels. A drone pilot in the film industry by trade and passionate aviator at heart, Trent promotes general aviation while flying his famous Kitfox, (named FreedomFox) through the backcountry with stunning drone footage.</p>",
+            "copy_link": "https://www.trentpalmer.com/",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/PilotTrentPalmer",
+            "you-tube": "https://www.youtube.com/trentpalmer1",
+            "instagram": "https://www.instagram.com/trentonpalmer",
+            "button_label": "See Trent in Action",
+            "button_link": "shopify://pages/trent-palmer",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "image_7VVwRD",
+        "image_z6wy48",
+        "image_Bgkjbh",
+        "image_jbqDmc",
+        "image_UR4ham"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner_aAW9qF",
+    "main",
+    "rich_text_aG46K4",
+    "manufacture_img_with_text_Waw9n6"
+  ]
+}

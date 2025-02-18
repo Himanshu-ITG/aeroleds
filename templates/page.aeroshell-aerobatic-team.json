@@ -1,0 +1,240 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "custom_image_with_text_ti6dKL": {
+      "type": "custom-image-with-text",
+      "blocks": {
+        "text_6wWJqe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The TITAN Aerobatic Team based out of Birmingham, Alabama performs tight, awe-inspiring formation aerial maneuvers in front of millions of airshow fans all over North America. With Mark Henley and Stan Musick, team lead; Bryan Regan, right wing; Steve Gustafson, left wing; and Jimmy Fordham, slot; this four-ship of T-6 Texan aircraft perform a series of loops, rolls, and bomb bursts in close formation for a classic aerobatic routine. <strong>Each aircraft is completely outfitted with AeroLEDs (Full list </strong><a href=\"/collections/titan-aerobatic-team-favorites\" title=\"TITAN AEROBATIC TEAM FAVORITES\"><strong>HERE</strong></a><strong>), including a custom “Amber Light”, which gives the illusion of flames being thrown from the tail of their aircraft. The brilliance of LEDs along with the “fire” & smoke effect is an added attraction that brings people back year-after-year to be dazzled by the TITAN Twilight Performance.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "social_media_BbXHNK": {
+          "type": "social_media",
+          "settings": {
+            "facebook": "https://www.facebook.com/TITANAerobaticTeam",
+            "youtube": "",
+            "instagram": "https://www.instagram.com/titanaerobaticteam",
+            "link": "http://www.naat.net/"
+          }
+        }
+      },
+      "block_order": [
+        "text_6wWJqe",
+        "social_media_BbXHNK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/TITANS1-0-e1711654088916_d8e892fd-eae3-42af-8bd9-39c88b2aade9.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "custom_rich_text_dRpqdB": {
+      "type": "custom-rich-text",
+      "blocks": {
+        "video_popup_button_HEKPFB": {
+          "type": "video_popup_button",
+          "settings": {
+            "button_label": "See TITAN's Featured Video",
+            "video_url": "https://youtu.be/OomeUZ3JA1E"
+          }
+        }
+      },
+      "block_order": [
+        "video_popup_button_HEKPFB"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "custom_photo_gallery_Ua46Yn": {
+      "type": "custom-photo-gallery",
+      "blocks": {
+        "image_wmr97Q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TITANS1-011-e1719430882205.jpg"
+          }
+        },
+        "image_mdgaHt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Give-Photo-Cred-1536x1024.jpg"
+          }
+        },
+        "image_CLJPAD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TITANS1-084-e1711732697541-1536x1024.jpg"
+          }
+        },
+        "image_H7QKHW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-design-16-1536x864.jpg"
+          }
+        },
+        "image_xDmAaA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TITANS1-0-1.jpg"
+          }
+        },
+        "image_QyytLp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Aeroshell-3-SharpenAI-Focus.jpg"
+          }
+        },
+        "image_4VWzQ6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TITANS1-102.jpg"
+          }
+        },
+        "image_hzpzEm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GM1_9715-1536x1097.jpg"
+          }
+        },
+        "image_YMAiAP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TITANS1-090-1536x1024.jpg"
+          }
+        },
+        "image_dfqJCy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/708A3470-1536x1024.jpg"
+          }
+        },
+        "image_XfgLhb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TITANS1-100-1536x1024.jpg"
+          }
+        },
+        "image_UQdMgA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1-Stan-Musick-1536x1024.jpg"
+          }
+        },
+        "image_VpPa6d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2-Bryan-Regan-1536x1024.jpg"
+          }
+        },
+        "image_akVahd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3-Steve-Gustafson-1536x1024.jpg"
+          }
+        },
+        "image_m4J6zf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4-Jimmy-Fordham-1536x1024.jpg"
+          }
+        },
+        "image_YpPdR9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-1000-x-660-px-2000-x-1200-px-6-e1652402450702-1536x787.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_wmr97Q",
+        "image_mdgaHt",
+        "image_CLJPAD",
+        "image_H7QKHW",
+        "image_xDmAaA",
+        "image_QyytLp",
+        "image_4VWzQ6",
+        "image_hzpzEm",
+        "image_YMAiAP",
+        "image_dfqJCy",
+        "image_XfgLhb",
+        "image_UQdMgA",
+        "image_VpPa6d",
+        "image_akVahd",
+        "image_m4J6zf",
+        "image_YpPdR9"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_pxNCAn": {
+      "type": "rich-text",
+      "blocks": {
+        "button_P8pKxP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Back to Partners",
+            "button_link": "shopify://pages/partners",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_P8pKxP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_image_with_text_ti6dKL",
+    "custom_rich_text_dRpqdB",
+    "custom_photo_gallery_Ua46Yn",
+    "rich_text_pxNCAn"
+  ]
+}

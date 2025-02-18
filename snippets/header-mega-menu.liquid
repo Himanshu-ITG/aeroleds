@@ -1,0 +1,340 @@
+{% comment %}
+  Renders a megamenu for the header.
+
+  Usage:
+  {% render 'header-mega-menu' %}
+{% endcomment %}
+
+<nav class="header__inline-menu">
+  <ul class="list-menu list-menu--inline" role="list">
+    {%- for link in section.settings.menu.links -%}
+      <li class="{{ link.title | handle }}">
+        {% assign blockCheck = false %}
+        {% assign BlockCheck = 0 %}
+        {% assign cblockcheck = false %}
+        {% assign cBlockCheck = 0 %}
+        {% assign blockChecklink = false %}
+        {% assign BlockChecklink = 0 %}
+        {% for block in section.blocks %}
+          {% case block.type %}
+            {% when 'block' %}
+              {% assign OurTitle = block.settings['link-title'] | handle %}
+              {% assign LinkTitle = link.title | handle %}
+              {% if OurTitle == LinkTitle %}
+                {% assign blockCheck = true %}
+                {% assign BlockCheck = BlockCheck | plus: 1 %}
+              {% endif %}
+              {% for childlink in link.links %}
+                {% assign OurTitle = block.settings['link-title'] | handle %}
+                {% assign LinkTitle = childlink.title | handle %}
+                {% if OurTitle == LinkTitle %}
+                  {% assign cblockcheck = true %}
+                  {% assign cBlockCheck = cBlockCheck | plus: 1 %}
+                {% endif %}
+              {% endfor %}
+            {% when 'menu' %}
+             {% assign Ourtitle = block.settings['link-sub-title'] | handle %}
+              {% assign Linktitle = link.title | handle %}
+              {% if Ourtitle == Linktitle %}
+                {% assign blockChecklink = true %}
+                {% assign BlockChecklink = BlockCheck | plus: 1 %}
+              {% endif %}
+          {% endcase %}
+        {% endfor %}
+
+        {%- if link.links != blank or blockCheck -%}
+          <header-menu>
+            <details id="Details-HeaderMenu-{{ forloop.index }}" class="mega-menu">
+              <summary
+                id="HeaderMenu-{{ link.handle }}"
+                class="header__menu-item list-menu__item link focus-inset"
+              >
+                <span
+                  {%- if link.child_active %}
+                    class="header__active-menu-item"
+                  {% endif %}
+                >
+                  {{- link.title | escape -}}
+                </span>
+                {% render 'icon-caret' %}
+              </summary>
+              <div
+                id="MegaMenu-Content-{{ forloop.index }}"
+                class="mega-menu__content  {% if link.links.size > 1 %} link_list-menu {% endif %}  color-{{ section.settings.menu_color_scheme }} gradient motion-reduce global-settings-popup"
+                tabindex="-1"
+              >
+                <div class="custom_megaList">
+                {% unless link.links.size == 0 %}
+                <ul
+                  class="mega-menu__list submenu_custom page-width{% if link.levels == 1 %} mega-menu__list--condensed{% endif %} block-{{ link.links.size }}"
+                  role="list"
+                >
+                  {%- for childlink in link.links -%}
+                    <li data-title="{{ childlink.title | handle }}" class="{% if forloop.index == 1 %} active_submenu {% endif %}">
+                      <a
+                        id="HeaderMenu-{{ link.handle }}-{{ childlink.handle }}"
+                        href="{{ childlink.url }}"
+                        class="mega-menu__link mega_main-link mega-menu__link--level-2 link{% if childlink.current %} mega-menu__link--active{% endif %}"
+                        {% if childlink.current %}
+                          aria-current="page"
+                        {% endif %}
+                      >
+                        {{ childlink.title | escape }}
+                      </a>
+                    </li>
+                  {%- endfor -%}
+                </ul>
+                {% endunless %}
+
+                {%- for childlink in link.links -%}
+                  <div class="child_list-img {% if forloop.index == 1 %} active_first {% endif %}" data-title="{{ childlink.title | handle }}">
+            
+                    
+                 
+                  <ul class="list-unstyled cild_menu_sub child_menu" role="list">
+                   
+                    {% assign cblockcheck = false %}
+                    {% for block in section.blocks %}
+                    {% case block.type %}
+                      {% when 'block' %}
+                        {% assign ourtitle = block.settings['link-title'] | handle %}
+                        {% assign linktitle = childlink.title | handle %}
+                        {% if ourtitle == linktitle %}
+                          
+                          {% assign menuProduct = block.settings.product %}
+                          {% if menuProduct != blank %}
+                            {% assign cblockcheck = true %}
+                          {% endif %}
+                          {% if cblockcheck %}
+                          {% else %}
+                            {% if block.settings.promo_image != blank %}
+                              <li class="promo_image" data-handle="{{ block.settings.subtitle | handle }}">
+                                <a class="mega_menu-img" href="{{ block.settings.link }}">
+                                  <div class="image_menu">
+                                    <img
+                                      class="menu-image"
+                                      src="{{ block.settings.promo_image | img_url:'master' }}"
+                                      height="auto"
+                                      width="auto"
+                                    >
+                                    {% if block.settings.hover_image != blank %}
+                                      <img
+                                        class="hover-image"
+                                        src="{{ block.settings.hover_image | img_url:'master' }}"
+                                        height="auto"
+                                        width="auto"
+                                      >
+                                    {% endif %}
+                                  </div>
+                                  <div class="menu_content">
+                                    <h5>{{ block.settings.subtitle }}</h5>
+                                  </div>
+                                </a>
+                              </li>
+                            {% endif %}
+                          {% endif %}
+                        {% endif %}
+                      {% when 'menu' %}
+                       {% if blockChecklink != blank %}
+                          {% assign blockmenu = block.settings.menu_list %}
+                          {% if blockmenu != blank %}
+                           
+                           <ul class="subChild_link promo_image">
+                             <div class="title_link">
+                              {{ block.settings.s-title }}
+                             </div>
+                             {% for sublink in blockmenu.links %}
+                              <li>
+                                <a class="mega_menu-img" href="{{ sublink.url }}"><span>{{ sublink.title }}</span></a>
+                              </li>
+                             {% endfor %}
+                           </ul>
+                          {% endif %}
+                        {% endif %}
+                    {% endcase %}
+                  {% endfor %}
+               
+                    {%- if childlink.links != blank -%}
+                    {%- for grandchildlink in childlink.links -%}
+                       <li class="promo_image" data-handle="{{ grandchildlink.title | handle }}">
+                        <a
+                          id="HeaderMenu-{{ link.handle }}-{{ childlink.handle }}-{{ grandchildlink.handle }}"
+                          href="{{ grandchildlink.url }}"
+                          class="mega_menu-img mega-menu__link link{% if grandchildlink.current %} mega-menu__link--active{% endif %}"
+                          {% if grandchildlink.current %}
+                            aria-current="page"
+                          {% endif %}
+                        >
+                        {% assign collectionName =  grandchildlink.url | remove: '/collections/'  %}
+                        {% assign collectionHandle = collections[collectionName] %}
+                          <div class="image_menu">
+                            <img
+                              class="menu-image"
+                              src="{{ collectionHandle.metafields.custom.menu_first_image | img_url:'master' }}"
+                              height="auto"
+                              width="auto"
+                            >
+                            {% if collectionHandle.metafields.custom.menu_second_image != blank %}
+                              <img
+                                class="hover-image"
+                                src="{{ collectionHandle.metafields.custom.menu_second_image | img_url:'master' }}"
+                                height="auto"
+                                width="auto"
+                              >
+                            {% endif %}
+                          </div>
+                          <div class="menu_content">
+                            <h5>{{ grandchildlink.title | escape }}</h5>
+                          </div>
+                        
+                        </a>
+                      </li>
+                    {%- endfor -%}
+                    {%- endif -%}
+                  </ul>
+                  
+                  </div>
+                {%- endfor -%}
+
+               
+                {% if blockCheck %}
+                  <div class="mega-menu-product-main block-size-{{ BlockCheck }}">
+                    {% assign blockCheck = false %}
+                    {% for block in section.blocks %}
+                      {% case block.type %}
+                        {% when 'block' %}
+                          {% assign OurTitle = block.settings['link-title'] | handle %}
+                          {% assign LinkTitle = link.title | handle %}
+
+                          {% if OurTitle == LinkTitle %}
+                            {% assign menuProduct = block.settings.product %}
+                            {% if menuProduct != blank %}
+                              {% assign blockCheck = true %}
+                            {% endif %}
+                            {% if blockCheck %}
+                            {% else %}
+                              {% if block.settings.promo_image != blank %}
+                                <li class="promo_image" data-handle="{{ block.settings.subtitle | handle }}">
+                                  <a class="mega_menu-img" href="{{ block.settings.link }}">
+                                    <div class="image_menu">
+                                      <img
+                                        class="menu-image"
+                                        src="{{ block.settings.promo_image | img_url:'master' }}"
+                                        height="auto"
+                                        width="auto"
+                                      >
+                                      {% if block.settings.hover_image != blank %}
+                                        <img
+                                          class="hover-image"
+                                          src="{{ block.settings.hover_image | img_url:'master' }}"
+                                          height="auto"
+                                          width="auto"
+                                        >
+                                      {% endif %}
+                                    </div>
+                                    <div class="menu_content">
+                                      <h5>{{ block.settings.subtitle }}</h5>
+                                    </div>
+                                  </a>
+                                </li>
+                              {% endif %}
+                            {% endif %}
+                          {% endif %}
+                        {% when 'menu' %}
+                       {% if blockChecklink != blank %}
+                          {% assign blockmenu = block.settings.menu_list %}
+                          {% if blockmenu != blank %}
+                           
+                           <ul class="subChild_link promo_image">
+                             <div class="title_link">
+                              {{ block.settings.s-title }}
+                             </div>
+                             {% for sublink in blockmenu.links %}
+                              <li>
+                                <a class="mega_menu-img" href="{{ sublink.url }}"><span>{{ sublink.title }}</span></a>
+                              </li>
+                             {% endfor %}
+                           </ul>
+                          {% endif %}
+                        {% endif %}
+                      {% endcase %}
+                    {% endfor %}
+                  </div>
+                {% endif %}
+                 {% comment %}
+                {% if cblockcheck %}
+                  <div class="mega-menu-product-main child_menu block-size-{{ cBlockCheck }}">
+                    {% assign cblockcheck = false %}
+                    {%- for childlink in link.links -%}
+                      {% for block in section.blocks %}
+                        {% case block.type %}
+                          {% when 'block' %}
+                            {% assign OurTitle = block.settings['link-title'] | handle %}
+                            {% assign LinkTitle = childlink.title | handle %}
+
+                            {% if OurTitle == LinkTitle %}
+                              {% assign menuProduct = block.settings.product %}
+                              {% if menuProduct != blank %}
+                                {% assign cblockcheck = true %}
+                              {% endif %}
+                              {% if cblockcheck %}
+                              {% else %}
+                                {% if block.settings.promo_image != blank %}
+                                  <li class="promo_image">
+                                    <a class="mega_menu-img" href="{{ block.settings.link }}">
+                                      <div class="image_menu">
+                                        <img
+                                          class="menu-image"
+                                          src="{{ block.settings.promo_image | img_url:'master' }}"
+                                          height="auto"
+                                          width="auto"
+                                        >
+                                        {% if block.settings.hover_image != blank %}
+                                          <img
+                                            class="hover-image"
+                                            src="{{ block.settings.hover_image | img_url:'master' }}"
+                                            height="auto"
+                                            width="auto"
+                                          >
+                                        {% endif %}
+                                      </div>
+                                      <div class="menu_content">
+                                        <h5>{{ block.settings.subtitle }}</h5>
+                                      </div>
+                                    </a>
+                                  </li>
+                                {% endif %}
+                              {% endif %}
+                            {% endif %}
+                        {% endcase %}
+                      {% endfor %}
+                    {%- endfor -%}
+                  </div>
+                {% endif %}
+               {% endcomment %}
+          </div>
+              </div>
+            </details>
+          </header-menu>
+        {%- else -%}
+          <a
+            id="HeaderMenu-{{ link.handle }}"
+            href="{{ link.url }}"
+            class="header__menu-item list-menu__item link link--text focus-inset"
+            {% if link.current %}
+              aria-current="page"
+            {% endif %}
+          >
+            <span
+              {%- if link.current %}
+                class="header__active-menu-item"
+              {% endif %}
+            >
+              {{- link.title | escape -}}
+            </span>
+          </a>
+        {%- endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
+</nav>

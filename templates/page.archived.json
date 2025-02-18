@@ -1,0 +1,806 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 28
+      }
+    },
+    "archived_tab_HD8qtK": {
+      "type": "archived-tab",
+      "blocks": {
+        "block_UmPzhA": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/RV-1014-wingtip-conversion-kit-image_1.jpg",
+            "heading": "RV-10/14 wingtip conversion kit",
+            "faq_inner_heading": "<h3><a href=\"/products/rv-10-14-wingtip-conversion-kit\" title=\"RV-10/14 WINGTIP CONVERSION KIT\">RV-10/14 wingtip conversion kit</a></h3>",
+            "faq_inner_content": "<p>For use with <a href=\"/products/aerosun-vx-vans-rv-wingtip-lights\" title=\"AeroSun VX - Van's RV Wingtip Lights\">AeroSun VX Landing/Taxi Light (PN#01-2500)</a></p><p>Kit includes left and right wingtip cutout – no lens cover.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_mmKK7j": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/RV-9-wingtip-conversion-kit-image_17706a1a-05a3-4194-8597-91cfe8b40f87.jpg",
+            "heading": "RV-9 wingtip conversion kit",
+            "faq_inner_heading": "<h2><a href=\"/products/rv-10-14-wingtip-conversion-kit-copy\" title=\"RV-9 WINGTIP CONVERSION KIT\">RV-9 wingtip conversion kit</a></h2>",
+            "faq_inner_content": "<p>For use with <a href=\"/products/aerosun-vx-vans-rv-wingtip-lights\" title=\"AeroSun VX - Van's RV Wingtip Lights\">AeroSun VX Landing/Taxi Light (PN#01-2500)</a></p><p>Kit includes left and right wingtip cutout + lens cover.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_WWwDRU": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/Untitled-design-2024-06-20T144010.363.png",
+            "heading": "SUNSPOT 64 EQUINOX",
+            "faq_inner_heading": "<p><a href=\"/products/sunspot-64-equinox-dual-function-led-landing-taxi-light\" title=\"SUNSPOT 64 Equinox Dual-Function LED Landing & Taxi Light\">SUNSPOT 64 EQUINOX</a></p>",
+            "faq_inner_content": "<p>The industries first dual-function landing AND taxi light for PAR64 applications – SunSpot Equinox provides a tailored lighting experience when operating both at night, during the day, and in conditions of reduced visibility. The perfect solution for single light applications or a multi-light installation where additional light is desired. SunSpot Equinox consumes less power, outputs more lumens, and is not affected by vibrations compared to incandescent bulbs. In landing mode, it projects a bright white 20° x 20° beam for high-speed take-offs and landings to improve visibility on the ground recognition and in the air. While in taxi mode it produces a wider 20° x 40° beam spread for unmatched illumination of the runway/taxiway without impairing the vision of other pilots. SunSpot 64 Equinox replacement LED’s utilize the existing PAR64 mount and electrical connections.</p><ul><li>Power consumption: 222 watts max</li><li>Color – aviation white for exceptional color rendering</li><li>Standard PAR 64 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_xPAccg": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/MicroSun-Strut-Mount-KIT-0065.png",
+            "heading": "SunTail overt/covert",
+            "faq_inner_heading": "<h2><a href=\"/collections/suntail\" title=\"SunTail\">SunTail overt/covert </a></h2><h2><a href=\"/products/aerosun-vxi0-wingtips-for-vans-rv-4-vans-rv-6-vans-rv-7-vans-rv-8-vans-rv-10-vans-rv-14\" title=\"AeroSun VXi Wingtips - FOR VANS RV-4 | VANS RV-6 | VANS RV-7 | VANS RV-8 | VANS RV-10 | VANS RV-14\">AeroSun VXi </a></h2><h2><a href=\"/products/microsun-strut-mount-kit\" title=\"MICROSUN STRUT MOUNT KIT\">MicroSun Strut Mount Kit</a></h2>",
+            "faq_inner_content": "<p>The MicroSun Strut Mount Kit is useful for mounting AeroLED’s MicroSun External LED Taxi/Recognition lights<a href=\"/products/microsun-led-taxi-recognition-light\" title=\"MicroSun LED Taxi/ Recognition Light\">(01-1170A)</a>to the strut bars of an aircraft.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_FE9H8W": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/PAR56_Left.png",
+            "heading": "Sunspot 56-4000",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-56-4000-led-landing-light\" title=\"SUNSPOT 56-4000 LED Landing Light\">Sunspot 56-4000</a></h2>",
+            "faq_inner_content": "<p>Highest performance in the industry – SunSpot LED landing lights greatly improve visibility on the ground and recognition in the air from up to 30 miles away. All SunSpot Series LED aircraft lights consume less power, produce more lumens (total light output), and are not affected by vibrations compared to incandescent bulbs. These attributes make the SunSpot ideal for most aircraft. SunSpot outputs a wider beam at a color temperature that illuminates the true color of an object. This provides exceptional color rendering as opposed to “grayed” out images from the orange-red color temperature of an incandescent lamp. SunSpot 56 series lights utilize the aircrafts’ existing PAR56 mount and electrical connections for ease of installation. (-H versions require an additional wire*)</p><p><br/>-H MODEL includes AeroLEDs signature Pulse (Wig-Wag) functionality. The Pulse controller is fully integrated into the light and requires no external<br/>circuitry. This feature significantly increase recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in Wig-Wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><p></p><ul><li>Experimental</li><li>Power consumption: 175 watts max</li><li>Color: aviation white for exceptional color rendering</li><li>Built-in pulse mode for wig-wag (-H models)</li><li>Optional synchronization (-H models)</li><li>Standard PAR56 mount</li><li>30k hr MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_LKeACi": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/PAR46_Left.png",
+            "heading": "LIGHT-ASSY,NAV/ACS/POS",
+            "faq_inner_heading": "<h2><a href=\"/collections/all\" title=\"All products\">LIGHT-ASSY,NAV/ACS/POS</a></h2>",
+            "faq_inner_content": "<p>Enhance your visibility with our state-of-the-art LED locomotive fixed red tail-light, boasting an extraordinary 50 watts of power and an impressive 30,000+ candela output. Surpassing traditional incandescent bulbs, this tail-light consumes minimal power, produces higher lumens for superior total light output, and remains impervious to vibrations, leading to significantly reduced train maintenance and operational costs. Enjoy a hassle-free installation process, as it effortlessly integrates with the locomotive’s existing PAR46 mount and electrical connections. Step into the future with this advanced lighting solution, delivering heightened performance, extended longevity, and unparalleled ease of use.</p><ul><li>Power consumption: 50 watts max</li><li>Wide input voltage range (20-90VDC)</li><li>Operates efficiently at a variety of temperatures</li><li>Simple drop-in replacement</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat</li><li>UV hardcoated polycarbonate lens</li><li>Exceeds FRA Standards</li><li>IP 66 Rated</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_9JxfAr": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/PAR56_Left.png",
+            "heading": "PAR56 Locomotive",
+            "faq_inner_heading": "<h2><a href=\"/collections/all\" title=\"All products\">PAR56 Locomotive</a></h2>",
+            "faq_inner_content": "<p>Experience superior lighting with our 70-watt LED locomotive headlight, featuring an impressive 200,000+ candela and a 15°x15° beam angle designed for optimal visibility across a wide range of operating temperatures. Illuminate the track ahead, ensuring ideal visibility for proper locomotive operation while facilitating easy identification for pedestrians and motorists. This energy-efficient solution consumes less power, generates more lumens (total light output), and remains unaffected by vibrations, surpassing traditional incandescent bulbs. The AeroLEDs’ PAR56 Headlight seamlessly integrates with the locomotive’s existing PAR56 mount and electrical connections, ensuring a hassle-free installation process.</p><p></p><ul><li>Power consumption: 70 watts max</li><li>Wide input voltage range (20-90VDC)</li><li>Operates efficiently at a variety of temperatures</li><li>Simple drop-in replacement</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat</li><li>UV hardcoated polycarbonate lens</li><li>Exceeds FRA Standards</li><li>IP 66 Rated</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_Wp97kr": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/SunBeam-Mount-ISO-DSC09306.png",
+            "heading": "Pulsar Nano O/C",
+            "faq_inner_heading": "<h2><a href=\"/collections/pulsar-nano-series\" title=\"Pulsar Nano Series\">Pulsar Nano O/C</a></h2><h2><a href=\"/products/sunbeam-mount-kit\" title=\"SUNBEAM MOUNT KIT\">SunBeam Mount Kit</a></h2>",
+            "faq_inner_content": "<p>The SunBeam mount kit is useful for mounting AeroLED’s SunBeam LED landing lights.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_FmHWKa": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/75W_LXi_taxi_b8d9bf86-e6c9-4db9-a4ca-7cd6d45ecfca.png",
+            "heading": "SunSpot 36 LXi (45W)",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-36-lxi-led-landing-taxi-lights\" title=\"SUNSPOT 36 LXI LED Landing & Taxi Lights\">SunSpot 36 LXi (45W)</a></h2>",
+            "faq_inner_content": "<p><strong>Important Update</strong></p><p><strong>As part of our efforts to streamline our offerings, we will be discontinuing this product, effective January 1, 2025.</strong></p><p><strong>In place of this product, we will be offering the Whelen Aerospace Technologies Parmetheus™ G3 Series at a comparable price point, along with alternative AeroLEDs high-powered lighting options.</strong>SunSpot 36 LXi is a new optimized version of our long-trusted SunSpot 36 LX taxi light. This economically priced light adds to our vastly expanded PAR36 lighting offerings, making LED lighting technology available to pilots with an array of budget options.<br/><br/>SunSpot 36 LXi boasts 2X the candela, and continues to provide the same key features that come standard with the SunSpot Series: Less power draw, more light output, unaffected by vibrations compared to incandescent bulbs.<br/><br/>The SunSpot 36 replacement LED’s utilize the existing PAR36 mount and electrical connections for ease of installation.<br/><br/>Power consumption: 45 watts max<br/>Color – aviation white for exceptional color rendering<br/>Easy installation<br/>30k hr. MTBF<br/>Built-in thermal protection<br/>Aluminum/black powder coated heat sink<br/>UV hardcoated polycarbonate lens<br/>Approvals: FAA-PMA/STC</p>",
+            "tab_html": "<table class=\"has-fixed-layout\"><tbody>\n<tr>\n<td><strong>Replacement Product</strong></td>\n<td><strong>Replacement PN  (12V)</strong></td>\n<td><strong>Replacement PN  (24V)</strong></td>\n</tr>\n<tr>\n<td>Parmetheus G3 PAR 36 Taxi Light</td>\n<td><a href=\"/products/parmetheus-g3-par-46-landing-light\" rel=\"noopener\">01-0772102-15</a></td>\n<td><a href=\"/products/parmetheus-g3-par-46-landing-light\" rel=\"noopener\">01-0772102-15</a></td>\n</tr>\n<tr>\n<td>SunSpot 36-4000 (75W) Taxi Light</td>\n<td><a href=\"/products/sunspot-36-lxi-led-landing-taxi-lights\">01-1030-4519</a></td>\n<td><a href=\"/products/sunspot-36-lxi-led-landing-taxi-lights\">01-1030-4626</a></td>\n</tr>\n</tbody></table>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_PR9tqp": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/75W_LXi_taxi-75x75.png",
+            "heading": "Sunspot 36-4000  (75W)",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-36-4000-75w-landing-taxi-light\" title=\"SUNSPOT 36-4000 (75W) LED Landing & Taxi Light\">Sunspot 36-4000  (75W)</a></h2>",
+            "faq_inner_content": "<p>At just 75 watts, this LED taxi light boasts an outstanding 8,250 lumens and a specially designed Fresnel lens to provide a broader 20° x 40° beam angle. This greatly improves visibility on the ground and recognition in the air from up to 30 miles away. All SunSpot Series LED aircraft lights consume less power, produce more lumens (total light output), and are not affected by vibrations compared to incandescent bulbs. These attributes make the SunSpot ideal for most aircraft. SunSpot outputs a wider beam at a color temperature that illuminates the true color of an object. This provides exceptional color rendering as opposed to “grayed” out images from the orange-red color temperature of an incandescent lamp. All SunSpot 36 Series lights utilize the aircrafts’ existing PAR36 mount and electrical connections for ease of installation.</p><p>(-H versions require an additional wire*) -H MODEL includes AeroLEDs’ signature Pulse (wig-wag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><ul><li>Power consumption: 75 watts max</li><li>Color – aviation white for exceptional color rendering</li><li>Built-in pulse mode for wig-wag (-H models</li><li><a href=\"/products/sync-circut\" title=\"SYNC CIRCUT\">Optional synchronization</a> (-H models)</li><li>Standard PAR 36 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li><strong>Approvals: FAA-PMA/STC</strong></li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_DVjnx6": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/test-image-75x75.png",
+            "heading": "SunSpot 36 LXi (45W)",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-36-lxi-led-landing-taxi-lights\" title=\"SUNSPOT 36 LXI LED Landing & Taxi Lights\">SunSpot 36 LXi (45W)</a></h2>",
+            "faq_inner_content": "<p><strong>Important Update</strong></p><p><strong>As part of our efforts to streamline our offerings, we will be discontinuing this product, effective January 1, 2025.</strong></p><p><strong>In place of this product, we will be offering the Whelen Aerospace Technologies Parmetheus™ G3 Series at a comparable price point, along with alternative AeroLEDs high-powered lighting options.</strong></p><p>SunSpot 36 LXi is a new optimized version of our long-trusted SunSpot 36 LX Landing light. This economically priced light adds to our vastly expanded PAR36 lighting offerings, making LED lighting technology available to pilots with an array of budget options.</p><p>SunSpot 36 LXi boasts 2X the candela, and continues to provide the same key features that come standard with the SunSpot Series: Less power draw, more light output, unaffected by vibrations compared to incandescent bulbs.</p><p>The SunSpot 36 replacement LED’s utilize the existing PAR36 mount and electrical connections for ease of installation.</p><ul><li>Power consumption: 45W watts max</li><li>Color – aviation white for exceptional color rendering</li><li>Standard PAR 36 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li><strong>Approvals: FAA-PMA/STC</strong></li></ul>",
+            "tab_html": "<table class=\"has-fixed-layout\"><tbody>\n<tr>\n<td><strong>Replacement Product</strong></td>\n<td><strong>Replacement PN  (12V)</strong></td>\n<td><strong>Replacement PN  (24V)</strong></td>\n</tr>\n<tr>\n<td>Parmetheus G3 PAR 36 Landing Light</td>\n<td><a href=\"https://flywat.com/products/parmetheus%E2%84%A2-g3?_pos=1&amp;_sid=935bd999a&amp;_ss=r&amp;variant=45423549841623\" rel=\"noopener\">01-0772102-10</a></td>\n<td><a href=\"https://flywat.com/products/parmetheus%E2%84%A2-g3?_pos=1&amp;_sid=935bd999a&amp;_ss=r&amp;variant=45423549841623\" rel=\"noopener\">01-0772102-10</a></td>\n</tr>\n<tr>\n<td>SunSpot 36-4000 (75W) Landing Light</td>\n<td><a href=\"https://aeroleds.com/products/sunspot-36-4000-75w-landing/\">01-1030-4509</a></td>\n<td><a href=\"https://aeroleds.com/products/sunspot-36-4000-75w-landing/\">01-1030-4591</a></td>\n</tr>\n</tbody></table>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_kYbbEW": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/75W_4000S-75x75.png",
+            "heading": "Sunspot 36-4000  (75W)",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-36-4000-75w-landing-taxi-light\" title=\"SUNSPOT 36-4000 (75W) LED Landing & Taxi Light\">Sunspot 36-4000  (75W)</a></h2>",
+            "faq_inner_content": "<p>At just 75 watts, this LED landing light boasts an outstanding 200,000+ candela with a 15° x 15° bright white beam angle that greatly improves visibility on the ground and recognition in the air from up to 30 miles away. All SunSpot Series LED aircraft lights consume less power, produce more lumens (total light output), and are not affected by vibrations compared to incandescent bulbs. These attributes make the SunSpot ideal for most aircraft. SunSpot outputs a wider beam at a color temperature that illuminates the true color of an object. This provides exceptional color rendering as opposed to “grayed” out images from the orange-red color temperature of an incandescent lamp. All SunSpot 36 Series lights utilize the aircrafts’ existing PAR36 mount and electrical connections for ease of installation. (-H versions require an additional wire*)</p><p>-H MODEL includes AeroLEDs’ signature Pulse (wig-wag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><ul><li>Power consumption: 75 watts max</li><li>Color: aviation white for exceptional color rendering</li><li>Built-in pulse mode for wig-wag (-H models)</li><li><a href=\"/products/sync-circut\" title=\"SYNC CIRCUT\">Optional synchronization</a> (-H models)</li><li>Standard PAR 36 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li><strong>Approvals: FAA-PMA/STC</strong></li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_LHBUWj": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/Suntail-90-Adapter-01-1268-1-75x75.png",
+            "heading": "SunTail 90°  Adapter",
+            "faq_inner_heading": "<h2><a href=\"/products/suntail-90º-adapter\" title=\"SUNTAIL 90º ADAPTER\">SunTail 90°  Adapter</a></h2>",
+            "faq_inner_content": "<p>The SunTail 90° Adapter can be used to mount our vertical SunTail in applications where the taillight is mounted horizontally.</p><p>Kit includes the following:</p><ol><li>01-1268 – MOUNT-ASSY, SUNTAIL, 90DEG</li><li>4-40 X .63” Screws</li></ol>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_C3YYrE": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/KIT-0062-6-Pos-Molex-Connectors-Kit-Web-75x75.png",
+            "heading": "6-PIN Molex Connector",
+            "faq_inner_heading": "<h2><a href=\"/products/6-pin-molex-connector\" title=\"6-PIN MOLEX CONNECTOR\">6-PIN Molex Connector</a></h2>",
+            "faq_inner_content": "",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_zpBfmw": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/AeroSun-VXi-Hero-Image-80x80.jpg",
+            "heading": "AeroSun VXi – Wingtips",
+            "faq_inner_heading": "<h2><a href=\"/products/aerosun-vxi0-wingtips-for-vans-rv-4-vans-rv-6-vans-rv-7-vans-rv-8-vans-rv-10-vans-rv-14\" title=\"AeroSun VXi Wingtips - FOR VANS RV-4 | VANS RV-6 | VANS RV-7 | VANS RV-8 | VANS RV-10 | VANS RV-14\">AeroSun VXi – Wingtips</a></h2>",
+            "faq_inner_content": "<p>AeroLEDs is proud to introduce the AeroSun VXi Wingtip – a fully integrated lighting solution. The AeroSun VXi is engineered with precision and developed in partnership with Vans Aircraft. Available in both Carbon Fiber and Fiberglass options to fit the following aircraft models:</p><p>• <strong>Vans</strong> <strong>RV-4, Vans RV-6, Vans RV-7, Vans RV-8</strong> (KIT-0083 & KIT-0084)</p><p>• <strong>Vans RV-10, and Vans RV-14</strong> (KIT-0081 & KIT-0082)</p><p>The AeroSun VXI redefines industry standards with its unparalleled performance, versatility, and durability.</p><p></p><p><strong>FEATURES INCLUDE:</strong></p><p></p><ul><li>Landing/Taxi</li><li>Navigation (exceeds TSO C-30c, Type I, II)</li><li>Anti-Collision Strobe (exceeds TSO-C96a Class II)</li><li>Position/ACS (exceeds TSO C-30c, Type III & TSO-C96a Class II)</li><li>Underwing Inspection/Convenience Light</li><li>Power consumption: 100 watts max per wingtip</li><li>Built-in pulse mode for wig-wag</li><li>Synchronization </li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li>Carbon Fiber or Fiberglass Wingtip Options</li></ul>",
+            "tab_html": "",
+            "button_label": "IMPORTANT ANNOUNCEMENT",
+            "button_link": "#"
+          }
+        },
+        "block_7m6E8b": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/Cesna-Wingtip-Fairing-Kit-Transparent-75x75.png",
+            "heading": "Pulsar 650 Cessna Wingtip Fairing Adapter",
+            "faq_inner_heading": "<h2><a href=\"/products/pulsar-650-cessna-wingtip-fairing-adapter\" title=\"PULSAR 650 CESSNA WINGTIP FAIRING ADAPTER\">Pulsar 650 Cessna Wingtip Fairing Adapter</a></h2>",
+            "faq_inner_content": "<p>AeroLEDs Pulsar NS Cessna Wingtip Fairing Kit was designed for installation on original Cessna wingtips. The fairings are provided oversized and will need to be cut/trimmed and painted before installing on the wingtip. The fairing kit includes a left and right fairing along with all necessary screws and nuts for installation. This fairing kit was designed for use with the following Pulsar NS models:</p><p>11-1280-B-12</p><p>11-1280-B-24</p><p>AeroLEDs Pulsar NS Cessna Wingtip Fairing Kit fits the following aircraft models: 150L, 150M, 152, 172L, 172M, 172N, 172Q, 172R, 172S, 172RG, 177B, 177RG, 180H, 180J, 180K, 182N, 182P, 182Q, 182R, 182S, 182T, T182T, R182, A185F, 185E, U206F, U206G, TU206F, TU206G, 210K, T210K, 210L, T210L, 210M, T210M, 210N, T210N, P210N, 210R, T210R, P210R</p><h2><a href=\"/collections/all\" title=\"All products\">Red Train Tail Light</a></h2><p>train lights</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_QE84Jm": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/Sunspot-46-Series-Landing-Lights-80x80.png",
+            "heading": "SUNSPOT 46 LX/HX",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-lx-hx-led-landing-light\" title=\"SUNSPOT 46 LX/HX LED Landing Light\">SUNSPOT 46 LX/HX</a></h2>",
+            "faq_inner_content": "<p><strong>Important Update</strong></p><p><strong>As part of our efforts to streamline our offerings, we will be discontinuing this product, effective January 1, 2025.</strong></p><p><strong>In place of this product, we will be offering the Whelen Aerospace Technologies Parmetheus™ G3 Series at a comparable price point, along with alternative AeroLEDs high-powered lighting options.</strong></p><p>This 85 watt LED landing light boasts an outstanding 150,000+ candela with a 20° x 20° bright white beam angle that greatly improves visibility on the ground and recognition in the air from up to 30 miles away. All SunSpot Series LED aircraft lights consume less power, produce more lumens (total light output), and are not affected by vibrations compared to incandescent bulbs. These attributes make the SunSpot ideal for most aircraft. SunSpot outputs a wider beam at a color temperature that illuminates the true color of an object. This provides exceptional color rendering as opposed to “grayed” out images from the orange-red color temperature of an incandescent lamp. All SunSpot 46 Series lights utilize the aircrafts’ existing PAR46 mount and electrical connections for ease of installation. (HX model requires an additional wire*)</p><p><strong>HX MODEL</strong> includes AeroLEDs’ signature Pulse (wig-wag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><ul><li>Wide input voltage range (9-30VDC)</li><li>Power consumption: 85 watts max</li><li>Color – aviation white for exceptional color rendering</li><li>Built-in pulse mode for wig-wag (HX model)</li><li><a href=\"/products/sync-circut\" title=\"SYNC CIRCUT\">Optional synchronization</a> (HX model)</li><li>Standard PAR 46 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li><strong>Approvals: FAA-PMA/STC</strong></li></ul>",
+            "tab_html": "<table class=\"has-fixed-layout\"><tbody>\n<tr>\n<td>SunSpot 46 LX<br>Landing Light</td>\n<td>01-2130-LX</td>\n<td>Parmetheus G3 PAR 46<br>Landing Light</td>\n<td><a href=\"/products/parmetheus-g3-par-46-landing-light\" rel=\"noopener\">01-0790906-00</a></td>\n<td><a href=\"/products/parmetheus-g3-par-46-landing-light\" rel=\"noopener\">01-0790906-00</a></td>\n</tr>\n<tr>\n<td>SunSpot 46 LX<br>Landing Light</td>\n<td>01-2130-LX</td>\n<td>SunSpot 46-4000<br>Landing Light</td>\n<td><a href=\"/products/sunspot-46-4000-landing-taxi-light\">01-2230-4522</a></td>\n<td><a href=\"/products/sunspot-46-4000-landing-taxi-light\">01-2230-4580</a></td>\n</tr>\n<tr>\n<td>SunSpot 46 HX<br>Landing Light</td>\n<td>01-2130-HX</td>\n<td>SunSpot 46-4000<br>Landing Light with Pulse</td>\n<td><a href=\"/products/sunspot-46-4000-landing-taxi-light\">01-2230-4522-H</a></td>\n<td><a href=\"/products/sunspot-46-4000-landing-taxi-light\">01-2230-4580-H</a></td>\n</tr>\n</tbody></table>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_J46aHN": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/11-1100-12-L-front-top-B-80x80.png",
+            "heading": "Pulsar 600 EXP",
+            "faq_inner_heading": "<h2><a href=\"/products/pulsar-600-exp-led-forward-tail-position-anti-collision-wingtip-light\" title=\"Pulsar 600 EXP LED FORWARD & TAIL POSITION/ ANTI-COLLISION WINGTIP LIGHT\">Pulsar 600 EXP</a></h2>",
+            "faq_inner_content": "<p>Pulsar 600 EXP Series LED Navigation Lights serve as a three-in-one LED light—a navigation light for directional red and green positioning, a strobe light increases visibility in both daylight and night, and a rear-facing white position light. Designed with an industry-standard mounting footprint, an aerodynamically low drag profile, standard three-position mounting screw pattern with a patented mounting bracket, they are ideal for replacing legacy light installations. The lights meet or exceed TSO C-30c, Type I, II and III, and C-96a, Class II.</p><ul><li>12V</li><li>No external power supply needed</li><li>Low power consumption</li><li>Strobe synchronization available</li><li>Easy installation</li><li>Experimental</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_kHHahH": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/11-1100-12-L-front-top-B-80x80_b782dd8b-ddc3-4c00-a377-27d99f615407.png",
+            "heading": "PULSAR 660",
+            "faq_inner_heading": "<h2><a href=\"/products/pulsar-660-exp-led-series-forward-tail-position-anti-collision-wingtip-lights\" title=\"Pulsar 660 EXP LED FORWARD & TAIL POSITION/ANTI-COLLISION WINGTIP LIGHTS\">PULSAR 660</a></h2>",
+            "faq_inner_content": "<p>Pulsar 660 serves as a three-in-one LED light—a navigation light for directional red and green positioning, a strobe light increases visibility in both daylight and night, and a rear-facing white position light. Designed with an industry-standard mounting footprint, an aerodynamically low drag profile, standard three-position mounting screw pattern with a patented mounting bracket, they are ideal for replacing legacy light installations. The lights are FAA-TSOA/STC approved and meet or exceed C-30c, Type I, II and III, and C-96a, Class II.</p><ul><li>12V and 24V</li><li>No external power supply needed</li><li>Low power consumption</li><li>Strobe synchronization available</li><li>Easy installation</li><li>Approvals: FAA-TSOA/STC</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_PdYcVG": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/11-1100-12-L-front-top-B-80x80_9035d6dd-e578-4617-b8f0-27ab37d0888e.png",
+            "heading": "PULSAR 650 EXP",
+            "faq_inner_heading": "<h2><a href=\"/products/pulsar-650-exp-led-forward-position-anti-collision-wingtip-lights\" title=\"Pulsar 650 EXP LED FORWARD POSITION / ANTI-COLLISION WINGTIP LIGHTS\">PULSAR 650 EXP</a></h2>",
+            "faq_inner_content": "<p>Pulsar 650 EXP serves as a two-in-one LED light—a navigation light for directional red and green positioning, and a strobe light to increase visibility in both daylight and night flight. Designed with an industry-standard mounting footprint, an aerodynamically low drag profile, standard three-position mounting screw pattern with a patented mounting bracket, they are ideal for replacing legacy light installations. The lights meet or exceed TSO C-30c, Type I, II, and C-96a, Class II.</p><ul><li>12V and 24V</li><li>No external power supply needed</li><li>Low power consumption</li><li>Strobe synchronization available</li><li>Easy installation</li><li>Experimental</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_Q9LQqD": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/SunSpot-46-landing-75x75.png",
+            "heading": "sunspot 46 equinox",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-46-dual-function-led-landing-taxi-light\" title=\"SUNSPOT 46 Equinox Dual- Function LED Landing & Taxi Light\">sunspot 46 equinox</a></h2>",
+            "faq_inner_content": "<p>The industry’s first DUAL-FUNCTION Landing and Taxi light – SunSpot Equinox provides a tailored lighting experience when operating both at night, during the day, and in conditions of reduced visibility. The perfect solution for single light applications or a multi-light installation where additional light is desired, SunSpot Equinox outputs a wider beam at a color temperature that illuminates the true color of an object. In landing mode, it projects a bright white 20° x 20° beam for high-speed take-offs and landings to improve visibility on the ground and recognition in the air. While in taxi mode it produces a wider 20° x 45° beam spread for unmatched illumination of the runway/taxiway without impairing the vision of other pilots. All SunSpot Series LED aircraft lights consume less power, produce more lumens (total light output), and are not affected by vibrations compared to incandescent bulbs. These attributes make Equinox ideal for most aircraft. SunSpot 46 Equinox replacement LEDs utilize the existing PAR46 mount and electrical connections, with only a Double Pole Double Throw (DPDT) Switch needed for dual modes.</p><p>Equinox comes standard with AeroLEDs’ signature Pulse (wig-wag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><ul><li>Power consumption: 145/175 watts max</li><li>Color – aviation white for exceptional color rendering</li><li>Built-in pulse mode for wig-wag</li><li><a href=\"/products/sync-circut\" title=\"SYNC CIRCUT\">Optional synchronization</a> </li><li>Standard PAR 46 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li><strong>Approvals: FAA-PMA/STC</strong></li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_UHQYyT": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/100W-4000S-landing-75x75.png",
+            "heading": "SunSpot 36‐4000 Series Landing/Taxi Light Kit",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-36-4000-100w-led-landing-taxi-light\" title=\"SUNSPOT 36-4000 (100W) LED Landing & Taxi Light\">SunSpot 36‐4000 Series Landing/Taxi Light Kit</a></h2><h2><a href=\"/products/sunspot36-equinox-dual-function-led-landing-taxi-light\" title=\"SUNSPOT 36 Equinox Dual- Function LED Landing & Taxi Light\">Sunspot 36 EQUINOX</a></h2>",
+            "faq_inner_content": "<p>The industry’s first DUAL-FUNCTION Landing and Taxi light – SunSpot Equinox provides a tailored lighting experience when operating both at night, during the day, and in conditions of reduced visibility. The perfect solution for single light applications or a multi-light installation where additional light is desired, SunSpot Equinox outputs a wider beam at a color temperature that illuminates the true color of an object. In landing mode, it projects a bright white 20° x 20° beam for high-speed take-offs and landings to improve visibility on the ground and recognition in the air. While in taxi mode it produces a wider 20° x 45° beam spread for unmatched illumination of the runway/taxiway without impairing the vision of other pilots. All SunSpot Series LED aircraft lights consume less power, produce more lumens (total light output), and are not affected by vibrations compared to incandescent bulbs. These attributes make Equinox ideal for most aircraft. SunSpot 36 Equinox replacement LEDs utilize the existing PAR36 mount and electrical connections, with only a Double Pole Double Throw (DPDT) Switch needed for dual modes.</p><p>Equinox comes standard with AeroLEDs’ signature Pulse (wig-wag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><ul><li>Power consumption: 100 watts max</li><li>Color – aviation white for exceptional color rendering</li><li>Built-in pulse mode for wig-wag</li><li><a href=\"/products/sync-circut\" title=\"SYNC CIRCUT\">Optional synchronization </a></li><li>Standard PAR 36 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li><strong>Approvals: FAA-PMA/STC</strong></li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_iWbXEQ": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/aeroleds-PCX_A_landing-light-80x80.png",
+            "heading": "Sunspot PCX",
+            "faq_inner_heading": "<h2><a href=\"/collections/sunspot-pcx\" title=\"SunSpot PCX\">Sunspot PCX</a></h2>",
+            "faq_inner_content": "<p>The SunSpot™ 36 PCX series replacement LED’s utilize existing Pilatus mounting configurations and electrical connections, making installation a true drop-in replacement. This PAR36 light is compatible with models: PC-7, PC-7 MKII, PC-9, PC-12 and PC-21. </p><ul><li>Over 75% more light output than the competition</li><li>Power consumption: 100 watts max</li><li>Higher color temperature – White</li><li>Simple drop-in replacement</li><li>Approvals: FAA-PMA/STC</li></ul><p>Aircraft this can be installed on are PC-7, PC-7 MKII, PC-9, PC-12 and PC-21.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_GRij8p": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/aeroleds-rv-kit-0019-80x80.png",
+            "heading": "Van’s RV Aircraft LED Option 4",
+            "faq_inner_heading": "<h2><a href=\"/products/aerosun-vx-vans-rv-wingtip-lights\" title=\"AeroSun VX - Van's RV Wingtip Lights\">Van’s RV Aircraft LED Option 4</a></h2>",
+            "faq_inner_content": "<p>KIT-0019 provides you with all the lighting you need to be night compliant &lcub;14 CFR § 91.205 (C)&rcub; on your RV-12 aircraft with the added benefit of a leading edge landing/taxi/WigWag light. This kit includes a pair of AeroSun landing/taxi/WigWag lights (01-2120) and pair of Pulsar wingtip lights (01-1100-12)</p><h3>For use on the following aircraft:</h3><ul><li>RV-12</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_i7CJCX": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/aeroleds-rv-kit-0018-80x80.png",
+            "heading": "Van’s RV Aircraft LED Option 3",
+            "faq_inner_heading": "<h2><a href=\"/products/aerosun-vx-vans-rv-wingtip-lights\" title=\"AeroSun VX - Van's RV Wingtip Lights\">Van’s RV Aircraft LED Option 3</a></h2>",
+            "faq_inner_content": "<p>KIT-0018 provides you with all the lighting you need to be night compliant &lcub;14 CFR § 91.205 (C)&rcub; on your aircraft with the added benefit of a leading edge recognition/WigWag light. This kit includes a pair of SunRay Plus Recognition/WigWag lights (01-1150), a pair of Pulsar NS wingtip lights (01-1280-B-12) and a SunTail (01-1260-12).</p><h3>For use on the following aircraft:</h3><ul><li>RV-7</li><li>RV-8</li><li>RV-9</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_wed7FH": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/aeroled-polaris-led-aircraft-light-80x80.png",
+            "heading": "Polaris",
+            "faq_inner_heading": "<h2><a href=\"/collections/polaris\" title=\"Polaris\">Polaris</a></h2>",
+            "faq_inner_content": "<p>Polaris™ Position Light Bulb serves as an LED replacement for traditional incandescent position lighting. They are to be installed behind a green or red forward-facing navigation lens.</p><ul><li>12V and 24V</li><li>Power consumption: 7 watts max</li><li>Simple drop-in replacement. (Bay 15s)</li><li>Approvals: FAA-PMA</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_3icUq3": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/suntail-aircraft-lights-by-aeroleds-80x80.png",
+            "heading": "EXPERIMENTAL SunTail",
+            "faq_inner_heading": "<h2><a href=\"/products/suntail-experimental-led-position-anti-collision-tail-light\" title=\"SUNTAIL EXPERIMENTAL LED POSITION & ANTI-COLLISION TAIL LIGHT\">EXPERIMENTAL SunTail</a></h2>",
+            "faq_inner_content": "<p>SunTail serves as an LED Anti-Collision Strobe and Position Light designed for the tail of the aircraft. SunTail can synchronize its strobe with any of AeroLEDs LED lighting products. SunTail does not require an external power supply and will retrofit the mounting footprint of legacy lighting. It meets and exceeds TSO-C30c Type III and TSO-C96a Class II.</p><ul><li>12V and 24V</li><li>No external power supply needed</li><li>Low power consumption</li><li>Strobe synchronization available</li><li>Simple drop-in replacement</li><li>Experimental</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_46bXKL": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/suntail-aircraft-lights-by-aeroleds-80x80_1.png",
+            "heading": "CERTIFIED SunTail",
+            "faq_inner_heading": "<h2><a href=\"/products/suntail-position-anti-collision-tail-light\" title=\"SUNTAIL CERTIFIED LED POSITION & ANTI-COLLISION TAIL LIGHT\">CERTIFIED SunTail</a></h2>",
+            "faq_inner_content": "<p>SunTail serves as an LED Anti-Collision Strobe and Position Light designed for the tail of the aircraft. SunTail can synchronize its strobe with any of AeroLEDs LED lighting products. SunTail does not require an external power supply and will retrofit the mounting footprint of legacy lighting. It is TSO-C30c Type III and TSO-C96a Class II approved.</p><ul><li>12V and 24V</li><li>No external power supply needed</li><li>Low power consumption</li><li>Strobe synchronization available</li><li>Simple drop-in replacement (Horizontal mount)</li><li>Approvals: FAA-TSO</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_jj4NRE": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/11-1280-B-12-L-front-top-B-400x400_1.png",
+            "heading": "PULSAR 650",
+            "faq_inner_heading": "<h2><a href=\"/products/pulsar-650-exp-led-forward-position-anti-collision-wingtip-lights\" title=\"Pulsar 650 EXP LED FORWARD POSITION / ANTI-COLLISION WINGTIP LIGHTS\">PULSAR 650</a></h2>",
+            "faq_inner_content": "<p>Pulsar 650 serves as a two-in-one LED light—a navigation light for directional red and green positioning, and a strobe light to increase visibility in both daylight and night flight. Designed with an industry-standard mounting footprint, an aerodynamically low drag profile, standard three-position mounting screw pattern with a patented mounting bracket, they are ideal for replacing legacy light installations. The lights are FAA-TSOA/STC approved and meet or exceed C-30c, Type I, II, and C-96a, Class II.</p><ul><li>12V and 24V</li><li>No external power supply needed</li><li>Low power consumption</li><li>Strobe synchronization available</li><li>Easy installation</li><li>Approvals: FAA-TSOA/STC</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_4JQTyR": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/aeroleds-pulsar-N-pair-aircraft-lights-80x80.png",
+            "heading": "CERTIFIED Pulsar N",
+            "faq_inner_heading": "<h2><a href=\"/products/pulsar-n-led-position-light\" title=\"Pulsar N LED POSITION LIGHT\">CERTIFIED Pulsar N</a></h2>",
+            "faq_inner_content": "<p><strong>Effective January 1, 2025.</strong></p><p><strong>We are discontinuing Pulsar N as part of our product line update. It will be replaced by the </strong><a href=\"/collections/all\" title=\"All products\"><strong>WAT 71105 Series LED Position Light,</strong></a><strong> which continues to offer the same high performance and reliability.</strong></p><p>Pulsar N serves as a navigation light for directional red and green positioning. Designed with an industry-standard mounting footprint, an aerodynamically low drag profile, standard three-position mounting screw pattern with a patented mounting bracket, they are ideal for replacing legacy light installations. The lights are FAA-TSOA/STC approved and meet or exceed C-30c, Type I, II</p><ul><li>12V and 24V</li><li>No external power supply needed</li><li>Low power consumption</li><li>Easy installation</li><li>Approvals: FAA-TSOA/STC</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_CfBh3A": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/11-1100-12-L-front-top-B-80x80.png",
+            "heading": "PULSAR 600",
+            "faq_inner_heading": "<h2><a href=\"/products/pulsar-600-exp-led-forward-tail-position-anti-collision-wingtip-light\" title=\"Pulsar 600 EXP LED FORWARD & TAIL POSITION/ ANTI-COLLISION WINGTIP LIGHT\">PULSAR 600</a></h2>",
+            "faq_inner_content": "<p>Pulsar 600 Series LED Navigation Lights serve as a three-in-one light—a navigation light for directional red and green positioning, a strobe light increases visibility in both daylight and night, and a rear-facing white position light. Designed with an industry-standard mounting footprint, an aerodynamically low drag profile, standard three-position mounting screw pattern with a patented mounting bracket, they are ideal for replacing legacy light installations. The lights are FAA-TSO/STC approved and meet or exceed C-30c, Type I, II and III, and C-96a, Class II.</p><ul><li>12V and 24V</li><li>No external power supply needed</li><li>Low power consumption</li><li>Strobe synchronization available</li><li>Easy installation</li><li>Approvals: FAA-TSOA/STC</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_7ykNfE": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/PCX_B_Taxi-80x80.png",
+            "heading": "Sunspot PCX-Taxi",
+            "faq_inner_heading": "<h2><a href=\"/collections/sunspot-pcx\" title=\"SunSpot PCX\">Sunspot PCX-Taxi</a></h2>",
+            "faq_inner_content": "<p>The SunSpot™ 36 PCX series is a PAR36 replacement LED utilizing the existing Pilatus mounting configurations and electrical connections, making installation a true drop-in replacement.</p><ul><li>Over 75% more light output than the competition</li><li>Power consumption: 100 watts max</li><li>Higher color temperature – White</li><li>Simple drop-in replacement</li><li>Approvals: FAA-PMA/STC</li></ul><p>Aircraft these lights can be installed on are: PC-7, PC-7 MKII, PC-9, PC-12 and PC-21.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_EEQw3J": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/SunSpot_64_SH-80x80.png",
+            "heading": "Sunspot 64-4000",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-64-led-landing-light\" title=\"SUNSPOT 64-4000 LED Landing Light\">Sunspot 64-4000</a></h2>",
+            "faq_inner_content": "<p>Highest performance in the industry. SunSpot™ 64-4000 Series Landing Lights are designed as an LED drop-in replacement for existing PAR64 lights. The SunSpot™ 64-4000 Series Landing Lights will fit all PAR64 configurations.</p><ul><li>Highest performing PAR64 LED on the market</li><li>Power consumption: 200 watts max</li><li>Higher color temperature – White</li><li>Simple drop-in replacement</li><li>Approvals: FAA-PMA</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_4qRqjm": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/H-Model-Shown-with-Wire-1200-x-1200-px-4-80x80.png",
+            "heading": "SunSpot 46-4000-Taxi",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-46-4000-landing-taxi-light\" title=\"SUNSPOT 46-4000 LED Landing & Taxi Light\">SunSpot 46-4000-Taxi</a></h2>",
+            "faq_inner_content": "<p>Highest performance in the industry – This 175 watt LED taxi light boasts an outstanding 19,250 lumens and a specially designed Fresnel lens to provide a broad 20° x 40° bright white beam angle. This greatly improves visibility on the ground and recognition in the air from up to 30 miles away. All SunSpot Series LED aircraft lights consume less power, produce more lumens (total light output), and are not affected by vibrations compared to incandescent bulbs. These attributes make the SunSpot ideal for most aircraft. SunSpot outputs a wider beam at a color temperature that illuminates the true color of an object. This provides exceptional color rendering as opposed to “grayed” out images from the orange-red color temperature of an incandescent lamp. All SunSpot 46 Series lights utilize the aircrafts’ existing PAR46 mount and electrical connections for ease of installation. (-H versions require an additional wire*)</p><p>–<strong>H MODEL</strong> includes AeroLEDs’ signature Pulse (wig-wag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><ul><li>Power consumption: 175 watts max</li><li>Color – aviation white for exceptional color rendering</li><li>Built-in pulse mode for wig-wag (-H models)</li><li><a href=\"/products/sync-circut\" title=\"SYNC CIRCUT\">Optional synchronization</a> (-H models)</li><li>Standard PAR 46 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li><strong>Approvals: FAA-PMA/STC</strong></li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_L6ab6k": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/SunSpot_46_4580_Landing_SH-80x80.png",
+            "heading": "Sunspot 46-4000-Landing",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-46-4000-landing-taxi-light\" title=\"SUNSPOT 46-4000 LED Landing & Taxi Light\">Sunspot 46-4000-Landing</a></h2>",
+            "faq_inner_content": "<p>Highest performance in the industry – This PAR46 LED landing light greatly improves visibility on the ground and recognition in the air from up to 30 miles away. All SunSpot Series LED aircraft lights consume less power, produce more lumens (total light output), and are not affected by vibrations compared to incandescent bulbs. These attributes make the SunSpot ideal for most aircraft. SunSpot outputs a wider beam at a color temperature that illuminates the true color of an object. This provides exceptional color rendering as opposed to “grayed” out images from the orange-red color temperature of an incandescent lamp. All SunSpot 46 Series lights utilize the aircrafts’ existing PAR46 mount and electrical connections for ease of installation. (-H versions require an additional wire*)</p><p>–<strong>H MODEL</strong> includes AeroLEDs’ signature Pulse (wig-wag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><ul><li>Power consumption: 175 watts max</li><li>Color – aviation white for exceptional color rendering</li><li>Built-in pulse mode for wig-wag (-H models)</li><li><a href=\"/products/sync-circut\" title=\"SYNC CIRCUT\">Optional synchronization</a> (-H models)</li><li>Standard PAR 46 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li><strong>Approvals: FAA-PMA/STC</strong></li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_K6bgta": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/100W-4000S-taxi-75x75.png",
+            "heading": "Sunspot 36-4000 (100W)",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-36-4000-100w-led-landing-taxi-light\" title=\"SUNSPOT 36-4000 (100W) LED Landing & Taxi Light\">Sunspot 36-4000 (100W)</a></h2>",
+            "faq_inner_content": "<p>Highest performance in the industry – This 100 watt LED taxi light boasts an outstanding 11,000 lumens and a specially designed Fresnel lens to provide a broad 20° x 40° bright white beam angle. This greatly improves visibility on the ground and recognition in the air from up to 30 miles away. All SunSpot Series LED aircraft lights consume less power, produce more lumens (total light output), and are not affected by vibrations compared to incandescent bulbs. These attributes make the SunSpot ideal for most aircraft. SunSpot outputs a wider beam at a color temperature that illuminates the true color of an object. This provides exceptional color rendering as opposed to “grayed” out images from the orange-red color temperature of an incandescent lamp. All SunSpot 36 Series lights utilize the aircrafts’ existing PAR36 mount and electrical connections for ease of installation. (-H versions require an additional wire*)</p><p>-H MODEL includes AeroLEDs’ signature Pulse (wig-wag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><p></p><ul><li>Power consumption: 100 watts max</li><li>Color – aviation white for exceptional color rendering</li><li>Built-in pulse mode for wig-wag (-H models)</li><li><a href=\"/products/sync-circut\" title=\"SYNC CIRCUT\">Optional synchronization</a> (-H models)</li><li>Standard PAR 36 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li><strong>Approvals: FAA-PMA/STC</strong></li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_pbhxUf": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/100W-4000S-taxi-75x75.png",
+            "heading": "Sunspot 36-4000 (100W)",
+            "faq_inner_heading": "<h2><a href=\"/products/sunspot-36-4000-100w-led-landing-taxi-light\" title=\"SUNSPOT 36-4000 (100W) LED Landing & Taxi Light\">Sunspot 36-4000 (100W)</a></h2>",
+            "faq_inner_content": "<p>Highest performance in the industry – This 100 watt LED landing light boasts an outstanding 200,000+ candela with a 20°x20° bright white beam angle that greatly improves visibility on the ground and recognition in the air from up to 30 miles away. All SunSpot Series LED aircraft lights consume less power, produce more lumens (total light output), and are not affected by vibrations compared to incandescent bulbs. These attributes make the SunSpot ideal for most aircraft. SunSpot outputs a wider beam at a color temperature that illuminates the true color of an object. This provides exceptional color rendering as opposed to “grayed” out images from the orange-red color temperature of an incandescent lamp. All SunSpot 36 Series lights utilize the aircrafts’ existing PAR36 mount and electrical connections for ease of installation. (-H versions require an additional wire*)</p><p><strong>-H MODEL</strong> includes AeroLEDs’ signature Pulse (wig-wag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><ul><li>Power consumption: 100 watts max</li><li>Color – aviation white for exceptional color rendering</li><li>Built-in pulse mode for wig-wag (-H models)</li><li><a href=\"/products/sync-circut\" title=\"SYNC CIRCUT\">Optional synchronization</a> (-H models)</li><li>Standard PAR 36 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li><strong>Approvals: FAA-PMA/STC</strong></li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_XJdELV": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/3-20-WIRE-20AWG-SINGLE-CONDUCTOR-SHIELDED-DSC09505-80x80.png",
+            "heading": "TEFZEL SHIELDED WIRE",
+            "faq_inner_heading": "<h2><a href=\"/products/tefzel-shielded-wire-18-awg-4-conductor\" title=\"TEFZEL SHIELDED WIRE - 18 AWG, 4 CONDUCTOR\">TEFZEL SHIELDED WIRE</a></h2>",
+            "faq_inner_content": "<p>Tefzel Shielded Wire is light, thin, and resistant to most chemicals, heat, age, cuts and oil. It’s designed for aerospace applications where dimensional tolerance, weight, and mechanical durability are required.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_GLKieE": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/SunBeacon-Adapter-Cup-Mount2-1-80x80.png",
+            "heading": "SunBeacon II 3.75″ Adapter MOUNT cup",
+            "faq_inner_heading": "<h2><a href=\"/products/sunbeacon-ii-3-75-adapter-mount-cup\" title=\"SUNBEACON II 3.75&quot; ADAPTER MOUNT CUP\">SunBeacon II 3.75″ Adapter MOUNT cup</a></h2>",
+            "faq_inner_content": "<p>The SunBeacon II 3.75″ Mount Kit is designed for various Cessna and Piper vertical stabilizer fairings.</p><p>3.75″ OD X 1.0″ ID</p><p>QTY:2 SCREW,RHPMS 6-32 x 1/4,Patch</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_VaMn3y": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/AeroSun-cx-led-light-80x80.png",
+            "heading": "AeroSun CX",
+            "faq_inner_heading": "<h2><a href=\"#\" title=\"#\">AeroSun CX</a></h2>",
+            "faq_inner_content": "<p>AeroSun™ CX is a PMA Certified LED Landing, Taxi and recognition light designed specifically for installation in the <a href=\"https://www.steneaviation.com/pages/quasar-cx\" target=\"_blank\">Stene Aviation Quasar Cessna wingtips</a>. It features integrated Pulse or “WigWag” significantly increasing recognition in broad daylight as well as night operations to help avoid midair collisions and bird strikes while drawing half the current. Installation eligible via STC by Stene Aviation for over 100 different models of the Cessna 150, 170, 172, 175, 180, 182, 185, 205, 206, and 207.</p><ul><li>Power consumption: 130 watts per light max</li><li>Higher color temperature – White</li><li>Built-in pulse mode</li><li>Approvals: FAA-PMA/STC</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_egnPPD": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/00-8120-Synch-CircuitsSquare-400x400-1.png",
+            "heading": "Sync Circuit",
+            "faq_inner_heading": "<h2><a href=\"/products/sync-circut\" title=\"SYNC CIRCUT\">Sync Circuit</a></h2>",
+            "faq_inner_content": "<p>The Sync Circuit is used to synchronize the pulse features when using more than one light, this becomes especially important when lights are in close proximity. This unit can be used to increase visibility in the lights by creating alternating flashing. This creates increased safety in flight. It is manufactured for use between any two wigwag lights to increase safety via visibility.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_6JVTTY": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/KIT-0012-Aerosun-Mount-Kit-80x80.png",
+            "heading": "AeroSun Mount Kit",
+            "faq_inner_heading": "<h2><a href=\"/products/aerosun-mount-kit\" title=\"AEROSUN MOUNT KIT\">AeroSun Mount Kit</a></h2>",
+            "faq_inner_content": "<p>The AeroSun mount kit is useful for mounting AeroLED’s AeroSun LED Landing and Taxi light. Installation instructions can be found in the link below.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_x9dEcf": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/3-20-WIRE-20AWG-SINGLE-CONDUCTOR-SHIELDED-DSC09505-80x80.png",
+            "heading": "Tefzel Shielded Wire",
+            "faq_inner_heading": "<h2><a href=\"/products/tefzel-shielded-wire-18-awg-4-conductor\" title=\"TEFZEL SHIELDED WIRE - 18 AWG, 4 CONDUCTOR\">Tefzel Shielded Wire</a></h2>",
+            "faq_inner_content": "<p>Tefzel Shielded Wire is light, thin, and resistant to most chemicals, heat, age, cuts and oil. It’s designed for aerospace applications where dimensional tolerance, weight, and mechanical durability are required.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_t3y3Tm": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/01-1096-SunBeacon-II-Twist-Mount-Kit-80x80.png",
+            "heading": "SunBeacon II Twist Mount Kit",
+            "faq_inner_heading": "<h2><a href=\"/products/sunbeacon-ii-twist-mount-kit\" title=\"SUNBEACON II TWIST MOUNT KIT\">SunBeacon II Twist Mount Kit</a></h2>",
+            "faq_inner_content": "<p>The SunBeacon II LED navigation light twist mount kit provides easy installation and removal of the SunBeacon II on nearly every aircraft.</p><p>.91″ ID x 2.5″ OD .08″ HEIGHT</p><p>Inlcudes 6-32 100 Countersink Screws</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_GFqDdh": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/KIT-0006-Pulsar-Mount-Kit-80x80.png",
+            "heading": "Pulsar 600 Series Mount Kit (single)",
+            "faq_inner_heading": "<h2><a href=\"/products/pulsar-600-series-mount-kit-single\" title=\"PULSAR 600 SERIES MOUNT KIT (SINGLE)\">Pulsar 600 Series Mount Kit (single)</a></h2>",
+            "faq_inner_content": "<p>Required for installation of all Pulsar N Series Lights: This mount kit comes standard with the purchase of all new Pulsar N Series Lights. Available for purchase separately as a single unit if necessary. Installation instructions are included below.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_4xYm6W": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/KIT-0008-Pulsar-NS-Mount-Kit-80x80.png",
+            "heading": "Pulsar 650/660 series Mount Kit (single)",
+            "faq_inner_heading": "<h2><a href=\"/products/pulsar-650-660-series-mount-kit-single\" title=\"PULSAR 650/660 SERIES MOUNT KIT (SINGLE)\">Pulsar 650/660 series Mount Kit (single)</a></h2>",
+            "faq_inner_content": "<p>Required for installation of all Pulsar N Series Lights: This mount kit comes standard with the purchase of all new Pulsar N Series Lights. Available for purchase separately as a single unit if necessary. Installation instructions are included below.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_LQxJ9z": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/Crimpers-80x80.png",
+            "heading": "Connector Pin Crimpers",
+            "faq_inner_heading": "<h2><a href=\"/collections/all\" title=\"All products\">Connector Pin Crimpers</a></h2>",
+            "faq_inner_content": "<p>AeroLED’s Pin Crimpers are especially useful for crimping Molex Connector Pins. See installation guide below.</p>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_jLckLB": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/KIT-0061-4-Pos-Molex-Connectors-Kit-Web-75x75.png",
+            "heading": "4-PIN Molex Connector",
+            "faq_inner_heading": "<h2><a href=\"/products/4-pin-molex-connector\" title=\"4-PIN MOLEX CONNECTOR\">4-PIN Molex Connector</a></h2>",
+            "faq_inner_content": "",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_N3nM3D": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/aeroleds-rv-kit-0017-80x80.png",
+            "heading": "Van’s RV Aircraft LED Option 2",
+            "faq_inner_heading": "<h2><a href=\"/collections/all\" title=\"All products\">Van’s RV Aircraft LED Option 2</a></h2>",
+            "faq_inner_content": "<p>KIT-0017 provides you with all the lighting you need to be night compliant &lcub;14 CFR § 91.205 (C)&rcub; on your aircraft with the added benefit of a leading edge landing/taxi/WigWag light. This kit includes a pair of AeroSun landing/taxi/WigWag lights (01-2120), a pair of Pulsar NS wingtip lights (01-1280-B-12) and a SunTail (01-1260-12)</p><h3>For use on the following aircraft:</h3><ul><li>RV-7</li><li>RV-8</li><li>RV-9</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_XCjGPw": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/aeroleds-rv-kit-0016-80x80.png",
+            "heading": "Van’s RV Aircraft LED Option 1",
+            "faq_inner_heading": "<h2><a href=\"/products/aerosun-vx-vans-rv-wingtip-lights\" title=\"AeroSun VX - Van's RV Wingtip Lights\">Van’s RV Aircraft LED Option 1</a></h2>",
+            "faq_inner_content": "<p>KIT-0016 provides you with all the lighting you need to be night compliant 14 CFR § 91.205 (C) on your aircraft. This kit includes a pair of Pulsar NS wingtip lights (01-1280-B-12) and a SunTail (01-1260-12)</p><h3>For use on the following aircraft:</h3><ul><li>RV-7</li><li>RV-8</li><li>RV-9</li><li>RV-10</li><li>RV-14</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "block_UmPzhA",
+        "block_mmKK7j",
+        "block_WWwDRU",
+        "block_xPAccg",
+        "block_FE9H8W",
+        "block_LKeACi",
+        "block_9JxfAr",
+        "block_Wp97kr",
+        "block_FmHWKa",
+        "block_PR9tqp",
+        "block_DVjnx6",
+        "block_kYbbEW",
+        "block_LHBUWj",
+        "block_C3YYrE",
+        "block_zpBfmw",
+        "block_7m6E8b",
+        "block_QE84Jm",
+        "block_J46aHN",
+        "block_kHHahH",
+        "block_PdYcVG",
+        "block_Q9LQqD",
+        "block_UHQYyT",
+        "block_iWbXEQ",
+        "block_GRij8p",
+        "block_i7CJCX",
+        "block_wed7FH",
+        "block_3icUq3",
+        "block_46bXKL",
+        "block_jj4NRE",
+        "block_4JQTyR",
+        "block_CfBh3A",
+        "block_7ykNfE",
+        "block_EEQw3J",
+        "block_4qRqjm",
+        "block_L6ab6k",
+        "block_K6bgta",
+        "block_pbhxUf",
+        "block_XJdELV",
+        "block_GLKieE",
+        "block_VaMn3y",
+        "block_egnPPD",
+        "block_6JVTTY",
+        "block_x9dEcf",
+        "block_t3y3Tm",
+        "block_GFqDdh",
+        "block_4xYm6W",
+        "block_LQxJ9z",
+        "block_jLckLB",
+        "block_N3nM3D",
+        "block_XCjGPw"
+      ],
+      "settings": {
+        "main_heading": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "archived_tab_JxJpJc": {
+      "type": "archived-tab",
+      "blocks": {
+        "block_GLAEhg": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/StarLight-Ice-80x80.png",
+            "heading": "StarLight",
+            "faq_inner_heading": "<h2><a href=\"/products/starlight-led-wing-inspection-light\" title=\"STARLIGHT LED WING INSPECTION LIGHT\">StarLight</a></h2>",
+            "faq_inner_content": "<p><strong>NOW PMA APPROVED FOR PART 23 AND 25 CATEGORY AIRCRAFT!</strong></p><p>Low-lying clouds and sub-zero temperatures can create hazardous ice formations on the wings of your aircraft. The StarLight™ wing inspection light was engineered with your safety in mind. This LED Ice detection Lighting system (or wing inspection/wing scan light) provides optimum illumination of your wing to check for the formation of ice. Our wing inspection lights offer more total light output (Lumens) and a wider beam spread to give you the optimum amount of light needed. It also provides added visibility to your aircraft for collision avoidance and recognition. The StarLight Ice wing inspection light serves as an easy <strong>LED drop-in replacement for: WL-A-7079B, WL-A-4174-24, WA7079B-24, NLI7079-24, CMA-7079B-24, A7079B-24, A7079-24, A70798-24, A7079B24, 60-4416-1, ML7079-24, UA-7079B-24, 972.72.54.605, WL-A-7079B-24, MS25338-7079, MS25338-617, MIL-L-6363/1, 6240-01-262-0145</strong></p><ul><li>24V</li><li>Power consumption: 5 watts max</li><li>Simple drop-in replacement. (Bay 15s)</li><li>Approvals: FAA-PMA</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_8KEKRy": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/SunBeacon-sunspot-cluster-aeroleds-beacon-lights-aircraft-80x80.png",
+            "heading": "CERTIFIED SunBeacon II",
+            "faq_inner_heading": "<h2><a href=\"/products/sunbeacon-ii-led-beacon\" title=\"SUNBEACON II LED BEACON\">CERTIFIED SunBeacon II</a></h2>",
+            "faq_inner_content": "<p>SunBeacon II™ is a high performance aircraft beacon light that provides a 360-degree flash pattern around its vertical axis. This compact aircraft beacon light comes standard with a clear lens – available with either white or red LEDs. The SunBeacon II™ is a direct replacement for standard rotating aircraft beacons and flashing beacons., This aircraft strobe light offers superior anti-collision benefits with more light output for less power. The SunBeacon II™ requires zero maintenance and has an extremely low profile for reduced drag compared to other aircraft beacon lights. Red TSO C96a Class I & III, White TSO C96a Class II.</p><ul><li>12V and 24V</li><li>No external power supply needed</li><li>Low power consumption</li><li>Strobe synchronization available</li><li>Easy installation</li><li>Optional twist mount or 3.75” cup mount (diagrams on page 7 and 8 of installation manual)</li><li>Approvals: FAA-TSO</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_DGYXyN": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/Untitled-design-2024-06-20T145813.673-80x80.png",
+            "heading": "SunRay EVO III",
+            "faq_inner_heading": "<h2><a href=\"/products/sunray-evo-iii-led-landing-recognition-light\" title=\"SunRay EVO III - LED Landing/ Recognition Light\">SunRay EVO III</a></h2>",
+            "faq_inner_content": "<p>SunRay™ EVO III is a newly optimized version of our long-trusted SunRay Plus landing light. Now with almost 4X the performance, this compact and versatile LED can be mounted virtually anywhere on the aircraft. SunRay EVO III comes standard with AeroLEDs’ signature Pulse (wigwag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><ul><li>Power consumption: 35 watts max</li><li>Color temperature – aviation white</li><li>Built-in pulse mode</li><li>Synchronization – optional</li><li>Versatile installation</li><li>30k hr MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black anodized heat sink</li><li>UV hardcoated polycarbonate lens</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_8gkQJV": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/MicroSun-aircraft-landing-taxi-light-aerosun-80x80.png",
+            "heading": "MicroSun LED",
+            "faq_inner_heading": "<h2><a href=\"/products/microsun-led-taxi-recognition-light\" title=\"MicroSun LED Taxi/ Recognition Light\">MicroSun LED</a></h2>",
+            "faq_inner_content": "<p>The ultra-powerful MicroSun™ LED is very versatile, with the ability to be mounted almost anywhere on an aircraft. In addition to its standard operation as a landing and taxi light, the MicroSun™ features integrated Pulse or “WigWag” significantly increasing recognition in broad daylight as well as night operations to help avoid midair collisions and bird strikes while drawing half the current. Their compact profile makes them the perfect option for lighter weight Experimental or Kit planes.</p><ul><li>Power consumption: 24 watts max</li><li>Higher color temperature – White</li><li>Built-in pulse mode</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_HwXxCC": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/AeroSun-Vx_small_8d680d6b-8db9-46c4-9f03-1feb1a13d0c0.png",
+            "heading": "AeroSun VX",
+            "faq_inner_heading": "<h2><a href=\"#\" title=\"#\">AeroSun VX</a></h2>",
+            "faq_inner_content": "<p>AeroSun™ VX Landing and Taxi Light is designed specifically for Vans RV wingtips. In addition to its standard operation as a landing/taxi light, the AeroSun™ VX features integrated Pulse or “WigWag” significantly increasing recognition in broad daylight as well as night operations to help avoid midair collisions and bird strikes while drawing half the current. Ideal for installations in aluminum or composite aircraft.</p><p></p><ul><li>Power consumption: 60 watts per light max</li><li>Higher color temperature – White</li><li>Built-in pulse mode</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_xXJRkN": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/Untitled-design-2024-06-20T151550.890-80x80.png",
+            "heading": "AeroSun EVO IV",
+            "faq_inner_heading": "<h2><a href=\"/products/aerosun-vx-vans-rv-wingtip-lights\" title=\"AeroSun VX - Van's RV Wingtip Lights\">AeroSun VX</a></h2>",
+            "faq_inner_content": "<p>AeroSun EVO IV is a newly optimized version of our long-trusted AeroSun LED Landing/Recognition light. Now with 3X the performance, this versatile LED can be mounted virtually anywhere on the aircraft. AeroSun EVO IV comes standard with AeroLEDs’ signature Pulse (wigwag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as light operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%. *Optional mount sold separately.</p><p></p><ul><li>Power consumption: 48 watts max</li><li>Color temperature – aviation white</li><li>Built-in pulse mode</li><li>Synchronization</li><li>Versatile installation</li><li>30k hr MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black anodized heat sink</li><li>UV hardcoated polycarbonate lens</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_cQxNzY": {
+          "type": "block",
+          "settings": {
+            "archived_img": "shopify://shop_images/90-1000-12-24_SunBeam_Front_Transparent-75x75.png",
+            "heading": "SunBeam LED Landing Light",
+            "faq_inner_heading": "<h2><a href=\"/products/sunbeam-led-landing-light\" title=\"SunBeam LED Landing Light\">SunBeam LED Landing Light</a></h2>",
+            "faq_inner_content": "<p>SunBeam LED landing light with recognition is manufactured under FAA-PMA standards in a rectangular format for a completely versatile installation. It is also compatible as a drop-in replacement for the 70346 series lamp. Common installations include: Diamond DA-20/DA-40, Cessna Columbia, Liberty XL, some Cirrus models and some Grumman models. SunBeam comes standard with AeroLEDs signature integrated Pulse (WigWag), significantly increasing recognition in broad daylight as well as night operations to help avoid midair collisions and bird strikes while drawing half the current.</p><ul><li>Over 65% more light output than the competition</li><li>Power consumption: 38 watts max</li><li>Color temperature – cool white</li><li>Built-in pulse mode (standard)</li><li>Synchronization</li><li>Easy installation</li><li>30k hr MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate</li><li>Approvals: FAA-PMA/ST</li></ul>",
+            "tab_html": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "block_t3aRHX": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "archived_img": "shopify://shop_images/Sunspot-46-Series-Landing-Lights-80x80_1.png",
+            "heading": "SUNSPOT 46 LX/HX",
+            "faq_inner_heading": "<h2><a href=\"#\" title=\"#\">SUNSPOT 46 LX/HX</a></h2>",
+            "faq_inner_content": "<p><strong>Important Update</strong></p><p><strong>As part of our efforts to streamline our offerings, we will be discontinuing this product, effective January 1, 2025.</strong></p><p><strong>In place of this product, we will be offering the Whelen Aerospace Technologies Parmetheus™ G3 Series at a comparable price point, along with alternative AeroLEDs high-powered lighting options.</strong></p><p></p><p>This 85 watt LED landing light boasts an outstanding 150,000+ candela with a 20° x 20° bright white beam angle that greatly improves visibility on the ground and recognition in the air from up to 30 miles away. All SunSpot Series LED aircraft lights consume less power, produce more lumens (total light output), and are not affected by vibrations compared to incandescent bulbs. These attributes make the SunSpot ideal for most aircraft. SunSpot outputs a wider beam at a color temperature that illuminates the true color of an object. This provides exceptional color rendering as opposed to “grayed” out images from the orange-red color temperature of an incandescent lamp. All SunSpot 46 Series lights utilize the aircrafts’ existing PAR46 mount and electrical connections for ease of installation. (HX model requires an additional wire*)</p><p><strong>HX MODEL</strong> includes AeroLEDs’ signature Pulse (wig-wag) functionality. The Pulse controller is fully integrated into the light and requires no external circuitry. This feature significantly increases recognition in daylight as well as night operations, aiding in collision avoidance and reduced bird strikes. In dual or quad light installations, while operating in wig-wag mode, this self-contained pulse function reduces load on the aircraft electrical system by 50%.</p><ul><li>Wide input voltage range (9-30VDC)</li><li>Power consumption: 85 watts max</li><li>Color – aviation white for exceptional color rendering</li><li>Built-in pulse mode for wig-wag (HX model)</li><li><a href=\"#\" title=\"#\">Optional synchronization</a> (HX model)</li><li>Standard PAR 46 Mount</li><li>30k hr. MTBF</li><li>Built-in thermal protection</li><li>Aluminum/black powder coated heat sink</li><li>UV hardcoated polycarbonate lens</li><li><strong>Approvals: FAA-PMA/STC</strong></li></ul>",
+            "tab_html": "<table class=\"has-fixed-layout\"><tbody>\n<tr>\n<td>SunSpot 46 LX<br>Landing Light</td>\n<td>01-2130-LX</td>\n<td>Parmetheus G3 PAR 46<br>Landing Light</td>\n<td><a href=\"https://flywat.com/products/parmetheus%E2%84%A2-g3-par-46-landing-light?_pos=1&amp;_sid=410cf6a33&amp;_ss=r\" rel=\"noopener\">01-0790906-00</a></td>\n<td><a href=\"https://flywat.com/products/parmetheus%E2%84%A2-g3-par-46-landing-light?_pos=1&amp;_sid=410cf6a33&amp;_ss=r\" rel=\"noopener\">01-0790906-00</a></td>\n</tr>\n<tr>\n<td>SunSpot 46 LX<br>Landing Light</td>\n<td>01-2130-LX</td>\n<td>SunSpot 46-4000<br>Landing Light</td>\n<td><a href=\"https://aeroleds.com/products/sunspot-46-4000-landing-light/\">01-2230-4522</a></td>\n<td><a href=\"https://aeroleds.com/products/sunspot-46-4000-landing-light/\">01-2230-4580</a></td>\n</tr>\n<tr>\n<td>SunSpot 46 HX<br>Landing Light</td>\n<td>01-2130-HX</td>\n<td>SunSpot 46-4000<br>Landing Light with Pulse</td>\n<td><a href=\"https://aeroleds.com/products/sunspot-46-4000-landing-light/\">01-2230-4522-H</a></td>\n<td><a href=\"https://aeroleds.com/products/sunspot-46-4000-landing-light/\">01-2230-4580-H</a></td>\n</tr>\n</tbody></table>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "block_GLAEhg",
+        "block_8KEKRy",
+        "block_DGYXyN",
+        "block_8gkQJV",
+        "block_HwXxCC",
+        "block_xXJRkN",
+        "block_cQxNzY",
+        "block_t3aRHX"
+      ],
+      "settings": {
+        "main_heading": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "archived_tab_HD8qtK",
+    "archived_tab_JxJpJc"
+  ]
+}

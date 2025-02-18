@@ -1,0 +1,709 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_mQXzH9": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_hhUNde": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify://files/videos/DJI_20241118165207_0729_D.MP4",
+            "heading": "<strong> led</strong> Lighting Solutions",
+            "heading_size": "hxxl",
+            "subheading": "",
+            "button_label": "Explore now",
+            "link": "shopify://collections/all",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 40,
+            "color_scheme": "",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "slide_xGwykg": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/WAT-AEROLEDS-stacked-logo-MERGER-2024-1920x1080-r01_1.jpg",
+            "heading": "",
+            "heading_size": "hxxl",
+            "subheading": "",
+            "button_label": "Learn More",
+            "link": "#",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "slide_hhUNde",
+        "slide_xGwykg"
+      ],
+      "settings": {
+        "transparent_header": true,
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "collection_list_McNXwP": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_BTgVAb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "aircraft-led-wingtip-tail-lights",
+            "custom_card_image": "shopify://shop_images/Aircraft-LED-Wingtip-_-Tail-Lights_fc24e418-2b47-4674-800d-76dbd6845a97.png"
+          }
+        },
+        "featured_collection_xJLFh7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "aircraft-led-landing-taxi-and-recognition-lights",
+            "custom_card_image": "shopify://shop_images/Aircraft-LED-Landing-Taxi-Recognition-Light_180e5953-bf2b-43cc-af55-efb067eb4e43.png"
+          }
+        },
+        "featured_collection_47Pcxq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "aircraft-led-beacons",
+            "custom_card_image": "shopify://shop_images/Aircraft-LED-Beacons_b227a0dc-a351-44f6-9163-57b3e8816548.png"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_BTgVAb",
+        "featured_collection_xJLFh7",
+        "featured_collection_47Pcxq"
+      ],
+      "settings": {
+        "title": "FEATURED PRODUCTS",
+        "subtitle": "IMPROVING PERFORMANCE & SAFETY",
+        "content": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 60
+      }
+    },
+    "image_with_text_4NddnC": {
+      "type": "image-with-text",
+      "blocks": {
+        "logo_r3JiAW": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/All-New-ICON.svg"
+          }
+        },
+        "heading_ffJ3tf": {
+          "type": "heading",
+          "settings": {
+            "heading": "AEROSUN VXI - WINGTIPS",
+            "heading_size": "h1"
+          }
+        },
+        "caption_bdz4m7": {
+          "type": "caption",
+          "settings": {
+            "caption": "FOR VANS RV-4 | VANS RV-6 | VANS RV-7 | VANS RV-8 | VANS RV-10 | VANS RV-14",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "border_g7mtYn": {
+          "type": "border",
+          "settings": {}
+        },
+        "text_QUUtgE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Introducing the AeroSun VXi Wingtip - a fully  integrated, precision-engineered wingtip and lighting solution developed with Vans Aircraft, available in carbon fiber and fiberglass. Setting a new industry standard, the AeroSun VXi delivers exceptional performance, versatility, and durability. </p>",
+            "text_style": "body"
+          }
+        },
+        "button_6CTz6E": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify://products/aerosun-vxi0-wingtips-for-vans-rv-4-vans-rv-6-vans-rv-7-vans-rv-8-vans-rv-10-vans-rv-14",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "logo_r3JiAW",
+        "heading_ffJ3tf",
+        "caption_bdz4m7",
+        "border_g7mtYn",
+        "text_QUUtgE",
+        "button_6CTz6E"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/VXi_Homepage_Callout_1.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "image_with_text_dggtbf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pCUxnt": {
+          "type": "heading",
+          "settings": {
+            "heading": "EXPERIMENTAL LIGHTING PRODUCTS",
+            "heading_size": "h1"
+          }
+        },
+        "border_gqe4Ka": {
+          "type": "border",
+          "settings": {}
+        },
+        "text_bTWAgN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Explore our specialized collection of  lighting solutions designed specifically for the experimental aircraft market. Each AeroLEDs product combines advanced engineering and durability to enhance visibility, safety, and style. Elevate your build with high-performance lighting crafted to meet the unique needs of experimental aviators.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_YE8PwQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify://collections/experimental-aircraft-led-lights",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pCUxnt",
+        "border_gqe4Ka",
+        "text_bTWAgN",
+        "button_YE8PwQ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Experimnetal-Lighting-Products.png",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-5",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn_GLKKJK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BtFEcx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/NS-VX_PROMO_f8d5dab9-9e27-4d9b-b916-8ede9bbd4157.jpg",
+            "title": "VANS RV LIGHTING",
+            "name": "",
+            "text": "<p>Explore our offerings for the Vans RV Flying community. </p>",
+            "link_label": "View",
+            "link": "shopify://collections/vans-rv-aeroleds-products"
+          }
+        },
+        "column_bAiJep": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Product_photo_Website_TEMPLATE_3.png",
+            "title": "Small Bulb replacements",
+            "name": "",
+            "text": "<p>Our StarLight Ice Light and Polaris Position Light are high-performance LED replacements for a wide range of standard bulbs, offering improved efficiency, brightness, and longevity.</p>",
+            "link_label": "View",
+            "link": "shopify://collections/bulb-replacements"
+          }
+        },
+        "column_T9K7gW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Quasar_Cx.jpg",
+            "title": "Lighting Mods",
+            "name": "",
+            "text": "<p>Upgrade your Cessna or RV with our high-performance LED lighting solutions. Boost visibility, style, and safety with custom mods designed for your aircraft.</p>",
+            "link_label": "View",
+            "link": "shopify://collections/lighting-mods"
+          }
+        }
+      },
+      "block_order": [
+        "column_BtFEcx",
+        "column_bAiJep",
+        "column_T9K7gW"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "subtitle": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "show_btn_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "image_with_text_dzJRYi": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_PVrfkJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "JET & TURBOPROP LED LIGHTING KITS",
+            "heading_size": "h1"
+          }
+        },
+        "border_whfGd3": {
+          "type": "border",
+          "settings": {}
+        },
+        "text_HdniCe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Upgrade your jet or turboprop with our premium LED kits, crafted for exceptional performance and reliability. AeroLEDs holds STCs for a wide range of aircraft makes and models, delivering trusted lighting solutions that meet the highest standards in safety and illumination. </p>",
+            "text_style": "body"
+          }
+        },
+        "button_bpLiJ8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify://pages/jet-turboprop-led-lights",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PVrfkJ",
+        "border_whfGd3",
+        "text_HdniCe",
+        "button_bpLiJ8"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Jet-_-Turboprop-LED-Lighting-Kits-JET-IMAGE.png",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-5",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "logo_list_yfTEtg": {
+      "type": "logo-list",
+      "blocks": {
+        "marquee_item_Ae4Arm": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-zenith.jpg",
+            "image2": "shopify://shop_images/aeroleds-partners-waco.jpg",
+            "image3": "shopify://shop_images/aeroleds-partners-aribus_aaa5287b-b943-4f2e-aa0d-389ac1e005bf.jpg",
+            "image4": "shopify://shop_images/aeroleds-partners-vans-aircraft.jpg",
+            "image5": "shopify://shop_images/aeroleds-partners-textron_802557e4-2628-4320-9542-59466aea52c3.jpg"
+          }
+        },
+        "marquee_item_4XnecD": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-spacex.jpg",
+            "image2": "shopify://shop_images/aeroleds-partners-rans.jpg",
+            "image3": "shopify://shop_images/aeroleds-partners-pilatus.jpg",
+            "image4": "shopify://shop_images/aeroleds-partners-legend.jpg",
+            "image5": "shopify://shop_images/aeroleds-partners-kitfox.jpg"
+          }
+        },
+        "marquee_item_hHPztK": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-lockwood.jpg",
+            "image2": "shopify://shop_images/aeroleds-partners-lockheed.jpg",
+            "image3": "shopify://shop_images/aeroleds-partners-lancair.jpg",
+            "image4": "shopify://shop_images/aeroleds-partners-jackson-jet-center.jpg",
+            "image5": "shopify://shop_images/aeroleds-partners-glasair.jpg"
+          }
+        },
+        "marquee_item_tHWmeL": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-enstrom.jpg",
+            "image2": "shopify://shop_images/aeroleds-partners-cubcrafters.jpg",
+            "image3": "shopify://shop_images/aeroleds-partners-bell_7cb13c68-b693-4b24-8bef-fe0f28af98a2.jpg",
+            "image4": "shopify://shop_images/aeroleds-partners-arion-aircraft_d9071018-1d80-4228-a7dc-318762e9add2.jpg",
+            "image5": "shopify://shop_images/aeroleds-partners-l3harris.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "marquee_item_Ae4Arm",
+        "marquee_item_4XnecD",
+        "marquee_item_hHPztK",
+        "marquee_item_tHWmeL"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "marquee_space": 90,
+        "mob_marquee_space": 50,
+        "padding-top": 60,
+        "padding-bottom": 60,
+        "mob-padding-top": 20,
+        "mob-padding-bottom": 20
+      }
+    },
+    "custom_video_Ahxyc8": {
+      "type": "custom-video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/New Website Homepage Video_4k.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "featured_product_Y8JHpk": {
+      "type": "featured-product",
+      "blocks": {
+        "text_k6WAkD": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "logo_RAirX7": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/best_seller.svg"
+          }
+        },
+        "title_mC4htM": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "image_Dxbpwa": {
+          "type": "image",
+          "settings": {
+            "icon_img_one": "shopify://shop_images/LED-Lights-ICON_dde7e7cc-78cf-4562-8662-94a5f634929c.svg",
+            "icon_img_two": "shopify://shop_images/PAR-36-ICON_16bf6c88-d703-41a2-b2dc-e5fd4eaa9750.svg"
+          }
+        },
+        "share_d8x89E": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "reseller_teNg37": {
+          "type": "reseller",
+          "settings": {
+            "contact_reseller": "Contact RESELLER",
+            "button_url": "shopify://pages/contact-us"
+          }
+        },
+        "buy_buttons_VnVaDf": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "text_k6WAkD",
+        "logo_RAirX7",
+        "title_mC4htM",
+        "image_Dxbpwa",
+        "share_d8x89E",
+        "reseller_teNg37",
+        "buy_buttons_VnVaDf"
+      ],
+      "settings": {
+        "product": "sunspot-36-4000-100w-led-landing-taxi-light",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 100,
+        "padding_bottom": 60
+      }
+    },
+    "featured_product_AMAwey": {
+      "type": "featured-product",
+      "blocks": {
+        "text_4VPtha": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_R38y3y": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_yEAgGi": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_XFMw49": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_P6VnUa": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_6HGtLd": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_TtaCjW": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_4VPtha",
+        "title_R38y3y",
+        "price_yEAgGi",
+        "variant_picker_XFMw49",
+        "quantity_selector_P6VnUa",
+        "buy_buttons_6HGtLd",
+        "share_TtaCjW"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "sunspot-36-4000-100w-led-landing-taxi-light",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "media_position": "left",
+        "gallery_layout": "stacked",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_HMcLKC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LK8V9z": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ryan-Edmark.png",
+            "title": "Sales & Tech support",
+            "name": "<strong>RYAN EDMARK</strong>",
+            "text": "<p><a href=\"tel:+1(208).361.6635\" title=\"tel:+1(208).361.6635\">+1(208).361.6635</a></p><p><a href=\"mailto:ryan@aeroleds.com\" title=\"mailto:ryan@aeroleds.com\">ryan@aeroleds.com</a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NpgJrF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ken-Robinson.png",
+            "title": "Technical support",
+            "name": "<strong>KEN ROBINSON</strong>",
+            "text": "<p><a href=\"tel:+1(208).361.6676\" title=\"tel:+1(208).361.6676\">+1(208).361.6676</a></p><p><a href=\"mailto:ken@aeroleds.com\" title=\"mailto:ken@aeroleds.com\">ken@aeroleds.com</a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FkApGa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Mark-McCormack.png",
+            "title": "TECHNICAL SUPPORT",
+            "name": "<strong>MARK MCCORMACK</strong>",
+            "text": "<p><a href=\"tel:+1(208).361.6641\" title=\"tel:+1(208).361.6641\">+1(208).361.6641</a></p><p><a href=\"mailto:mark@aeroleds.com\" title=\"mailto:mark@aeroleds.com\">mark@aeroleds.com</a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LK8V9z",
+        "column_NpgJrF",
+        "column_FkApGa"
+      ],
+      "settings": {
+        "title": "SUPPORT ASSISTANCE",
+        "heading_size": "h1",
+        "subtitle": "If Possible, Please Have Product Part Number, Aircraft Make/model, and or Photos to Assist the Support Team",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_btn_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "newsletter_kgAMAm": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_BP3P3V": {
+          "type": "heading",
+          "settings": {
+            "heading": "LET'S KEEP IN TOUCH!",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_QHLNDN": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Get monthly newsletter updates and exclusive offers on your favourite products by subscribing!</p>"
+          }
+        },
+        "email_form_yDJxwK": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_BP3P3V",
+        "paragraph_QHLNDN",
+        "email_form_yDJxwK"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a92bf190-e130-4edb-b56a-c25a02bbcc4e",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "1734551759caec6500": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_EBxBDH": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size": -2,
+            "alignment": "left",
+            "margin_bottom": 0,
+            "background_color": "#000000",
+            "feed_id": "",
+            "html_area": "<div class=\"insta_text\">\n<h2>@AeroLEDs</h2>\n<a href=\"https://www.instagram.com/fly_wat/\" class=\"button btn-feed btn-custom\"><span>Follow Us</span><span class=\"plus_icon\">\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\" stroke=\"var(--token-00b92a55-0ff5-4fb2-9247-ba51560c9c7e, rgb(0, 0, 0))\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" style=\"width: 100%; height: 100%;\"><line x1=\"12\" y1=\"5\" x2=\"12\" y2=\"19\"></line><line x1=\"5\" y1=\"12\" x2=\"19\" y2=\"12\"></line></svg>\n\n                  </span></a>\n</div>"
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_EBxBDH"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_mQXzH9",
+    "collection_list_McNXwP",
+    "image_with_text_4NddnC",
+    "image_with_text_dggtbf",
+    "multicolumn_GLKKJK",
+    "image_with_text_dzJRYi",
+    "logo_list_yfTEtg",
+    "custom_video_Ahxyc8",
+    "featured_product_Y8JHpk",
+    "featured_product_AMAwey",
+    "multicolumn_HMcLKC",
+    "newsletter_kgAMAm",
+    "1734551759caec6500"
+  ]
+}

@@ -1,0 +1,633 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_yB9YjT": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Event-Page-Banner-AeroLEDs-Website-2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 48,
+        "padding_bottom": 16
+      }
+    },
+    "rich_text_jfhxHT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ArbzbN": {
+          "type": "heading",
+          "settings": {
+            "heading": "EAA AirVenture 2024",
+            "heading_size": "h1"
+          }
+        },
+        "caption_BGeTn9": {
+          "type": "caption",
+          "settings": {
+            "caption": "July 22, 2024 to July 28, 2024",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        },
+        "text_LRXLmG": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>We look forward to seeing you at booth: Hangar C- 3032</strong></p>"
+          }
+        },
+        "button_JBmamx": {
+          "type": "button",
+          "settings": {
+            "button_label": "EVENT MAP",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AV_Operations_24_Digital_VisitorsMapEdit_v2.pdf?v=1734954544",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ArbzbN",
+        "caption_BGeTn9",
+        "text_LRXLmG",
+        "button_JBmamx"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 40
+      }
+    },
+    "video_with_text_Bd6z4g": {
+      "type": "video-with-text",
+      "blocks": {
+        "heading_E4nUPm": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>We have some exciting things happening at our booth this year!</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_NhV6HQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>• SEVERAL NEW AND EXCITING PRODUCTS!</strong></p><p><strong>• AEROSUN VXI WINGTIP FOR VANS AIRCRAFT ON DISPLAY </strong>(For RV-4 / 6 / 7 / 8 / 10 / 14)</p><p><strong>• 10% OFF*  JULY 22ND, 2024 – AUGUST 5TH, 2024  +  FREE GIFT WITH PURCHCASE   </strong>(*exclusions apply)</p><p><strong>• ENTER TO WIN ONE FREE AEROLEDS PRODUCT OF CHOICE </strong>(valued up to $1250)</p><p><strong>• TITAN AEROBATIC TEAM “THURSDAY RIDE” RAFFLE </strong> (Mon – Wed)</p><p><strong>• TITAN AEROBATIC TEAM MEET & GREET + FREE AUTOGRAPHED POSTERS!</strong> (Wed 10:15-10:45  /  Fri 10:15-10:45)</p>",
+            "text_style": "body"
+          }
+        },
+        "button_fkHDUk": {
+          "type": "button",
+          "settings": {
+            "button_label": "AEROLEDS DISTRIBUTORS ON SITE",
+            "button_link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/ON-SITE-DISTRIBUTORS-Pg.-1-Event-Landing-Page-PDF-Pg.-2-11-x-14-in-Walgreens-Poster-Board-with-Stand-4.pdf?v=1734954424",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_E4nUPm",
+        "text_NhV6HQ",
+        "button_fkHDUk"
+      ],
+      "settings": {
+        "video_url": "https://youtu.be/3iOPi1v6nBk",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "multicolumn_images_j6cj4e": {
+      "type": "multicolumn-images",
+      "blocks": {
+        "column_Rq6i9k": {
+          "type": "column",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/1faa5fcec28441c7b5ab531e534cfcc8.mp4",
+            "title": "",
+            "text": "<p>NEW AeroSun EVO IV - 3X THE PERFORMANCE!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VGCtRt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-design-2024-03-08T173736.254_67824998-3f4d-4204-81cd-daa381daca7f.png",
+            "video_url": "",
+            "title": "",
+            "text": "<p>NEW AeroSun VXi for Vans Aircraft</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aQP9x9": {
+          "type": "column",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/1b88a6f992644bdf91a198d31aba156b.mp4",
+            "title": "",
+            "text": "<p>NEW SunSpot LXi Landing and Taxi LED (PAR36)</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Rq6i9k",
+        "column_VGCtRt",
+        "column_aQP9x9"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "show_border": true,
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "color_scheme": "scheme-2d17d453-d562-4763-b7bf-a8b59d510191",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 40
+      }
+    },
+    "airventure_banner_LBq3N9": {
+      "type": "airventure_banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/scale.jpg",
+        "img_url": "/apps/store-locator",
+        "padding_top": 85,
+        "padding_bottom": 85
+      }
+    },
+    "multicolumn_images_DHVHLh": {
+      "type": "multicolumn-images",
+      "blocks": {
+        "column_YABGnx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/StarLight-Ice_22aeb3e8-7031-4f7d-8c4c-2740c4871297.png",
+            "video_url": "",
+            "title": "Ice Light",
+            "text": "<p><strong>Our LED Ice Light provides optimum illumination of your wing to check for the formation of ice. It outputs a substantially wider beam spread and lasts significantly longer than incandescent bulbs.</strong></p>",
+            "link_label": "More",
+            "link": "shopify://collections/ice-lights"
+          }
+        },
+        "column_bYJey8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Pulsar-Cluster.png",
+            "video_url": "",
+            "title": "Wingtip | Tail Lights",
+            "text": "<p><strong>Our streamlined designs have some of the industry’s smallest foot-prints and create an aerodynamic profile that produces less drag with higher performance than traditional Xenon strobes and other competing LEDs.</strong></p>",
+            "link_label": "More",
+            "link": "shopify://collections/wingtip-tail-lights"
+          }
+        },
+        "column_cPTHXm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SunBeacon-sunspot-cluster-aeroleds-beacon-lights-aircraft_3077bb64-d959-470f-a346-f3cfb2e36d36.png",
+            "video_url": "",
+            "title": "Beacon Lights",
+            "text": "<p><strong>Our Beacon Lights output significantly more light and draw less power than standard beacons. They require zero maintenance and have an extremely low profile for reduced drag.</strong></p>",
+            "link_label": "More",
+            "link": "shopify://collections/beacon-lights"
+          }
+        },
+        "column_XV4JHc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SunSpot-36-Series-Cluster-1.png",
+            "video_url": "",
+            "title": "Landing | Taxi | Recognition",
+            "text": "<p><strong>Highest performance in the industry: Our Landing, Taxi and Recognition lighting will truly transform your nighttime flying experience and provide unmatched daytime recognition for added safety.</strong></p>",
+            "link_label": "More",
+            "link": "shopify://collections/product-categories-landing-taxi-lights"
+          }
+        }
+      },
+      "block_order": [
+        "column_YABGnx",
+        "column_bYJey8",
+        "column_cPTHXm",
+        "column_XV4JHc"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "show_border": false,
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": true,
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_MfM8Xr": {
+      "type": "rich-text",
+      "blocks": {
+        "button_LHHPXk": {
+          "type": "button",
+          "settings": {
+            "button_label": "Locate Reseller",
+            "button_link": "/apps/store-locator",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_LHHPXk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 60
+      }
+    },
+    "rich_text_R9wDQj": {
+      "type": "rich-text",
+      "blocks": {
+        "image_FTMtNT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Aviation-Consumer_a530231e-5642-43ff-918c-371a29a3dc5a.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_FTMtNT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "fixed_banner_image_AXe3yQ": {
+      "type": "fixed-banner-image",
+      "blocks": {
+        "image_XVcDt3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TitanAerobaticTeamLogo_MoreRed.png"
+          }
+        },
+        "button_Cr3EyY": {
+          "type": "button",
+          "settings": {
+            "button_label": "TITAN Aerobatic Team",
+            "button_link": "shopify://pages/titan-aerobatic-team-official-premier-partner-of-aeroleds",
+            "button_style_secondary": false,
+            "button_label_2": "Official Website",
+            "button_link_2": "https://naat.net/",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "image_XVcDt3",
+        "button_Cr3EyY"
+      ],
+      "settings": {
+        "back_img": "shopify://shop_images/TITANS1-011-e1719430882205_f98ffa59-2829-47ce-a0ae-9a9fe8ecce61.jpg",
+        "heading": "<h2>We Are Proudly Partnered With</h2>",
+        "video_url": "https://youtu.be/OomeUZ3JA1E"
+      }
+    },
+    "logo_list_4EANJ7": {
+      "type": "logo-list",
+      "blocks": {
+        "marquee_item_rVGMxw": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-aribus_aaa5287b-b943-4f2e-aa0d-389ac1e005bf.jpg"
+          }
+        },
+        "marquee_item_TmapTB": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-arion-aircraft_d9071018-1d80-4228-a7dc-318762e9add2.jpg"
+          }
+        },
+        "marquee_item_fRHE69": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-beechcraft.jpg"
+          }
+        },
+        "marquee_item_8cKb6R": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-bell_7cb13c68-b693-4b24-8bef-fe0f28af98a2.jpg"
+          }
+        },
+        "marquee_item_VytyaN": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-cubcrafters.jpg"
+          }
+        },
+        "marquee_item_qQDBD8": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-enstrom.jpg"
+          }
+        },
+        "marquee_item_DiA3xF": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-general-atomics.jpg"
+          }
+        },
+        "marquee_item_JNkNQT": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-glasair.jpg"
+          }
+        },
+        "marquee_item_w6xJDd": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-hansair.jpg"
+          }
+        },
+        "marquee_item_AwhLDc": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-jackson-jet-center.jpg"
+          }
+        },
+        "marquee_item_3fDp33": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-kitfox.jpg"
+          }
+        },
+        "marquee_item_Jgwpdb": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-l3harris.jpg"
+          }
+        },
+        "marquee_item_UKwmxB": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-lancair.jpg"
+          }
+        },
+        "marquee_item_4aga8Q": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-legend.jpg"
+          }
+        },
+        "marquee_item_NHLMJN": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-lockheed.jpg"
+          }
+        },
+        "marquee_item_Fy6Xhe": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-lockwood.jpg"
+          }
+        },
+        "marquee_item_EzF8My": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-pilatus.jpg"
+          }
+        },
+        "marquee_item_TB4bnr": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-rans.jpg"
+          }
+        },
+        "marquee_item_MB4GWm": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-spacex.jpg"
+          }
+        },
+        "marquee_item_3LxXbM": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-textron_802557e4-2628-4320-9542-59466aea52c3.jpg"
+          }
+        },
+        "marquee_item_bfiDnX": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-vans-aircraft.jpg"
+          }
+        },
+        "marquee_item_hmPL6k": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-waco.jpg"
+          }
+        },
+        "marquee_item_JdVzBp": {
+          "type": "marquee_item",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds-partners-zenith.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "marquee_item_rVGMxw",
+        "marquee_item_TmapTB",
+        "marquee_item_fRHE69",
+        "marquee_item_8cKb6R",
+        "marquee_item_VytyaN",
+        "marquee_item_qQDBD8",
+        "marquee_item_DiA3xF",
+        "marquee_item_JNkNQT",
+        "marquee_item_w6xJDd",
+        "marquee_item_AwhLDc",
+        "marquee_item_3fDp33",
+        "marquee_item_Jgwpdb",
+        "marquee_item_UKwmxB",
+        "marquee_item_4aga8Q",
+        "marquee_item_NHLMJN",
+        "marquee_item_Fy6Xhe",
+        "marquee_item_EzF8My",
+        "marquee_item_TB4bnr",
+        "marquee_item_MB4GWm",
+        "marquee_item_3LxXbM",
+        "marquee_item_bfiDnX",
+        "marquee_item_hmPL6k",
+        "marquee_item_JdVzBp"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "marquee_space": 135,
+        "mob_marquee_space": 135,
+        "padding-top": 20,
+        "padding-bottom": 20,
+        "mob-padding-top": 20,
+        "mob-padding-bottom": 20
+      }
+    },
+    "rich_text_W3b76m": {
+      "type": "rich-text",
+      "blocks": {
+        "image_aUkmCN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/aeroleds_made_in_boise_white_small_ca91fb87-a29a-40d8-8cc5-002bc0c02989.png"
+          }
+        },
+        "button_habEBH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Tour our facility",
+            "button_link": "shopify://pages/our-facility",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "image_aUkmCN",
+        "button_habEBH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list_PJwYa3": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_qzK38Q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ice-lights"
+          }
+        },
+        "featured_collection_zcxbne": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wingtip-tail-lights"
+          }
+        },
+        "featured_collection_bXJTh9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beacon-lights"
+          }
+        },
+        "featured_collection_wy7Cnc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "landing-taxi-recognition"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_qzK38Q",
+        "featured_collection_zcxbne",
+        "featured_collection_bXJTh9",
+        "featured_collection_wy7Cnc"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "content": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_yB9YjT",
+    "main",
+    "rich_text_jfhxHT",
+    "video_with_text_Bd6z4g",
+    "multicolumn_images_j6cj4e",
+    "airventure_banner_LBq3N9",
+    "multicolumn_images_DHVHLh",
+    "rich_text_MfM8Xr",
+    "rich_text_R9wDQj",
+    "fixed_banner_image_AXe3yQ",
+    "logo_list_4EANJ7",
+    "rich_text_W3b76m",
+    "collection_list_PJwYa3"
+  ]
+}

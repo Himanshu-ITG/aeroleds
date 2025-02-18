@@ -1,0 +1,123 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "tail_text_7XQLiV": {
+          "type": "tail-text",
+          "settings": {
+            "tail_label": "AIRCRAFT TAIL NUMBER (REQUIRED)"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "share_RVhpB9": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "tail_text_7XQLiV",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "share_RVhpB9"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "product_des": false,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 100,
+        "padding_bottom": 12
+      }
+    },
+    "description_tab_nnJpqM": {
+      "type": "description-tab",
+      "settings": {}
+    },
+    "warning_section_GCbaQH": {
+      "type": "warning-section",
+      "settings": {
+        "text": "<strong>WARNING:</strong> These products may contain chemicals known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, visit <a href=\"https://eaqghj-3x.myshopify.com/pages/regulatory\" title=\"https://eaqghj-3x.myshopify.com/pages/regulatory\">aeroleds.com/regulatory</a>."
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "text": "<p>IMPROVING PERFORMANCE & SAFETY</p>",
+        "heading": "You may also like",
+        "subheading": "",
+        "heading_size": "h2",
+        "slider_visual": "counter",
+        "products_to_show": 7,
+        "enable_desktop_slider": true,
+        "columns_desktop": 4,
+        "swipe_on_mobile": true,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 60,
+        "padding_bottom": 100,
+        "quick_add": "standard",
+        "contact_reseller": "Contact Reseller",
+        "button_url": "/apps/store-locator"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "description_tab_nnJpqM",
+    "warning_section_GCbaQH",
+    "related-products"
+  ]
+}

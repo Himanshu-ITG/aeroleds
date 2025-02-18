@@ -1,0 +1,448 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "landing_image_banner_6T48ah": {
+      "type": "landing-image-banner",
+      "blocks": {
+        "content_DAEerC": {
+          "type": "content",
+          "settings": {
+            "content": "ATTENTION! The System recommendations provided on this page are based on typical stock configurations. If you are uncertain about the specification of your current setup or the parts you need, please contact a sales associate to verify the correct part numbers before placing an order."
+          }
+        },
+        "text_WNeYFR": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>LANDING / TAXI LIGHTS</h2><p>LED offerings have exact same geometry as the legacy lamps for a simple direct drop in replacement</p>",
+            "text_style": "body",
+            "title": "DETERMINE YOUR CURRENT"
+          }
+        },
+        "multi_image_TrjecD": {
+          "type": "multi_image",
+          "settings": {
+            "main_image": "shopify://shop_images/AeroLEDs-Website-2024-SYSTEM-RECOMMENDATIONS-LANDING-LIGHTS-STEP-01-ICON.png",
+            "column_image_1": "shopify://shop_images/WAT-Website-2024-SYSTEM-RECOMMENDATIONS-LANDING-LIGHTS-PAR-36-STEP-01_2_e18b2450-9064-401a-b246-1ad10a51794b_1.png",
+            "column_content_1": "<h3>PAR 36</h3><p>APPROXIMATELY 4\" IN DIAMETER</p>",
+            "column_image_2": "shopify://shop_images/WAT-Website-2024-SYSTEM-RECOMMENDATIONS-LANDING-LIGHTS-PAR-36-STEP-01_2_e18b2450-9064-401a-b246-1ad10a51794b-v.png",
+            "column_content_2": "<h3>PAR 46</h3><p>APPROXIMATELY 6\" IN DIAMETER</p>",
+            "image_direction": "row",
+            "block_separator_line": true
+          }
+        },
+        "multi_image_kP7PPH": {
+          "type": "multi_image",
+          "settings": {
+            "main_image": "shopify://shop_images/AeroLEDs-Website-2024-SYSTEM-RECOMMENDATIONS-LANDING-LIGHTS-STEP-02-ICON.png",
+            "column_image_1": "shopify://shop_images/13.png",
+            "column_content_1": "<h3>LANDING</h3><p>SPOT/FOCUSED BEAM FOR DISTANCE</p>",
+            "column_image_2": "shopify://shop_images/SYSTEM-RECOMMENDATIONS-TAXI-LIGHTS-STEP-02-WIDE-SPREADER-BEAM_1.png",
+            "column_content_2": "<h3>TAXI</h3><p>WIDE SPREADER BEAM</p>",
+            "image_direction": "column",
+            "block_separator_line": false
+          }
+        }
+      },
+      "block_order": [
+        "content_DAEerC",
+        "text_WNeYFR",
+        "multi_image_TrjecD",
+        "multi_image_kP7PPH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/bnnr-_1.png",
+        "full_width": true,
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "top-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false,
+        "separator_line": false,
+        "padding_top": 40,
+        "padding_bottom": 36
+      }
+    },
+    "system_recommendations_pzaDkz": {
+      "type": "system-recommendations",
+      "blocks": {
+        "column_pnAwy9": {
+          "type": "column",
+          "settings": {
+            "sub_title": "LANDING LIGHTS - PAR 36",
+            "inline_text": "<h3>SUNSPOT 36-4600 100W</h3><p><strong>LED </strong>LANDING LIGHTS</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Sunspot-36-4000-100W-PAR36-LED-Landing-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC &amp; PMA <br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">14V</h5><p>01-1030-4313</p><p>01-1030-4313-H <span>w/wigwag function</span></p><h5 class=\"space_grid\">28V</h5><p>01-1030-4596</p><p>01-1030-4596-H <span>w/wigwag function</span></p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunspot-36-4000-100w-led-landing-taxi-light"
+          }
+        },
+        "column_Ln6Hhr": {
+          "type": "column",
+          "settings": {
+            "sub_title": "LANDING LIGHTS - PAR 36",
+            "inline_text": "<h3>SUNSPOT 36-4000 75W</h3><p><strong>LED </strong>LANDING LIGHTS</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Sunspot-36-4000-75W-PAR36-LED-Landing-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC &amp; PMA <br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">14V</h5><p>01-1030-4509</p><p>01-1030-4509-H <span>w/wigwag function</span></p><h5 class=\"space_grid\">28V</h5><p>01-1030-4591</p><p>01-1030-4591-H <span>w/wigwag function</span></p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunspot-36-4000-75w-landing-taxi-light"
+          }
+        },
+        "column_pzyW7e": {
+          "type": "column",
+          "settings": {
+            "sub_title": "LANDING LIGHTS - PAR 36",
+            "inline_text": "<h3>SUNSPOT EQUINOX</h3><p>DUAL FUNCTION<strong> </strong>LANDING + TAXI</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Sunspot-Equinox-Dual-Function-Landing-Taxi-PAR36-LED-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "<p>STC &amp; PMA <br>APPROVED</p>",
+            "approvedcontent": "<p>BULT IN WIG WAG</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">14V</h5><p>01-1030-LT-12</p><h5 class=\"space_grid\">28V</h5><p>01-1030-LT-24</p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunspot36-equinox-dual-function-led-landing-taxi-light"
+          }
+        },
+        "column_Yzbbft": {
+          "type": "column",
+          "settings": {
+            "sub_title": "LANDING LIGHTS - PAR 36",
+            "inline_text": "<h3>PARMETHEUS™ G3</h3><p><strong>LED </strong>LANDING LIGHTS</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Parmetheus-G3-PAR36-LED-Landing-Light.png",
+            "content": "",
+            "heading_titlecontent": "<h5>2.5X BRIGHTER</h5>\n<p>than Parmetheus\n<sup>TM</sup> PLUS</p>",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC &amp; PMA <br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V-28V</h5>\n<p>01-0772102-10</p>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_RjXjp9": {
+          "type": "column",
+          "settings": {
+            "sub_title": "LANDING LIGHTS - PAR 36",
+            "inline_text": "<h3>PARMETHEUS™ PLUS</h3><p><strong>LED </strong>LANDING LIGHTS</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Parmetheus-Plus-PAR36-LED-Landing-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">14V</h5><p>01-0771833-10</p><h5 class=\"space_grid\">28V</h5><p>01-0771833-20</p>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_iKp7VK": {
+          "type": "column",
+          "settings": {
+            "sub_title": "TAXI LIGHTS - PAR 36",
+            "inline_text": "<h3>SUNSPOT 36-4600<br/>100W</h3><p><strong>LED </strong>TAXI LIGHTS</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Sunspot-36-4000-100W-PAR36-LED-Taxi-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC &amp; PMA <br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">14V</h5><p>01-1030-4314</p><p>01-1030-4314-H <span>w/wigwag function</span></p><h5 class=\"space_grid\">28V</h5><p>01-1030-4587</p><p>01-1030-4587-H <span>w/wigwag function</span></p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunspot-36-4000-100w-led-landing-taxi-light"
+          }
+        },
+        "column_peaRgJ": {
+          "type": "column",
+          "settings": {
+            "sub_title": "TAXI LIGHTS - PAR 36",
+            "inline_text": "<h3>SUNSPOT 36-4000<br/>75W</h3><p><strong>LED </strong>TAXI LIGHTS</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Sunspot-36-4000-75W-PAR36-LED-Taxi-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC &amp; PMA <br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">14V</h5><p>01-1030-4519</p><p>01-1030-4519-H <span>w/wigwag function</span></p><h5 class=\"space_grid\">28V</h5><p>01-1030-4626</p><p>01-1030-4626-H <span>w/wigwag function</span></p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunspot-36-4000-75w-landing-taxi-light"
+          }
+        },
+        "column_NPE9Fq": {
+          "type": "column",
+          "settings": {
+            "sub_title": "TAXI LIGHTS - PAR 36",
+            "inline_text": "<h3>SUNSPOT EQUINOX</h3><p>DUAL FUNCTIONS<strong> </strong>LANDING + TAXI</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Sunspot-Equinox-Dual-Function-Landing-Taxi-PAR36-LED-Light_a3d62cd6-8b4e-4b41-86d6-bd751b1a7709.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "<p>STC &amp; PMA <br>APPROVED</p>",
+            "approvedcontent": "<p>BULT IN WIG WAG</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">14V</h5><p>01-1030-LT-12</p><h5 class=\"space_grid\">28V</h5><p>01-1030-LT-24</p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunspot36-equinox-dual-function-led-landing-taxi-light"
+          }
+        },
+        "column_Gx7yxw": {
+          "type": "column",
+          "settings": {
+            "sub_title": "TAXI LIGHTS - PAR 36",
+            "inline_text": "<h3>PARMETHEUS™ G3</h3><p><strong>LED </strong>TAXI LIGHTS</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Parmetheus-G3-PAR36-LED-Taxi-Light.png",
+            "content": "",
+            "heading_titlecontent": "<h5>2.5X BRIGHTER</h5>\n<p>than Parmetheus\n<sup>TM</sup> PLUS</p>",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V-28V</h5>\n<p>01-0772102-15</p>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_9VrUK6": {
+          "type": "column",
+          "settings": {
+            "sub_title": "TAXI LIGHTS - PAR 36",
+            "inline_text": "<h3>PARMETHEUS™ PLUS</h3><p><strong>LED </strong>TAXI LIGHTS</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Parmetheus-Plus-PAR36-LED-Taxi-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">14V</h5><p>01-0771833-15</p><h5 class=\"space_grid\">28V</h5><p>01-0771833-25</p>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_8tXqE8": {
+          "type": "column",
+          "settings": {
+            "sub_title": "LANDING LIGHTS - PAR 46",
+            "inline_text": "<h3>PARMETHEUS™ G3</h3><p><strong>LED </strong>LANDING LIGHTS</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Parmetheus-G3-PAR46-LED-Landing-Light.png",
+            "content": "",
+            "heading_titlecontent": "<h5>2.5X BRIGHTER</h5>\n<p>than Parmetheus\n<sup>TM</sup> PLUS</p>",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC<br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5>\n<h5 class=\"space_grid\">14V-28V</h5>\n<p>01-0790906-00</p>",
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        },
+        "column_hNHejb": {
+          "type": "column",
+          "settings": {
+            "sub_title": "LANDING LIGHTS - PAR 46",
+            "inline_text": "<h3>SUNSPOT 46-4000</h3><p><strong>LED </strong>LANDING LIGHTS</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Sunspot-46-4000-PAR46-LED-Landing-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC &amp; PMA <br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">14V</h5><p>01-2230-4522</p><p>01-2230-4522-H <span>w/wigwag function</span></p><h5 class=\"space_grid\">28V</h5><p>01-2230-4580</p><p>01-2230-4580-H <span>w/wigwag function</span></p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunspot-46-4000-landing-taxi-light"
+          }
+        },
+        "column_UkdV8i": {
+          "type": "column",
+          "settings": {
+            "sub_title": "LANDING LIGHTS - PAR 46",
+            "inline_text": "<h3>SUNSPOT 46<br/>EQUINOX</h3><p>DUAL FUNCTION LANDING + TAXI</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Sunspot-46-Equinox-Dual-Function-Landing-Taxi-PAR46-LED-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "<p>STC &amp; PMA <br>APPROVED</p>",
+            "approvedcontent": "<p>BULT IN WIG WAG</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">14V</h5><p>01-2230-LT-12</p><h5 class=\"space_grid\">28V</h5><p>01-2230-LT-24</p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunspot-46-dual-function-led-landing-taxi-light"
+          }
+        },
+        "column_yExVdr": {
+          "type": "column",
+          "settings": {
+            "sub_title": "TAXI-LIGHTS-PAR-46",
+            "inline_text": "<h3>SUNSPOT 46-4000</h3><p><strong>LED </strong>TAXI LIGHTS</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Sunspot-46-4000-PAR46-LED-Taxi-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "",
+            "approvedcontent": "<p>STC &amp; PMA <br>APPROVED</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">28V</h5><p>01-2230-4554</p><p>01-2230-4554-H <span>w/wigwag function</span></p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunspot-46-4000-landing-taxi-light"
+          }
+        },
+        "column_dj3F9d": {
+          "type": "column",
+          "settings": {
+            "sub_title": "TAXI-LIGHTS-PAR-46",
+            "inline_text": "<h3>SUNSPOT 46<br/>EQUINOX</h3><p>DUAL FUNCTION LANDING + TAXI</p>",
+            "title": "",
+            "image_series": "shopify://shop_images/Series-ICON.svg",
+            "image_par": "shopify://shop_images/PAR-36-ICON_20c09bd1-e37c-461e-9a73-73a4535853ef.svg",
+            "image_par2": "shopify://shop_images/LED-Lights-ICON_d6a7081f-5d5a-47c9-b440-b8af025f6d38.svg",
+            "heading": "",
+            "image": "shopify://shop_images/Sunspot-46-Equinox-Dual-Function-Landing-Taxi-PAR46-LED-Light.png",
+            "content": "",
+            "heading_titlecontent": "",
+            "heading_subcontent": "<p>STC &amp; PMA <br>APPROVED</p>",
+            "approvedcontent": "<p>BULT IN WIG WAG</p>",
+            "partNumbercontent": "<h5>PART NUMBERS:</h5><h5 class=\"space_grid\">14V</h5><p>01-2230-LT-12</p><h5 class=\"space_grid\">28V</h5><p>01-2230-LT-24</p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://products/sunspot-46-dual-function-led-landing-taxi-light"
+          }
+        }
+      },
+      "block_order": [
+        "column_pnAwy9",
+        "column_Ln6Hhr",
+        "column_pzyW7e",
+        "column_Yzbbft",
+        "column_RjXjp9",
+        "column_iKp7VK",
+        "column_peaRgJ",
+        "column_NPE9Fq",
+        "column_Gx7yxw",
+        "column_9VrUK6",
+        "column_8tXqE8",
+        "column_hNHejb",
+        "column_UkdV8i",
+        "column_yExVdr",
+        "column_dj3F9d"
+      ],
+      "settings": {
+        "title": "SELECT YOUR CURRENT",
+        "heading_size": "h1",
+        "text": "<h2>LANDING / TAXI LIGHTS</h2>",
+        "text_sub_heading": "",
+        "text_sub_heading2": "",
+        "img_one": "shopify://shop_images/AeroLEDs-Website-2025-SYSTEM-RECOMMENDATIONS-LEGACY-LANDING-LIGHTS-PAR-46-OPTION-03-BW.png",
+        "img_hover-one": "shopify://shop_images/AeroLEDs-Website-2025-SYSTEM-RECOMMENDATIONS-LEGACY-LANDING-LIGHTS-PAR-36-OPTION-01-CLR.png",
+        "text_one": "<p>LANDING LIGHTS - <strong>PAR 36</strong></p>",
+        "img_two": "shopify://shop_images/AeroLEDs-Website-2025-SYSTEM-RECOMMENDATIONS-LEGACY-TAXI-LIGHTS-PAR-46-OPTION-04-BW.png",
+        "img_hover-two": "shopify://shop_images/AeroLEDs-Website-2025-SYSTEM-RECOMMENDATIONS-LEGACY-TAXI-LIGHTS-PAR-36-OPTION-02-CLR.png",
+        "text_two": "<p>TAXI LIGHTS -<strong> PAR 36</strong></p>",
+        "img_three": "shopify://shop_images/AeroLEDs-Website-2025-SYSTEM-RECOMMENDATIONS-LEGACY-LANDING-LIGHTS-PAR-36-OPTION-01-BW.png",
+        "img_hover-three": "shopify://shop_images/AeroLEDs-Website-2025-SYSTEM-RECOMMENDATIONS-LEGACY-LANDING-LIGHTS-PAR-46-OPTION-03-CLR.png",
+        "text_three": "<p>LANDING LIGHTS -<strong> PAR 46</strong></p>",
+        "img_four": "shopify://shop_images/AeroLEDs-Website-2025-SYSTEM-RECOMMENDATIONS-LEGACY-TAXI-LIGHTS-PAR-46-OPTION-04-BW_8ace315b-490d-4441-a513-a19588de03cb.png",
+        "img_hover-four": "shopify://shop_images/AeroLEDs-Website-2025-SYSTEM-RECOMMENDATIONS-LEGACY-TAXI-LIGHTS-PAR-46-OPTION-04-CLR.png",
+        "text_four": "<p>TAXI LIGHTS -<strong> PAR 46</strong></p>",
+        "desktop_content_alignment": "center",
+        "for_first_match": "LANDING-LIGHTS-PAR-36",
+        "for_two_match": "TAXI-LIGHTS-PAR-36",
+        "for_three_match": "LANDING-LIGHTS-PAR-46",
+        "for_four_match": "TAXI-LIGHTS-PAR-46",
+        "title_one": "SYSTEM RECOMMENDATIONS",
+        "text-title_one": "<h2>LED PAR 36 LANDING LIGHTS</h2><p>DIRECT REPLACEMENT OPTIONS</p>",
+        "title_two": "SYSTEM RECOMMENDATIONS",
+        "text-title_two": "<h2>LED PAR 36 TAXI  LIGHTS</h2><p>DIRECT REPLACEMENT OPTIONS</p>",
+        "title_three": "SYSTEM RECOMMENDATIONS",
+        "text-title_three": "<h2>LED PAR 46 LANDING LIGHTS</h2><p>DIRECT REPLACEMENT OPTIONS</p>",
+        "title_four": "SYSTEM RECOMMENDATIONS",
+        "text-title_four": "<h2>LED PAR 46 TAXI  LIGHTS</h2><p>DIRECT REPLACEMENT OPTIONS</p>",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    }
+  },
+  "order": [
+    "main",
+    "landing_image_banner_6T48ah",
+    "system_recommendations_pzaDkz"
+  ]
+}

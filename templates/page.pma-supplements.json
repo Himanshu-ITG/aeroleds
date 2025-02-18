@@ -1,0 +1,272 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 48,
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_PJDbj6": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "supplements_YN6NJ3": {
+      "type": "supplements",
+      "blocks": {
+        "pma_block_NXpTjU": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/1.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-1-Sunspot-36-Aviat-Husky.pdf?v=1733928414\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-1-Sunspot-36-Aviat-Husky.pdf?v=1733928414\">PMA Supplement 1</a></p>",
+            "block_content": "sunspot 36 Aviat Husky"
+          }
+        },
+        "pma_block_bamgaD": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/2.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-2-Sunspot-36HX-and-36LX-Cessna-185.pdf?v=1733928479\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-2-Sunspot-36HX-and-36LX-Cessna-185.pdf?v=1733928479\">PMA Supplement 2</a></p>",
+            "block_content": "SunSpot 26HX/LX and 36LX Cessna 185"
+          }
+        },
+        "pma_block_9knpFR": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/3.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-3-SunSpot36-H-A-P-Enstrom-480B-Sunspot46HX-Air-Tractor-Sunspot-64-DC-3.pdf?v=1733928537\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-3-SunSpot36-H-A-P-Enstrom-480B-Sunspot46HX-Air-Tractor-Sunspot-64-DC-3.pdf?v=1733928537\">PMA Supplement 3</a></p>",
+            "block_content": "SunSpot36-H-A-P Enstrom 480B SunSpot46HX Air Tractor, SunSpot 64 DC-3"
+          }
+        },
+        "pma_block_NAjDcz": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/4.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-Ammended-PMA-Supplement-4.pdf?v=1733928651\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-Ammended-PMA-Supplement-4.pdf?v=1733928651\">PMA Supplement 4</a></p>",
+            "block_content": "SunSpot 36 and 46"
+          }
+        },
+        "pma_block_axrEdb": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/5.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-5-Sunbeam-Air-Tractor.pdf?v=1733928742\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-5-Sunbeam-Air-Tractor.pdf?v=1733928742\">PMA Supplements 5</a></p>",
+            "block_content": "Sunbeam Air Tractor"
+          }
+        },
+        "pma_block_HF3RGm": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/6.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-6-Sunspot-36-4596-and-Sunspot-36-4587-Cessna-300-and-400-series.pdf?v=1733929328\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-6-Sunspot-36-4596-and-Sunspot-36-4587-Cessna-300-and-400-series.pdf?v=1733929328\">PMA Supplements 6</a></p>",
+            "block_content": "SunSpot 36-4956 and SunSpot 36-4587 Cessna 300 and 400 series"
+          }
+        },
+        "pma_block_Ra8kfE": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/7.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-7-Sunspot-36HX-and-LX-Sunspot-46HX-and-LX-Aerostar-Beechcraft-Textron-Cessna-Textron-Commander-Maule-Mooney-Socata-Twin-Commander-True-Flight-Grumman.pdf?v=1733929491\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/PMA-Supplement-7-Sunspot-36HX-and-LX-Sunspot-46HX-and-LX-Aerostar-Beechcraft-Textron-Cessna-Textron-Commander-Maule-Mooney-Socata-Twin-Commander-True-Flight-Grumman.pdf?v=1733929491\">PMA Supplements 7</a></p>",
+            "block_content": "SunSpot 36HX/LX, SunSpot 46LX/HX, Aerostar, Beechcraft  (Textron), Cessna (Textron), Commander, Maule, Mooney, Socata, Twin Commander, True Flight (Grumman)"
+          }
+        },
+        "pma_block_7yRpce": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/AeroSunCX_small_SH.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-8-AeroSun-Cx-Quasar-Cx.pdf?v=1733929611\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-8-AeroSun-Cx-Quasar-Cx.pdf?v=1733929611\">PMA Supplements 8</a></p>",
+            "block_content": "AeroSun Cx (Quasar Cx)"
+          }
+        },
+        "pma_block_PNiWHC": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/9.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-9-PC12.pdf?v=1733929795\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-9-PC12.pdf?v=1733929795\">PMA Supplements 9</a></p>",
+            "block_content": ""
+          }
+        },
+        "pma_block_TUMJN7": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/10.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-10-Logo-Light-Starlight.pdf?v=1733929927\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-10-Logo-Light-Starlight.pdf?v=1733929927\">PMA Supplements 10</a></p>",
+            "block_content": "Star Light"
+          }
+        },
+        "pma_block_bVBLbA": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/11.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-11-AML_MDL-STC_SA02386AK.pdf?v=1733930149\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-11-AML_MDL-STC_SA02386AK.pdf?v=1733930149\">PMA Supplements 11</a></p>",
+            "block_content": ""
+          }
+        },
+        "pma_block_bqB9Qe": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/12.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-12-Nextant.pdf?v=1733930206\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-12-Nextant.pdf?v=1733930206\">PMA Supplements 12</a></p>",
+            "block_content": ""
+          }
+        },
+        "pma_block_tWBUhy": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/15.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-15-Polaris-Bulb.pdf?v=1733930266\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-15-Polaris-Bulb.pdf?v=1733930266\">PMA Supplements 15</a></p>",
+            "block_content": "Polaris Bulb"
+          }
+        },
+        "pma_block_zR4G3b": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/16.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-16-Polaris-Bulb.pdf?v=1733930343\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-16-Polaris-Bulb.pdf?v=1733930343\">PMA Supplements 16</a></p>",
+            "block_content": "Polaris Bulb"
+          }
+        },
+        "pma_block_eQ4Yzg": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/17.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-17-Polaris-Bulb-2.pdf?v=1733930397\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-17-Polaris-Bulb-2.pdf?v=1733930397\">PMA Supplements 17</a></p>",
+            "block_content": "Polaris Bulb"
+          }
+        },
+        "pma_block_6EVkC8": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/18.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-18.pdf?v=1733930462\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-18.pdf?v=1733930462\">PMA Supplements 18</a></p>",
+            "block_content": "Part 27 Rotocraft (PAR36/PAR46)"
+          }
+        },
+        "pma_block_fRgDCd": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/19.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-19-Part-23-SA02386AK.pdf?v=1733930516\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-19-Part-23-SA02386AK.pdf?v=1733930516\">PMA Supplements 19</a></p>",
+            "block_content": "Part 23 STC SA02386BAK"
+          }
+        },
+        "pma_block_hTQNbg": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/20.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-20-Part-25.pdf?v=1733930571\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-20-Part-25.pdf?v=1733930571\">PMA Supplements 20</a></p>",
+            "block_content": "Part 25 Transportation Category Aircraft"
+          }
+        },
+        "pma_block_p4Mx8y": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/21.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Supplement-21-Polaris-Bulb.pdf?v=1733930618\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Supplement-21-Polaris-Bulb.pdf?v=1733930618\">PMA Supplements 21</a></p>",
+            "block_content": "Polaris Bulb"
+          }
+        },
+        "pma_block_7G93Vk": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/22.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Supplement-22-Sikorsky-Landing-and-Taxi-Lights.pdf?v=1733930715\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/Supplement-22-Sikorsky-Landing-and-Taxi-Lights.pdf?v=1733930715\">PMA Supplement 22</a></p>",
+            "block_content": "Part 29 Silkorsky Landing and Taxi Lights"
+          }
+        },
+        "pma_block_hMV3eB": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/23.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-23-Polaris-Bulb.pdf?v=1733930753\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/SUPPLEMENT-23-Polaris-Bulb.pdf?v=1733930753\">PMA Supplement 23</a></p>",
+            "block_content": "Polaris Bulb"
+          }
+        },
+        "pma_block_jmEjWT": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/24.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-24-2.pdf?v=1733930811\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-24-2.pdf?v=1733930811\">PMA Supplement 24</a></p>",
+            "block_content": "Starlight Ice Light - Part 23 Category Aircraft"
+          }
+        },
+        "pma_block_9ncjdW": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/25.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-25-2.pdf?v=1733930857\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-25-2.pdf?v=1733930857\">PMA Supplement 25</a></p>",
+            "block_content": "Starlight Ice Light - Part 25 Category Aircraft"
+          }
+        },
+        "pma_block_tX6rdT": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/26.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-26.pdf?v=1733930902\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-26.pdf?v=1733930902\">PMA Supplement 26</a></p>",
+            "block_content": "Part 23 NAV, STROBE, POSITION, BEACON Lights - Part 23 Category Aircraft"
+          }
+        },
+        "pma_block_gEVKTY": {
+          "type": "pma-block",
+          "settings": {
+            "block_image": "shopify://shop_images/25.png",
+            "block_heading": "<p><a href=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-27.pdf?v=1733931121\" title=\"https://cdn.shopify.com/s/files/1/0901/7573/4077/files/AeroLEDs-PMA-Supplement-27.pdf?v=1733931121\">PMA Supplement 27</a></p>",
+            "block_content": "StarLight Ice Light - Twin Commander Aircraft"
+          }
+        }
+      },
+      "block_order": [
+        "pma_block_NXpTjU",
+        "pma_block_bamgaD",
+        "pma_block_9knpFR",
+        "pma_block_NAjDcz",
+        "pma_block_axrEdb",
+        "pma_block_HF3RGm",
+        "pma_block_Ra8kfE",
+        "pma_block_7yRpce",
+        "pma_block_PNiWHC",
+        "pma_block_TUMJN7",
+        "pma_block_bVBLbA",
+        "pma_block_bqB9Qe",
+        "pma_block_tWBUhy",
+        "pma_block_zR4G3b",
+        "pma_block_eQ4Yzg",
+        "pma_block_6EVkC8",
+        "pma_block_fRgDCd",
+        "pma_block_hTQNbg",
+        "pma_block_p4Mx8y",
+        "pma_block_7G93Vk",
+        "pma_block_hMV3eB",
+        "pma_block_jmEjWT",
+        "pma_block_9ncjdW",
+        "pma_block_tX6rdT",
+        "pma_block_gEVKTY"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 80
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_PJDbj6",
+    "supplements_YN6NJ3"
+  ]
+}

@@ -1,0 +1,1107 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_dC6KNT": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/aeroleds-media-banner_e4811e0f-0500-4690-a1b0-9a54ec421c5d.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 28
+      }
+    },
+    "video_gallery_QhGDht": {
+      "type": "video-gallery",
+      "blocks": {
+        "video_Ar6CMX": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://youtu.be/26ZluZn7ykQ",
+            "img_video": "shopify://shop_images/hqdefault_1.jpg",
+            "content_div": "<p>Upgrading Foxy's beacon to an AeoLED Sunbeacon II</p>",
+            "caption_content": "<p>In this part of my journey to giving new life to an old plane I'm replacing the old worn out beacon and installing what could possibly be, in my....</p>"
+          }
+        },
+        "video_Y43UKw": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://youtu.be/rq2fySF-c7M",
+            "img_video": "shopify://shop_images/hqdefault_2.jpg",
+            "content_div": "<p>AeroLEDs ~ VXi Lens Cover Installation</p>",
+            "caption_content": "<p><strong>This video covers the installation process of the AeroLEDs VXI Lens Cover onto the Vans</strong></p>"
+          }
+        },
+        "video_xeiMcC": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://youtu.be/Yw4KATgD0e0",
+            "img_video": "shopify://shop_images/hqdefault_3.jpg",
+            "content_div": "<p>Kitfox 7 Apex Build Episode 75 AeroLEDS Light Install On The Piggyback STOL Wings</p>",
+            "caption_content": "<p>....</p>"
+          }
+        },
+        "video_edpMKw": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://youtu.be/4dYH6pqzpSM",
+            "img_video": "shopify://shop_images/hqdefault_4.jpg",
+            "content_div": "<p>Molex Connector Installation (KIT-61/KIT-62)</p>",
+            "caption_content": "<p>This video takes you through the installation of Molex Connector in applications where needed for AeroLEDs.....</p>"
+          }
+        },
+        "video_cDU3iP": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=l34VHxVBUGU",
+            "img_video": "shopify://shop_images/hqdefault.jpg",
+            "content_div": "<p>Foxy gets a new set of Aero leds pulsars and Sun tail lights</p>",
+            "caption_content": "<p>Foxy gets a new set of Pulsar wingtip led lights with strobes and Sun tail rear navigation light with strobe for that “hey look at me  I’m right....</p>"
+          }
+        },
+        "video_8tXcrR": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=tw8zfFZwDKI",
+            "img_video": "shopify://shop_images/maxresdefault.jpg",
+            "content_div": "<p>Crimping Pins on the AeroLEDs SunBeacon II Light (Ep76)</p>",
+            "caption_content": "<p>In this video I will show my technique for crimping the pins on the wires of the AeroLEDs SunBeacon II light. Having the proper tools makes the job....</p>"
+          }
+        },
+        "video_TQDXqQ": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=EPpIS4cUzP4",
+            "img_video": "shopify://shop_images/maxresdefault_1.jpg",
+            "content_div": "<p>Installing the AeroLEDs SunBeacon II (Ep27)</p>",
+            "caption_content": "<p>It's quick and easy! I'll show you how I mounted the beacon mounting plate. Unfortunately I can't actually mount the beacon until the airplane is....</p>"
+          }
+        },
+        "video_hQhhDX": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=biGlImOvW3U",
+            "img_video": "shopify://shop_images/hqdefault_1_ea8243e4-d49b-4261-8868-aefe29621197.jpg",
+            "content_div": "<p>Carbon Cub Landing Lights</p>",
+            "caption_content": "<p>I upgraded the factory lights to SunSpot's from.....</p>"
+          }
+        },
+        "video_RMcMjA": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=2F6_Bcp_sp8",
+            "img_video": "shopify://shop_images/maxresdefault_2.jpg",
+            "content_div": "<p>Big Decisions made! + Wing Lighting Install - Build VLOG #10</p>",
+            "caption_content": "<p>...</p>"
+          }
+        },
+        "video_diWFwK": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=1VUy61OW8v8",
+            "img_video": "shopify://shop_images/hqdefault_2_4ca67580-6894-4c2d-9bfa-4df9d7412c81.jpg",
+            "content_div": "<p>AEROLEDs PIREP Video: Featuring LED Navigation and LED Strobes</p>",
+            "caption_content": "<p>Check out this very special video showing for the first time my new lighting package on my #Cessna205. This includes the full 'setup' from...</p>"
+          }
+        },
+        "video_ChJpP3": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=nj95ac1mSg8",
+            "img_video": "shopify://shop_images/maxresdefault_3.jpg",
+            "content_div": "<p>Mounting LIGHTS on the Wingtips of the DarkAero 1! - July 28, 2020</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_FVChUH": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=JUwYfMjNcic",
+            "img_video": "shopify://shop_images/maxresdefault_4.jpg",
+            "content_div": "<p>Tail LEDS PIREP: Unboxing/Installation of AeroLEDS SunBeacon & SunTail #Cessna205 @TheChadColby</p>",
+            "caption_content": "<p>....</p>"
+          }
+        },
+        "video_BKL887": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=PnBvEa2y9N4",
+            "img_video": "shopify://shop_images/maxresdefault_5.jpg",
+            "content_div": "<p>LED light Pirep, AeroLEDS Sunspot 4000 series lights vs standard LEDS #Cessna205 @TheChadColby</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_ABtkWe": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=eX7VjWS_PMI",
+            "img_video": "shopify://shop_images/maxresdefault_6.jpg",
+            "content_div": "<p>AeroLEDs ~ Cessna Fairing Wingtip Installation</p>",
+            "caption_content": "<p>Installation for the Cessna Fairing Wingtip.....</p>"
+          }
+        },
+        "video_VgRFm8": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=Rv8p7Ls5whU",
+            "img_video": "shopify://shop_images/hqdefault_3_2a48c09a-f52f-497b-a148-e65814201a29.jpg",
+            "content_div": "<p>AeroLEDs ~ High quality LED Aircraft Lighting</p>",
+            "caption_content": "<p>Learn about AeroLeds LED landing lights, rv replacement lights (airplane landing lights), led replacement lights and many others.  These ......</p>"
+          }
+        },
+        "video_QpGfth": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=YM0_2XoVC9I",
+            "img_video": "shopify://shop_images/hqdefault_4_76bb0d39-27ad-4932-ab4e-7b097677f4d6.jpg",
+            "content_div": "<p>Installing LED nav / strobe 3-way combination lights on wingtips - Part 11</p>",
+            "caption_content": "<p>We Install LED nav / strobe 3-way combination lights on the wingtips, replacing the old style AeroFlash / Whelan nav/strobe light with the new....</p>"
+          }
+        }
+      },
+      "block_order": [
+        "video_Ar6CMX",
+        "video_Y43UKw",
+        "video_xeiMcC",
+        "video_edpMKw",
+        "video_cDU3iP",
+        "video_8tXcrR",
+        "video_TQDXqQ",
+        "video_hQhhDX",
+        "video_RMcMjA",
+        "video_diWFwK",
+        "video_ChJpP3",
+        "video_FVChUH",
+        "video_BKL887",
+        "video_ABtkWe",
+        "video_VgRFm8",
+        "video_QpGfth"
+      ],
+      "settings": {
+        "heading_video": "INSTALLATIONS",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_gallery_bVpBw6": {
+      "type": "video-gallery",
+      "blocks": {
+        "video_UraRWM": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=p6XGpsbAchM",
+            "img_video": "shopify://shop_images/hqdefault_6.jpg",
+            "content_div": "<p>AeroLED Landing & Taxi Lights | Cessna 180/185 Upgrade</p>",
+            "caption_content": "<p>....</p>"
+          }
+        },
+        "video_QTVDDU": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=JIdTsTEz0_0",
+            "img_video": "shopify://shop_images/maxresdefault_7.jpg",
+            "content_div": "<p>AeroLeds LJ45 taxi light conversion</p>",
+            "caption_content": "<p>It was finally time to convert from the OEM halogen style PAR36 taxi lights the Learjet 45 was certified with to LED. The last couple of NBAA....</p>"
+          }
+        },
+        "video_7NcarR": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=S_5axPgnFns",
+            "img_video": "shopify://shop_images/maxresdefault_8.jpg",
+            "content_div": "<p>1st Tailwheel Landings at Night + Emergency due to a Light Bulb!?</p>",
+            "caption_content": "<p>....</p>"
+          }
+        },
+        "video_VzYadQ": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=P8Bd_-8J34o",
+            "img_video": "shopify://shop_images/maxresdefault_9.jpg",
+            "content_div": "<p>AeroLEDS Equinox Vs. the 4509 Landing Light</p>",
+            "caption_content": "<p>Does the latest LED technology beat up on the ancient 4509 landing light for Experimental aircraft? You bet it does. Here's KITPLANES editor in chief....</p>"
+          }
+        },
+        "video_gDEb6F": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=gRuXAgwnAyk",
+            "img_video": "shopify://shop_images/maxresdefault_10.jpg",
+            "content_div": "<p>MASSIVE Flying Day ➡ 11hrs 20mins + 894nm</p>",
+            "caption_content": "<p>We continue our huge cross country, cross continent flying adventure from Wisconsin to Alaska in our Cessna 172. Our instrument panel was just.....</p>"
+          }
+        },
+        "video_pAz8cT": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=VBdWvZH9y0Y",
+            "img_video": "shopify://shop_images/maxresdefault_11.jpg",
+            "content_div": "<p>AeroLEDs vs. Incandescent Aircraft Lights</p>",
+            "caption_content": "<p>Thinking about upgrading to LEDs? See this pilot perform his own tests and weigh the differences for....</p>"
+          }
+        },
+        "video_BDWFgf": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=k9M3fRoDORA",
+            "img_video": "shopify://shop_images/hqdefault_7.jpg",
+            "content_div": "<p>PIREP Stene Aviation Quasar Cx wingtips integrated w/ AeroLEDs AeroSun Cx lighting system for Cessna</p>",
+            "caption_content": "<p>Stene Aviation Quasar Cx wingtips integrated with the AeroLEDs AeroSun Cx lighting system on my Cessna 205. See my other videos for more....</p>"
+          }
+        },
+        "video_ifKhrB": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=1VUy61OW8v8",
+            "img_video": "shopify://shop_images/hqdefault_9.jpg",
+            "content_div": "<p>AEROLEDs PIREP Video: Featuring LED Navigation and LED Strobes</p>",
+            "caption_content": "<p>Check out this very special video showing for the first time my new lighting package on my #Cessna205.   This includes the full 'setup' from.....</p>"
+          }
+        }
+      },
+      "block_order": [
+        "video_UraRWM",
+        "video_QTVDDU",
+        "video_7NcarR",
+        "video_VzYadQ",
+        "video_gDEb6F",
+        "video_pAz8cT",
+        "video_BDWFgf",
+        "video_ifKhrB"
+      ],
+      "settings": {
+        "heading_video": "PERFORMANCE",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "video_gallery_HHTkJz": {
+      "type": "video-gallery",
+      "blocks": {
+        "video_QNcRyX": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=p6XGpsbAchM",
+            "img_video": "shopify://shop_images/hqdefault_10.jpg",
+            "content_div": "<p>AeroLED Landing & Taxi Lights | Cessna 180/185 Upgrade</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_hRqpy3": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=JIdTsTEz0_0",
+            "img_video": "shopify://shop_images/maxresdefault_12.jpg",
+            "content_div": "<p>AeroLeds LJ45 taxi light conversion</p>",
+            "caption_content": "<p>It was finally time to convert from the OEM halogen style PAR36 taxi lights the Learjet 45 was certified with to LED. The last couple of NBAA....</p>"
+          }
+        },
+        "video_KzETxD": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=P8Bd_-8J34o",
+            "img_video": "shopify://shop_images/maxresdefault_13.jpg",
+            "content_div": "<p>AeroLEDS Equinox Vs. the 4509 Landing Light</p>",
+            "caption_content": "<p>Does the latest LED technology beat up on the ancient 4509 landing light for Experimental aircraft? You bet it does. Here's KITPLANES editor in chief.....</p>"
+          }
+        },
+        "video_9y8Pnr": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=VBdWvZH9y0Y",
+            "img_video": "shopify://shop_images/maxresdefault_15.jpg",
+            "content_div": "<p>AeroLEDs vs. Incandescent Aircraft Lights</p>",
+            "caption_content": "<p>Thinking about upgrading to LEDs? See this pilot perform his own tests and weigh the differences for...</p>"
+          }
+        },
+        "video_kTcyGf": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=bIOXclH5YV0",
+            "img_video": "shopify://shop_images/hqdefault_12.jpg",
+            "content_div": "<p>LED Competitor vs. AeroLEDs</p>",
+            "caption_content": ""
+          }
+        },
+        "video_nBMUUd": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=gEXlMeA41PQ",
+            "img_video": "shopify://shop_images/maxresdefault_16.jpg",
+            "content_div": "<p>WHICH LEDS ARE BETTER FOR MY AIRPLANE?? AEROLED'S PULSAR  OR WHELEN'S MICROBURST III - Bench Test</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_PEMhqp": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=8I22S4iuKX0",
+            "img_video": "shopify://shop_images/maxresdefault_17.jpg",
+            "content_div": "<p>AeroLEDs vs. Standard Power LEDs</p>",
+            "caption_content": "<p>Performance comparison by Chad Colby  of www.ColbyAgTECH.com and This Week in....</p>"
+          }
+        },
+        "video_gB74PN": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=PnBvEa2y9N4",
+            "img_video": "shopify://shop_images/maxresdefault_18.jpg",
+            "content_div": "<p>LED light Pirep, AeroLEDS Sunspot 4000 series lights vs standard LEDS #Cessna205 @TheChadColby</p>",
+            "caption_content": "<p>....</p>"
+          }
+        },
+        "video_yqbBAY": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=rpLimp3in88",
+            "img_video": "shopify://shop_images/maxresdefault_19.jpg",
+            "content_div": "<p>LED Night Comp</p>",
+            "caption_content": "<p>Here is a compairison of the Whelen Parmetheus plus vs the brightest (more expensive) AERO LED's.  Lights are 2x PAR46 (landing) on the tip tanks, 2x....</p>"
+          }
+        },
+        "video_a6MUxt": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=Rv8p7Ls5whU",
+            "img_video": "shopify://shop_images/hqdefault_13.jpg",
+            "content_div": "<p>AeroLEDs ~ High quality LED Aircraft Lighting</p>",
+            "caption_content": "<p>Learn about AeroLeds LED landing lights, rv replacement lights (airplane landing lights), led replacement lights and many others. These......</p>"
+          }
+        },
+        "video_kyAb9i": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=bppYZq5fAtU",
+            "img_video": "shopify://shop_images/maxresdefault_20.jpg",
+            "content_div": "<p>The Unbearable Brightness of Aviation LEDs</p>",
+            "caption_content": "<p>LED technology has become standard on new airplanes, yet it's anything but on the legacy general aviation fleet. The aftermarket is flush with LED.....</p>"
+          }
+        },
+        "video_Nzem8N": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=-3xydn6Pfds",
+            "img_video": "shopify://shop_images/maxresdefault_21.jpg",
+            "content_div": "<p>AeroLEDs Sunbeam LED Landing Light vs Halogen</p>",
+            "caption_content": "<p>If you're debating an LED landing light conversion, this might help!  Video shows how the Sunbeam LED is vastly superior to the old halogens I had on....</p>"
+          }
+        },
+        "video_qADeqf": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=sYS2YXi8jTg",
+            "img_video": "shopify://shop_images/maxresdefault_22.jpg",
+            "content_div": "<p>HIDs and LEDs Compared</p>",
+            "caption_content": "<p>Although the venerable GE 4509 remains the most popular landing light, LED and HID technology are proving popular alternatives for many owners.  In.....</p>"
+          }
+        },
+        "video_8HiPdV": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=uzFkvif8MB0",
+            "img_video": "shopify://shop_images/maxresdefault_23.jpg",
+            "content_div": "<p>PA 46 Malibu Wingtip Lights (1 of 2)</p>",
+            "caption_content": "<p>Demonstration of AeroLED Wingtip lights for PA 46 Piper Malibu vs. factory installed light. (Part 2 of....</p>"
+          }
+        },
+        "video_aQNV4X": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=mrMRAWJC7X4",
+            "img_video": "shopify://shop_images/maxresdefault_24.jpg",
+            "content_div": "<p>PA 46 Malibu Wingtip Lights (2 of 2)</p>",
+            "caption_content": "<p>Demonstration of AeroLED Wingtip lights for PA 46 Piper Malibu vs. factory installed.....</p>"
+          }
+        }
+      },
+      "block_order": [
+        "video_QNcRyX",
+        "video_hRqpy3",
+        "video_KzETxD",
+        "video_9y8Pnr",
+        "video_kTcyGf",
+        "video_nBMUUd",
+        "video_PEMhqp",
+        "video_gB74PN",
+        "video_yqbBAY",
+        "video_a6MUxt",
+        "video_kyAb9i",
+        "video_Nzem8N",
+        "video_qADeqf",
+        "video_8HiPdV",
+        "video_aQNV4X"
+      ],
+      "settings": {
+        "heading_video": "COMPARISONS",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "video_gallery_z7Qydn": {
+      "type": "video-gallery",
+      "blocks": {
+        "video_CEG6rp": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=p6XGpsbAchM",
+            "img_video": "shopify://shop_images/hqdefault_14.jpg",
+            "content_div": "<p>AeroLED Landing & Taxi Lights | Cessna 180/185 Upgrade</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_Dycy33": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=Yw4KATgD0e0",
+            "img_video": "shopify://shop_images/maxresdefault_25.jpg",
+            "content_div": "<p>Kitfox 7 Apex Build Episode 75 AeroLEDS Light Install On The Piggyback STOL Wings</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_7y6trC": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=JIdTsTEz0_0",
+            "img_video": "shopify://shop_images/maxresdefault_26.jpg",
+            "content_div": "<p>AeroLeds LJ45 taxi light conversion</p>",
+            "caption_content": "<p>It was finally time to convert from the OEM halogen style PAR36 taxi lights the Learjet 45 was certified with to LED. The last couple of NBAA.....</p>"
+          }
+        },
+        "video_pFDpWK": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=gRuXAgwnAyk",
+            "img_video": "shopify://shop_images/maxresdefault_27.jpg",
+            "content_div": "<p>MASSIVE Flying Day ➡ 11hrs 20mins + 894nm</p>",
+            "caption_content": "<p>We continue our huge cross country, cross continent flying adventure from Wisconsin to Alaska in our Cessna 172. Our instrument panel was just....</p>"
+          }
+        },
+        "video_mkg4xB": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=l34VHxVBUGU",
+            "img_video": "shopify://shop_images/hqdefault_15.jpg",
+            "content_div": "<p>Foxy gets a new set of Aero leds pulsars and Sun tail lights</p>",
+            "caption_content": "<p>Foxy gets a new set of Pulsar wingtip led lights with strobes and Sun tail rear navigation light with strobe for that “hey look at me  I’m right....</p>"
+          }
+        },
+        "video_KQaCCX": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=0w9zmec0vEU",
+            "img_video": "shopify://shop_images/maxresdefault_28.jpg",
+            "content_div": "<p>2021-10-22 AeroLEDS</p>",
+            "caption_content": "<p>1989 M20J gets AeroLEDs....</p>"
+          }
+        },
+        "video_WKpmRY": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=xfQXLcxS0Q8",
+            "img_video": "shopify://shop_images/maxresdefault_29.jpg",
+            "content_div": "<p>Zenith Super Duty: Seat Belts and Wiring Harness for AeroLED lights (Ep51)</p>",
+            "caption_content": "<p>In this episode of the Zenith Super Duty build, we are installing the seat belts and a wiring harness for the AeroLED landing/recognition lights....</p>"
+          }
+        },
+        "video_whL8F4": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=SbCC3G7HNeo",
+            "img_video": "shopify://shop_images/hqdefault_16.jpg",
+            "content_div": "<p>The newly renovated N172KY with AeroLeds.</p>",
+            "caption_content": "<p>Just brought the airplane back from the shop today with new paint, a new interior, and a new tail number. The avionics are now complete and the last....</p>"
+          }
+        },
+        "video_rEFd88": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=WqMH-7e12S0",
+            "img_video": "shopify://shop_images/maxresdefault_30.jpg",
+            "content_div": "<p>AeroLEDs Exterior Anti-Collision and Navigation Lights - Piper Arrow PA28R-200 - N323BG</p>",
+            "caption_content": "<p>Piper Arrow PA28R-200 - N323BG  - AeroLEDs exterior Anti-Collision and Navigation....</p>"
+          }
+        },
+        "video_JrDQim": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=biGlImOvW3U",
+            "img_video": "shopify://shop_images/hqdefault_17.jpg",
+            "content_div": "<p>Carbon Cub Landing Lights</p>",
+            "caption_content": "<p>I upgraded the factory lights to SunSpot's from.....</p>"
+          }
+        },
+        "video_qyLjmE": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=UO21ry9VvNY",
+            "img_video": "shopify://shop_images/maxresdefault_31.jpg",
+            "content_div": "<p>UNBOXING the Super Duty LIGHTS from AeroLEDs (Ep14)</p>",
+            "caption_content": "<p>Don't ya just love watching unboxing videos? I do. I'm ready to run the wiring through the wings for the nav/strobe lights so I ordered the lights....</p>"
+          }
+        },
+        "video_3jDtTY": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=2F6_Bcp_sp8",
+            "img_video": "shopify://shop_images/maxresdefault_32.jpg",
+            "content_div": "<p>Big Decisions made! + Wing Lighting Install - Build VLOG #10</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_f6L9Gm": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=gEXlMeA41PQ",
+            "img_video": "shopify://shop_images/maxresdefault_33.jpg",
+            "content_div": "<p>WHICH LEDS ARE BETTER FOR MY AIRPLANE?? AEROLED'S PULSAR  OR WHELEN'S MICROBURST III - Bench Test</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_XqQPaA": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=GlFrwSs_h78",
+            "img_video": "shopify://shop_images/maxresdefault_34.jpg",
+            "content_div": "<p>Canopy Perfection + AeroLEDs Lighting package arrives! - Build VLOG #9</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_WEwDpB": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=KxfORB_-Ydw",
+            "img_video": "shopify://shop_images/hqdefault_18.jpg",
+            "content_div": "<p>Facebook Live Update: Cessna 180 Raffle Plane Wing Mods</p>",
+            "caption_content": "<p>2020 Alaska Airmen's Cessna 180 Raffle Plane Update. Check out some of the mods that are going on the Cessna 180's wings! #SteneAviation #WingXStol....</p>"
+          }
+        },
+        "video_RcfNFE": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=B9VFI18P7xE",
+            "img_video": "shopify://shop_images/maxresdefault_35.jpg",
+            "content_div": "<p>Kitfox & AeroLeds</p>",
+            "caption_content": "<p>Only AeroLeds can penetrate that much....</p>"
+          }
+        }
+      },
+      "block_order": [
+        "video_CEG6rp",
+        "video_Dycy33",
+        "video_7y6trC",
+        "video_pFDpWK",
+        "video_mkg4xB",
+        "video_KQaCCX",
+        "video_WKpmRY",
+        "video_whL8F4",
+        "video_rEFd88",
+        "video_JrDQim",
+        "video_qyLjmE",
+        "video_3jDtTY",
+        "video_f6L9Gm",
+        "video_XqQPaA",
+        "video_WEwDpB",
+        "video_RcfNFE"
+      ],
+      "settings": {
+        "heading_video": "#AEROLEDS COMMUNITY VIDEOS",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "video_gallery_gxQFbi": {
+      "type": "video-gallery",
+      "blocks": {
+        "video_Tbawze": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=y6edmoi1bPM",
+            "img_video": "shopify://shop_images/maxresdefault_36.jpg",
+            "content_div": "<p>Highlander Walk-around at Sun'n Fun 2023</p>",
+            "caption_content": "<p>The YeeHaw 8 Highlander airplane has impressed us with its outstanding performance. In this video, Steve will discuss the crucial elements and.....</p>"
+          }
+        },
+        "video_hkFY8L": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=S_5axPgnFns",
+            "img_video": "shopify://shop_images/maxresdefault_37.jpg",
+            "content_div": "<p>1st Tailwheel Landings at Night + Emergency due to a Light Bulb!?</p>",
+            "caption_content": "<p>......</p>"
+          }
+        },
+        "video_zTKRUM": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=tw8zfFZwDKI",
+            "img_video": "shopify://shop_images/maxresdefault_38.jpg",
+            "content_div": "<p>Crimping Pins on the AeroLEDs SunBeacon II Light (Ep76)</p>",
+            "caption_content": "<p>In this video I will show my technique for crimping the pins on the wires of the AeroLEDs SunBeacon II light. Having the proper tools makes the job.....</p>"
+          }
+        },
+        "video_VMMtR6": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=k9M3fRoDORA",
+            "img_video": "shopify://shop_images/hqdefault_19.jpg",
+            "content_div": "<p>PIREP Stene Aviation Quasar Cx wingtips integrated w/ AeroLEDs AeroSun Cx lighting system for Cessna</p>",
+            "caption_content": "<p>Stene Aviation Quasar Cx wingtips integrated with the AeroLEDs AeroSun Cx lighting system on my Cessna 205. See my other videos for more....</p>"
+          }
+        },
+        "video_JFCCMY": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=Q6z3Noh_ru4",
+            "img_video": "shopify://shop_images/maxresdefault_39.jpg",
+            "content_div": "<p>Kitfox Aircraft AeroLED lighting</p>",
+            "caption_content": "<p>See and be seen!  We expand on the different ways to light up a Kitfox Series 7. Find out what options are available for your new Kitfox with LED....</p>"
+          }
+        },
+        "video_paLNrz": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=E2aiMjCrDmU",
+            "img_video": "shopify://shop_images/maxresdefault_40.jpg",
+            "content_div": "<p>The AeroLEDs Setup On N23MZ - MzeroA Flight Training</p>",
+            "caption_content": "<p>https://aeroleds.com/ Jason talks with Ryan from AeroLEDs about the amazing setup we have on....</p>"
+          }
+        },
+        "video_RqyHmX": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=YM0_2XoVC9I",
+            "img_video": "shopify://shop_images/hqdefault_20.jpg",
+            "content_div": "<p>Installing LED nav / strobe 3-way combination lights on wingtips - Part 11</p>",
+            "caption_content": "<p>We Install LED nav / strobe 3-way combination lights on the wingtips, replacing the old style AeroFlash / Whelan nav/strobe light with the new....</p>"
+          }
+        },
+        "video_6fmPQR": {
+          "type": "video",
+          "settings": {
+            "video_tag": "",
+            "content_div": "",
+            "caption_content": ""
+          }
+        },
+        "video_gVryax": {
+          "type": "video",
+          "settings": {
+            "video_tag": "",
+            "content_div": "",
+            "caption_content": ""
+          }
+        },
+        "video_NAkxLn": {
+          "type": "video",
+          "settings": {
+            "video_tag": "",
+            "content_div": "",
+            "caption_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_Tbawze",
+        "video_hkFY8L",
+        "video_zTKRUM",
+        "video_VMMtR6",
+        "video_JFCCMY",
+        "video_paLNrz",
+        "video_RqyHmX",
+        "video_6fmPQR",
+        "video_gVryax",
+        "video_NAkxLn"
+      ],
+      "settings": {
+        "heading_video": "FROM OUR #AEROLEDS PARTNERS",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "video_gallery_MRcinA": {
+      "type": "video-gallery",
+      "blocks": {
+        "video_xfDaGf": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=26ZluZn7ykQ",
+            "img_video": "shopify://shop_images/maxresdefault_41.jpg",
+            "content_div": "<p>Upgrading Foxy's beacon to an AeoLED Sunbeacon II</p>",
+            "caption_content": "<p>In this part of my journey to giving new life to an old plane I'm replacing the old worn out beacon and installing what could possibly be, in my....</p>"
+          }
+        },
+        "video_VAbm6n": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=l34VHxVBUGU",
+            "img_video": "shopify://shop_images/hqdefault_21.jpg",
+            "content_div": "<p>Foxy gets a new set of Aero leds pulsars and Sun tail lights</p>",
+            "caption_content": "<p>Foxy gets a new set of Pulsar wingtip led lights with strobes and Sun tail rear navigation light with strobe for that “hey look at me  I’m right....</p>"
+          }
+        },
+        "video_C4JBGN": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=0w9zmec0vEU",
+            "img_video": "shopify://shop_images/maxresdefault_42.jpg",
+            "content_div": "<p>2021-10-22 AeroLEDS</p>",
+            "caption_content": "<p>1989 M20J gets AeroLEDs....</p>"
+          }
+        },
+        "video_VQQHF7": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=xfQXLcxS0Q8",
+            "img_video": "shopify://shop_images/maxresdefault_43.jpg",
+            "content_div": "<p>Zenith Super Duty: Seat Belts and Wiring Harness for AeroLED lights (Ep51)</p>",
+            "caption_content": "<p>In this episode of the Zenith Super Duty build, we are installing the seat belts and a wiring harness for the AeroLED landing/recognition lights.....</p>"
+          }
+        },
+        "video_BcHz9A": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=UO21ry9VvNY",
+            "img_video": "shopify://shop_images/maxresdefault_44.jpg",
+            "content_div": "<p>UNBOXING the Super Duty LIGHTS from AeroLEDs (Ep14)</p>",
+            "caption_content": "<p>Don't ya just love watching unboxing videos? I do. I'm ready to run the wiring through the wings for the nav/strobe lights so I ordered the lights....</p>"
+          }
+        },
+        "video_E3eXPD": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=Ph4r48spX6Q",
+            "img_video": "shopify://shop_images/maxresdefault_45.jpg",
+            "content_div": "<p>AeroLEDs LIGHTS for the DarkAero 1! - July 24, 2020</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_mF7FNf": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=gEXlMeA41PQ",
+            "img_video": "shopify://shop_images/maxresdefault_46.jpg",
+            "content_div": "<p>WHICH LEDS ARE BETTER FOR MY AIRPLANE?? AEROLED'S PULSAR  OR WHELEN'S MICROBURST III - Bench Test</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_9AaJ9H": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=KvTRwGtRMfM",
+            "img_video": "shopify://shop_images/hqdefault_22.jpg",
+            "content_div": "<p>Part 1 Wingtip PIREP: Unboxing AeroLEDS Pulsar Lights & Stene Aviation Quasar CX Wingtips</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_xhd4eN": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=GlFrwSs_h78",
+            "img_video": "shopify://shop_images/maxresdefault_47.jpg",
+            "content_div": "<p>Canopy Perfection + AeroLEDs Lighting package arrives! - Build VLOG #9</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_wCXHCD": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=JUwYfMjNcic",
+            "img_video": "shopify://shop_images/maxresdefault_48.jpg",
+            "content_div": "<p>Tail LEDS PIREP: Unboxing/Installation of AeroLEDS SunBeacon & SunTail #Cessna205 @TheChadColby</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        }
+      },
+      "block_order": [
+        "video_xfDaGf",
+        "video_VAbm6n",
+        "video_C4JBGN",
+        "video_VQQHF7",
+        "video_BcHz9A",
+        "video_E3eXPD",
+        "video_mF7FNf",
+        "video_9AaJ9H",
+        "video_xhd4eN",
+        "video_wCXHCD"
+      ],
+      "settings": {
+        "heading_video": "UNBOXED",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "video_gallery_LQYXBn": {
+      "type": "video-gallery",
+      "blocks": {
+        "video_9XMNXH": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=OomeUZ3JA1E",
+            "img_video": "shopify://shop_images/maxresdefault_49.jpg",
+            "content_div": "<p>TITAN Aerobatic Team</p>",
+            "caption_content": "<p>This video is ....</p>"
+          }
+        },
+        "video_pawyF3": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=E7PSLalk9tM",
+            "img_video": "shopify://shop_images/hqdefault_23.jpg",
+            "content_div": "<p>AeroShell & AeroLEDs on WBAY News at Airventure 2022</p>",
+            "caption_content": "<p>Reporter Kailin Schumacher rides along with the AeroShell team and learns about their AeroLEDs lights and fire ....</p>"
+          }
+        },
+        "video_nytHfM": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=y2_skM3ewjM",
+            "img_video": "shopify://shop_images/maxresdefault_50.jpg",
+            "content_div": "<p>Aeroshell Aerobatic Team// Ride of a Lifetime</p>",
+            "caption_content": "<p>Thank you to AeroLEDs, Aeroshell Aerobatic Team, and Jimmy Fordham for such an amazing opportunity, and showcase the responsibility of this amazing .....</p>"
+          }
+        },
+        "video_X6wpNH": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=-c02k763j5A",
+            "img_video": "shopify://shop_images/maxresdefault_51.jpg",
+            "content_div": "<p>Aeroshell Aerobatic Team Twilight Show - Sun 'n Fun 2021</p>",
+            "caption_content": "<p>....</p>"
+          }
+        },
+        "video_tEt99D": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=PuJ8o1tuaas",
+            "img_video": "shopify://shop_images/maxresdefault_52.jpg",
+            "content_div": "<p>Aeroshell Aerobatic Twilight Show with AeroLEDs Lighting</p>",
+            "caption_content": ""
+          }
+        },
+        "video_XLHPPM": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=dATjJDNvmBI",
+            "img_video": "shopify://shop_images/hqdefault_24.jpg",
+            "content_div": "<p>Aeroshell Aerobatic Team 360 video 10-13-2018</p>",
+            "caption_content": "<p>Aeroshell Aerobatic Team performance at the Southern Heritage Air Foundation,Vicksburg Tallulah .....</p>"
+          }
+        },
+        "video_Kh77BN": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=yOyMCmRvIEY",
+            "img_video": "shopify://shop_images/maxresdefault_53.jpg",
+            "content_div": "<p>EAA AirVenture 2018 - Aeroshell Aerobatic Team</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        },
+        "video_qfb8Vm": {
+          "type": "video",
+          "settings": {
+            "video_tag": "",
+            "content_div": "",
+            "caption_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_9XMNXH",
+        "video_pawyF3",
+        "video_nytHfM",
+        "video_X6wpNH",
+        "video_tEt99D",
+        "video_XLHPPM",
+        "video_Kh77BN",
+        "video_qfb8Vm"
+      ],
+      "settings": {
+        "heading_video": "AEROSHELL AEROBATIC TEAM (SPONSORED BY AEROLEDS)",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "video_gallery_RJDwfP": {
+      "type": "video-gallery",
+      "blocks": {
+        "video_wcpexh": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=fOEpu_an_rA",
+            "img_video": "shopify://shop_images/maxresdefault_54.jpg",
+            "content_div": "<p>AeroLEDs VXi High Tech Lighted Wingtips for Van's RV Aircraft</p>",
+            "caption_content": "<p>From Sun 'n Fun 2024, AeroLEDs' Ryan Edmark goes into detail about the new wingtips for Van's RVs that incorporate landing and taxi lights, red and .....</p>"
+          }
+        },
+        "video_6yiWNm": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=umHSfangdss",
+            "img_video": "shopify://shop_images/maxresdefault_55.jpg",
+            "content_div": "<p>2023 Sun 'n Fun Innovation Preview</p>",
+            "caption_content": "<p>The SUN ‘n FUN Aerospace Expo is proud to present, as the lead-in to the aviation year via its partnership with the Aero-News Network, the 2023 SUN .....</p>"
+          }
+        },
+        "video_kRyjr3": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=E7PSLalk9tM",
+            "img_video": "shopify://shop_images/hqdefault_25.jpg",
+            "content_div": "<p>AeroShell & AeroLEDs on WBAY News at Airventure 2022</p>",
+            "caption_content": "<p>Reporter Kailin Schumacher rides along with the AeroShell team and learns about their AeroLEDs lights and fire .....</p>"
+          }
+        },
+        "video_8MhXLY": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=rMIAoSHLtag",
+            "img_video": "shopify://shop_images/maxresdefault_56.jpg",
+            "content_div": "<p>Sun n Fun 2021 - Aero LEDS Aircraft Lighting Solutions</p>",
+            "caption_content": "<p>....</p>"
+          }
+        },
+        "video_LcaEf8": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=6hyEa2uhv1g",
+            "img_video": "shopify://shop_images/hqdefault_26.jpg",
+            "content_div": "<p>Talk with a Pilot</p>",
+            "caption_content": "<p>Ryan Edmark of AeroLEDs chats with Chad Colby of ColbyAgTECH.com. Some good 'tech talk'  for Spirit of Aviation .....</p>"
+          }
+        },
+        "video_zqTttB": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=6hyEa2uhv1g",
+            "img_video": "shopify://shop_images/hqdefault_26.jpg",
+            "content_div": "<p>Talk with a Pilot</p>",
+            "caption_content": "<p>Ryan Edmark of AeroLEDs chats with Chad Colby of ColbyAgTECH.com. Some good \"tech talk\" for Spirit of Aviation .....</p>"
+          }
+        },
+        "video_ayxXcq": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=E2aiMjCrDmU",
+            "img_video": "shopify://shop_images/maxresdefault_57.jpg",
+            "content_div": "<p>The AeroLEDs Setup On N23MZ - MzeroA Flight Training</p>",
+            "caption_content": "<p>https://aeroleds.com/ Jason talks with Ryan from AeroLEDs about the amazing setup we have on</p>"
+          }
+        }
+      },
+      "block_order": [
+        "video_wcpexh",
+        "video_6yiWNm",
+        "video_kRyjr3",
+        "video_8MhXLY",
+        "video_LcaEf8",
+        "video_zqTttB",
+        "video_ayxXcq"
+      ],
+      "settings": {
+        "heading_video": "INTERVIEWS",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "video_gallery_zdeJ8k": {
+      "type": "video-gallery",
+      "blocks": {
+        "video_Hqnk3J": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=VbubUj2-Qnk",
+            "img_video": "shopify://shop_images/hqdefault_27.jpg",
+            "content_div": "<p>AeroLEDs™ Customer Profiles - Featuring: Paul Leadabrand of Stick & Rudder Aviation</p>",
+            "caption_content": "<p>We have some amazingly talented customers! Each one with their own unique and interesting story. Meet some of the faces that drive us forward and .....</p>"
+          }
+        }
+      },
+      "block_order": [
+        "video_Hqnk3J"
+      ],
+      "settings": {
+        "heading_video": "AEROLEDS CUSTOMER PROFILES",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "video_gallery_HY97GN": {
+      "type": "video-gallery",
+      "blocks": {
+        "video_7mzQEa": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=Rv8p7Ls5whU",
+            "img_video": "shopify://shop_images/hqdefault_28.jpg",
+            "content_div": "<p>AeroLEDs ~ High quality LED Aircraft Lighting</p>",
+            "caption_content": "<p>Learn about AeroLeds LED landing lights, rv replacement lights (airplane landing lights), led replacement lights and many others. These .....</p>"
+          }
+        },
+        "video_qjefmL": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=q-x1i89qThY",
+            "img_video": "shopify://shop_images/maxresdefault_58.jpg",
+            "content_div": "<p>AOPA Live This Week - August 2, 2018</p>",
+            "caption_content": "<p>A bright red Wilga dubbed Draco has PT6 power and incredible performance you simply must see for yourself. See what else you may have missed at ....</p>"
+          }
+        },
+        "video_pbr74T": {
+          "type": "video",
+          "settings": {
+            "video_tag": "https://www.youtube.com/watch?v=PqhI4MeCn1c",
+            "img_video": "shopify://shop_images/maxresdefault_59.jpg",
+            "content_div": "<p>DRACO - The Most Badass Monster Bush Plane EVER!</p>",
+            "caption_content": "<p>.....</p>"
+          }
+        }
+      },
+      "block_order": [
+        "video_7mzQEa",
+        "video_qjefmL",
+        "video_pbr74T"
+      ],
+      "settings": {
+        "heading_video": "DRACO & AEROLEDS",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "image_banner_dC6KNT",
+    "main",
+    "video_gallery_QhGDht",
+    "video_gallery_bVpBw6",
+    "video_gallery_HHTkJz",
+    "video_gallery_z7Qydn",
+    "video_gallery_gxQFbi",
+    "video_gallery_MRcinA",
+    "video_gallery_LQYXBn",
+    "video_gallery_RJDwfP",
+    "video_gallery_zdeJ8k",
+    "video_gallery_HY97GN"
+  ]
+}

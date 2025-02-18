@@ -1,0 +1,305 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_pbDVyF": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_79JnLp": {
+          "type": "heading",
+          "settings": {
+            "heading": "JET & TURBOPROP",
+            "heading_size": "h2"
+          }
+        },
+        "heading_LRiem3": {
+          "type": "heading",
+          "settings": {
+            "heading": "LED KITS",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_79JnLp",
+        "heading_LRiem3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/AeroLEDs-Website-Jet-Turboprop-LED-Kits-2024-HEADER-DESKTOP-1200x400.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_fFENkA": {
+      "type": "rich-text",
+      "blocks": {
+        "text_JmVk6F": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our advanced lighting systems deliver exceptional performance, durability, and versatility to meet the rigorous demands of high-performance aviation.</p><h4>4000 Series: Versatility for Any Power System</h4><p>Our flagship 4000 Series lights are designed to seamlessly operate on either DC or AC voltage aircraft, making them an ideal solution for a wide range of jet applications. Whether your aircraft operates on traditional DC systems or modern AC configurations, the 4000 Series adapts effortlessly to your needs.</p><h4>Built-in Pulse Feature for Enhanced Visibility</h4><p>AeroLEDs understands the critical importance of visibility in aviation safety. That’s why most of our lighting options include a built-in pulse feature, designed to increase your aircraft’s visibility during operation. This feature helps draw attention to your aircraft, enhancing safety in high-traffic airspaces.</p><h4>Unmatched Durability and Performance</h4><p>Our jet and turboprop lighting solutions are built to withstand the demanding conditions of high-speed flight and extreme environments. With robust construction, energy-efficient LED technology, and maintenance-free operation, AeroLEDs lights offer a reliable solution for the life of your aircraft.</p><h4>Tailored Lighting for Every Need</h4><p>From landing and taxi lights to position and anti-collision lights, AeroLEDs provides a comprehensive range of lighting solutions to suit the unique requirements of jet and turboprop aircraft. Every product is meticulously designed to deliver superior brightness, reduced power consumption, and compliance with aviation standards.</p><p>Choose AeroLEDs for advanced lighting solutions that bring together innovation, reliability, and performance for your jet or turboprop.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_JmVk6F"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 52
+      }
+    },
+    "support_multicolumn_nJp7m6": {
+      "type": "support-multicolumn",
+      "blocks": {
+        "column_xzFe7F": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/WAT-Website-2024-Jet-Turbo-Prop-LED-Kits-Variable-Voltage-14-28-VDC-ICON.svg",
+            "title": "",
+            "text": "<h4>VARIABLE  VOLTAGE 28V DC/AC</h4>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_hcywqN": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/WAT-Website-2024-Jet-Turbo-Prop-LED-Kits-Light-Weight-Design-ICON.svg",
+            "title": "",
+            "text": "<h4>LIGHT WEIGHT DESIGN</h4>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_EfCqUU": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/WAT-Website-2024-Jet-Turbo-Prop-LED-Kits-Industry-Leading-Performance-ICON.svg",
+            "title": "",
+            "text": "<h4>INDUSTRY-LEADING PERFORMANCE</h4>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_brUeyX": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/WAT-Website-2024-Jet-Turbo-Prop-LED-Kits-Die-Cast-Aluminum-Housing-ICON.svg",
+            "title": "",
+            "text": "<h4>DIE-CAST ALUMINIUM HOUSING</h4>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_bNjme8": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/WAT-Website-Shopify-IT-Geeks-Jet-Turbo-Prop-LED-Kits-2024-Minimal-Reduction-Output-ICON.svg",
+            "title": "",
+            "text": "<h4>MINIMAL REDUCTION IN OUTPUT OVER TIME DUE TO THERMAL MANAGEMENT</h4>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        },
+        "column_W8ygRj": {
+          "type": "column",
+          "settings": {
+            "column_heading": "",
+            "image": "shopify://shop_images/WAT-Website-2024-Jet-Turbo-Prop-LED-Kits-Comprehensive-Warranty-ICON.svg",
+            "title": "",
+            "text": "<h4>COMPREHENSIVE WARRANTY</h4>",
+            "email": "",
+            "number": "",
+            "link_label": "",
+            "link": "",
+            "custom_html": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xzFe7F",
+        "column_hcywqN",
+        "column_EfCqUU",
+        "column_brUeyX",
+        "column_bNjme8",
+        "column_W8ygRj"
+      ],
+      "settings": {
+        "separator_line": false,
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "liquid_code": "",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_images_MciFGw": {
+      "type": "multicolumn-images",
+      "blocks": {
+        "column_Pz47g7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-Jet-Turbo-Prop-2024-Textron-450x240.png",
+            "image_url": "shopify://collections/textron-led-lighting-kits",
+            "video_url": "",
+            "title": "<strong>TEXTRON</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pdNxHa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BBJ-27.jpg",
+            "image_url": "shopify://pages/sunspot™-landing-taxi-lights-for-commercial-aircraft",
+            "video_url": "",
+            "title": "BOEING | Airbus| Commercial Airliners",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ttAgzE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-Jet-Turbo-Prop-2024-Gulfstream-450x240.png",
+            "image_url": "shopify://collections/gulfstream-led-light-kits",
+            "video_url": "",
+            "title": "GULFSTREAM",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dmUQJC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-Jet-Turbo-Prop-2024-Dassault-450x240.png",
+            "image_url": "shopify://collections/dassault-led-light-kits",
+            "video_url": "",
+            "title": "DASSAULT",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gpphAf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-Jet-Turbo-Prop-2024-BOMBARDIER_450x240_f5c023ec-245c-4f34-b0dd-1dc466a213f7.png",
+            "image_url": "shopify://collections/bombardier-led-light-kits",
+            "video_url": "",
+            "title": "BOMBARDIER",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wHXafd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AeroLEDs-Website-Shopify-IT-Geeks-Jet-Turbo-Prop-2024-Pilatus-450x240.png",
+            "image_url": "shopify://products/pilatus-led-landing-taxi-light-kit-sunspot-pcx",
+            "video_url": "",
+            "title": "PILATUS",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Pz47g7",
+        "column_pdNxHa",
+        "column_ttAgzE",
+        "column_dmUQJC",
+        "column_gpphAf",
+        "column_wHXafd"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "show_border": false,
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 76
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_pbDVyF",
+    "rich_text_fFENkA",
+    "support_multicolumn_nJp7m6",
+    "multicolumn_images_MciFGw"
+  ]
+}

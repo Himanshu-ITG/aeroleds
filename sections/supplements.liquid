@@ -1,0 +1,93 @@
+{% schema %}
+{
+  "name": "PMA Supplements",
+  "settings": [
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
+    }
+  ],
+  "blocks": [
+    {
+      "type": "pma-block",
+      "name": "PMA Block",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "block_image",
+          "label": "Image"
+        },
+        {
+          "type": "richtext",
+          "id": "block_heading",
+          "label": "Heading"
+        },
+        {
+          "type": "textarea",
+          "id": "block_content",
+          "label": "Content"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "PMA Supplements Section",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+
+<section class="pma-supplements page-width section-{{ section.id }}-padding">
+  <div class="pma-supplements-wrapper">
+    {% for block in section.blocks %}
+      <div class="pma-block">
+        <div class="pma-block-image">
+          {% if block.settings.block_image %}
+            <img
+              src="{{ block.settings.block_image | img_url: 'master' }}"
+              alt="" width="" height="">
+          {% endif %}
+        </div>
+        <div class="pma-block-content">
+          {% if block.settings.block_heading %}
+            <div class="pma-block-heading">{{ block.settings.block_heading }}</div>
+          {% endif %}
+          {% if block.settings.block_content %}
+            <p class="pma-inner-content">{{ block.settings.block_content }}</p>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+{% style %}
+  .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+      padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+    }
+
+    @media screen and (min-width: 750px) {
+      .section-{{ section.id }}-padding {
+        padding-top: {{ section.settings.padding_top }}px;
+        padding-bottom: {{ section.settings.padding_bottom }}px;
+      }
+    }  
+{% endstyle %}

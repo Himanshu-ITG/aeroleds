@@ -1,0 +1,130 @@
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+{{ 'product-images-block.css' | asset_url | stylesheet_tag }}
+
+<div class="product-images-blocks-wrapper section-{{ section.id }}-padding">
+  <div class="page-width">
+    <div class="block-main-image">
+      {% if section.settings.main_image != blank %}
+        <img
+          src="{{ section.settings.main_image | img_url:'master' }}"
+          alt="{{ section.settings.main_image.alt }}"
+          width=""
+          height=""
+        >
+      {% endif %}
+    </div>
+    {% if section.settings.heading != blank %}
+      <div class="block-main-heading">
+        <h2>{{ section.settings.heading }}</h2>
+      </div>
+    {% endif %}
+    <div
+      class="
+        product-images-blocks-row
+        {% if section.settings.border_bottom %} block-border-bottom {% endif %}
+        {% if section.blocks.size < 3 %}row-per-center{% endif %}
+      "
+    >
+      {% for block in section.blocks %}
+        <div class="main-blocks-grid">
+          {% if block.settings.block_image != blank %}
+            <div class="main-block-images">
+              <img
+                src="{{ block.settings.block_image | img_url : 'master' }}"
+                alt="{{ block.settings.block_image.alt }}"
+                width=""
+                height=""
+              >
+            </div>
+          {% endif %}
+          {% if block.settings.text != blank %}
+            {{ block.settings.text }}
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Product images blocks",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "main_image",
+      "label": "Image"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "heading",
+      "label": "Heading"
+    },
+    {
+      "type": "header",
+      "content": "Padding"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 52
+    },
+    {
+      "type": "checkbox",
+      "id": "border_bottom",
+      "label": "Show Border Bottom",
+      "default": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "content",
+      "name":"Image blocks",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "block_image",
+          "label": "Image"
+        },
+        {
+          "type": "richtext",
+          "id":"text",
+          "label": "Title"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Product images blocks"
+    }
+  ]
+}
+{% endschema %}

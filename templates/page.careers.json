@@ -1,0 +1,152 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "video_VBYAR3": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "Careers",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://youtu.be/xUiCQTNZMbk",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_BNMb6e": {
+      "type": "rich-text",
+      "blocks": {
+        "text_hXza8a": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Join The Team</h1>"
+          }
+        }
+      },
+      "block_order": [
+        "text_hXza8a"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_QJiWXc": {
+      "type": "rich-text",
+      "blocks": {
+        "text_BjmjNT": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Now A Whelen Aerospace Company</strong></p><p>At AeroLEDs, we design innovative, high-performance lighting solutions that illuminate the skies and enhance aviation safety. As a pioneer in LED lighting technology for the aerospace industry, we pride ourselves on creating products that deliver unmatched reliability and efficiency.</p><p>Now as part of the Whelen Aerospace family, AeroLEDs offers even greater opportunities to push the boundaries of aviation technology. Together, we’re advancing the future of flight with cutting-edge solutions and an unwavering commitment to excellence.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_BjmjNT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_NwABhb": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_GiPyxX": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Why Work at AeroLEDs?</strong></p><ul><li><strong>Innovate with Purpose</strong>: Be part of a team dedicated to developing technologies that redefine industry standards.</li><li><strong>Collaborate and Grow</strong>: Work in a dynamic, supportive environment where innovation thrives and your career can soar.</li><li><strong>Shape the Future of Aerospace</strong>: As part of Whelen Aerospace, we’re combining expertise to deliver unparalleled solutions for aviation leaders worldwide.</li></ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_GiPyxX"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/DSC06583.png",
+        "height": "medium",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_HgT8x8": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Ni7qjk": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Who We’re Looking For</strong><br/>We’re seeking passionate, forward-thinking individuals who share our drive to innovate and make a difference. Whether you’re an experienced professional or early in your career, we have opportunities in engineering, manufacturing, operations, marketing, and more.</p><p><strong>Ready to Take Off? Submit Your Resume Today!</strong><br/>Explore our open positions or submit your resume to join the AeroLEDs team—a company that’s making an impact in aviation, now with the strength and resources of Whelen Aerospace behind us. Together, we’re lighting the way forward.</p>"
+          }
+        },
+        "button_KgW4He": {
+          "type": "button",
+          "settings": {
+            "button_label": "Submit your resume",
+            "button_link": "https://fly-wat.myshopify.com/apps/product-registration?form=resume-submission",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_Ni7qjk",
+        "button_KgW4He"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "video_VBYAR3",
+    "rich_text_BNMb6e",
+    "rich_text_QJiWXc",
+    "image_with_text_NwABhb",
+    "rich_text_HgT8x8"
+  ]
+}

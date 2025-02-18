@@ -1,0 +1,206 @@
+/* ********landing-image-banner******** */
+.template-seo-landing-taxi-lights .banner_landing {
+  background: #000;
+}
+.landing-image-banner .custom-content span {
+  color: #fff;
+  font-family: Gotham Bold;
+}
+.landing-image-banner .custom-content {
+  padding: 0 20px;
+}
+.landing-image-banner .banner__text h3 {
+  margin-top: 60px;
+  margin-bottom: 0;
+  font-size: 18px;
+  line-height: 1.4em;
+}
+.landing-image-banner .banner__text h2 {
+  font-size: 34px;
+  margin: 0;
+  line-height: 1.4em;
+}
+.landing-image-banner .banner__text {
+  padding-bottom: 10px;
+  position: relative;
+}
+
+.landing-image-banner .banner__text:after {
+  content: "";
+  position: absolute;
+  height: 3px;
+  width: 100px;
+  background: #ffcf36;
+  top: auto;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%);
+}
+.landing-image-banner .banner__text p {
+  font-size: 18px;
+  margin: 0;
+  line-height: 1.4em;
+}
+.landing-image-banner .multi_image_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-top: 40px;
+  gap: 20px;
+}
+.landing-image-banner .main_image {
+  width: calc(30% - 10px);
+}
+.landing-image-banner .column_image_wrapper {
+  width: calc(70% - 10px);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+}
+.landing-image-banner .column_image_wrapper.row {
+  flex-direction: row;
+}
+.landing-image-banner .column_image_wrapper.column {
+  flex-direction: column;
+}
+.landing-image-banner .column_image {
+  width: calc(50% - 10px);
+  position: relative;
+}
+.landing-image-banner .column_image img,
+.landing-image-banner .main_image img {
+  vertical-align: middle;
+  max-width: 100%;
+}
+.landing-image-banner .block_separator_line {
+  border-bottom: 2px solid #b1b1b159;
+  padding-bottom: 40px;
+}
+.landing-image-banner .column-content {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 100%;
+  transform: translateX(-50%);
+}
+.landing-image-banner .column-content h3 {
+  margin: 0;
+  color: #ffcf36;
+  line-height: 1.4em;
+}
+.landing-image-banner .column-content p {
+  margin: 0;
+  line-height: 1.4em;
+}
+.landing-image-banner .column .column_image {
+  width: 85%;
+}
+.landing-image-banner .column {
+  align-items: unset;
+}
+
+.landing-image-banner .banner__text p,
+.landing-image-banner .column-content p {
+  color: #fff;
+  line-height: 1.4em;
+  letter-spacing: 0;
+}
+
+/* .template-system-recommendations-led-71080 .banner_landing {
+  background: #fff;
+} */
+
+.banner__media img {
+  object-fit: contain;
+  object-position: top;
+  height: auto !important;
+}
+
+.banner__media::before {
+  padding-bottom: unset !important;
+  content: none !important;
+  display: unset !important;
+}
+
+.landing-image-banner::before,
+.banner__media::before {
+  padding-bottom: unset !important;
+  content: none !important;
+  display: unset !important;
+}
+.landing-image-banner .banner__box {
+  max-width: 128rem;
+  padding-bottom: 0;
+}
+.landing-image-banner .banner__content {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.landing-image-banner .banner__content .custom-content {
+  letter-spacing: 0;
+  line-height: normal;
+}
+.template-seo-landing-taxi-lights .landing-image-banner .column-content h3 {
+  font-size: 18px;
+  line-height: 1.4em;
+  padding-top: 0;
+}
+.template-seo-landing-taxi-lights .column_image .column-main-image {
+  margin: 0 auto;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+@media screen and (max-width: 989px) {
+  .template-seo-landing-taxi-lights
+    .landing-image-banner
+    .column
+    .column_image {
+    width: 100%;
+  }
+  .template-seo-landing-taxi-lights .landing-image-banner .column-content h3 {
+    font-size: 16px;
+  }
+  .template-seo-landing-taxi-lights .landing-image-banner .column-content p {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 749px) {
+  .landing-image-banner .column_image_wrapper,
+  .landing-image-banner .main_image,
+  .landing-image-banner .column_image,
+  .landing-image-banner .column .column_image {
+    width: 100%;
+  }
+  .landing-image-banner .custom-content {
+    padding: 0;
+  }
+  .landing-image-banner .banner__text h3 {
+    font-size: 16px;
+  }
+  .landing-image-banner .banner__text h2 {
+    font-size: 24px;
+  }
+  .landing-image-banner .banner__text p {
+    font-size: 16px;
+  }
+  .landing-image-banner .banner__text h3 {
+    margin-top: 30px;
+  }
+  .template-seo-landing-taxi-lightsv .landing-image-banner .column-content h3 {
+    font-size: 16px;
+  }
+  .template-seo-landing-taxi-lights .landing-image-banner .column-content p {
+    font-size: 14px;
+  }
+  .template-seo-landing-taxi-lights .landing-image-banner .column-content p {
+    font-size: 10px;
+  }
+  .template-seo-landing-taxi-lights .landing-image-banner .column-content h3 {
+    font-size: 12px;
+  }
+  .template-seo-landing-taxi-lights .landing-image-banner .multi_image_wrapper {
+    gap: 40px;
+  }
+}

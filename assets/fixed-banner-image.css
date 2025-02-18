@@ -1,0 +1,92 @@
+.fixed-banner-image {
+  width: 100%;
+  display: inline-block;
+  /* background-image: url("https://cdn.shopify.com/s/files/1/0901/7573/4077/files/708A3470-scaled.jpg?v=1732259872"); */
+  height: 100%;
+  padding-top: 80px;
+  padding-bottom: 150px;
+  overflow: hidden;
+  background-attachment: fixed;
+  background-position: center;
+  min-height: 450px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fixed-banner-heading {
+  text-align: center;
+}
+.fixed-banner-heading h2 {
+  margin: 0;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  font-size: 24px;
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+.fixed-banner-row {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1300px;
+}
+.fixed-banner-wrapper .fixed-banner-left-column {
+    width: 100%;
+}
+.fixed-banner-left-column {
+  width: calc(50% - 20px * 1 / 2);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.fixed-banner-left-column .button.btn-custom {
+    background-color: #121212;
+}
+.fixed-banner-right-column {
+  width: calc(50% - 20px * 1 / 2);
+}
+.fixed-banner-image iframe.js-youtube {
+  width: 100%;
+  height: 100%;
+  display: block;
+  height: 340px;
+  object-fit: contain;
+  border: 5px solid #ffc423;
+  padding: 10px;
+  text-align: center;
+  /* max-width: 640px; */
+}
+.side-image-fixed {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.side-image-fixed img {
+    width: 100%;
+    display: block;
+    max-width: 250px;
+    margin: 0 auto;
+}
+
+
+@media screen and (max-width: 768px) {
+  .fixed-banner-row {
+    flex-direction: column;
+  }
+  .fixed-banner-left-column {
+    width: 100%;
+  }
+  .fixed-banner-right-column {
+    width: 100%;
+  }
+  .fixed-banner-image .button.btn-custom {
+    font-size: 14px;
+    padding: 15px 10px;
+  }
+}

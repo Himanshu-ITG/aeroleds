@@ -1,0 +1,255 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_YweUwY": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/MANUALS-AND-DIAGRAMS-PAGE_68f16ce7-c12a-4539-8261-fe79155af8d0.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "manual_section_FN94XD": {
+      "type": "manual-section",
+      "blocks": {
+        "content_bCyeFT": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Untitled-design-2024-06-20T151550.890.png",
+            "grid_heading": "AeroSun EVO IV",
+            "list": "<ul><li>01-2120</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0100-0003-AeroSun-EVO-IV-Installation-Rev-C.pdf?v=1732186138"
+          }
+        },
+        "content_eGgfFC": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/AeroSun-Vx_small_127faeda-41dd-44e8-992c-622d2dd6b8d1.png",
+            "grid_heading": "AeroSun VX",
+            "list": "<ul><li>01-2500</li><li>01-2500-L</li><li>01-2500-R</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0002-0005-AeroSun-Vx-Installation-Instructions-Rev-C.pdf?v=1732186284"
+          }
+        },
+        "content_3jcwRA": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/MicroSun-aircraft-landing-taxi-light-aerosun.png",
+            "grid_heading": "MicroSun LED",
+            "list": "<ul><li>01-1170</li><li>01-1170A</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0104-0003-01-1170-MicroSun-Installation-Rev-B.pdf?v=1732186680"
+          }
+        },
+        "content_zYLgwT": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/StarLight-Ice.png",
+            "grid_heading": "StarLight",
+            "list": "<ul><li>01-7079-24</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0005-0007-StarLight-Installation_Rev-IR.pdf?v=1732189143"
+          }
+        },
+        "content_thYaie": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/90-1000-12-24_SunBeam_Front_Transparent.png",
+            "grid_heading": "SunBeam LED Landing Light",
+            "list": "<ul><li>90-1000-12</li><li>90-1000-24</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0013-0014-SunBeam-Installation-Instructions-Rev-E.pdf?v=1732189332"
+          }
+        },
+        "content_iXTT69": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Untitled-design-2024-06-20T145813.673_1.png",
+            "grid_heading": "SunRay EVO III",
+            "list": "<ul><li>01-1150</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0004-0004-SunRay-Installation-Instructions-Rev-C.pdf?v=1732190473"
+          }
+        },
+        "content_3HmgEB": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/75W_LXi_taxi.png",
+            "grid_heading": "SunSpot 36 LXi (45W)",
+            "list": "<ul><li>01-1030-L-B (discontinued)</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0003-0004-SunSpot36-LXi-Installation-Instructions-Rev_I.pdf?v=1732190810"
+          }
+        },
+        "content_KEA3PV": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/test-image.png",
+            "grid_heading": "SunSpot 36 LXi (45W)",
+            "list": "<ul><li>01-1030-L-A (discontinued)</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0003-0004-SunSpot36-LXi-Installation-Instructions-Rev_I_1.pdf?v=1732191089"
+          }
+        },
+        "content_9Lanwz": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/75W_4000S_1.png",
+            "grid_heading": "Sunspot 36-4000 (75W)",
+            "list": "<ul><li>01-1030-4509</li><li>01-1030-4509-H</li><li>01-1030-4591</li><li>01-1030-4591-H</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0019-0004-SunSpot-36-4000-Series-Installation-Instructions_Rev_H_1.pdf?v=1732193829"
+          }
+        },
+        "content_BieCW6": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/75W_LXi_taxi_1.png",
+            "grid_heading": "Sunspot 36-4000 (75W)",
+            "list": "<ul><li>01-1030-4519</li><li>01-1030-4519-H</li><li>01-1030-4626</li><li>01-1030-4626-H</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0019-0004-SunSpot-36-4000-Series-Installation-Instructions_Rev_H_1_46190913-44ae-4da9-9ea0-bc4dc13bfbd9.pdf?v=1732260082"
+          }
+        },
+        "content_J6miyV": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/100W-4000S-landing.png",
+            "grid_heading": "Sunspot 36-4000 (100W)",
+            "list": "<ul><li>01-1030-4313</li><li>01-1030-4313-H</li><li>01-1030-4596</li><li>01-1030-4596-H</li></ul>",
+            "anchor": "Download Manual",
+            "link": ""
+          }
+        },
+        "content_AypAan": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/100W-4000S-taxi.png",
+            "grid_heading": "Sunspot 36-4000 (100W)",
+            "list": "<ul><li>01-1030-4314</li><li>01-1030-4314-H</li><li>01-1030-4587</li><li>01-1030-4587-H</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0019-0004-SunSpot-36-4000-Series-Installation-Instructions_Rev_H_2.pdf?v=1732262830"
+          }
+        },
+        "content_q63fBC": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/SunSpot-46-landing.png",
+            "grid_heading": "Sunspot 46 equinox",
+            "list": "<ul><li>01-2230-LT-12</li><li>01-2230-LT-24</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0030-0002-SunSpot-46-Equinox-Series-Installation-Instructions_Rev_IR.pdf?v=1732258426"
+          }
+        },
+        "content_nfUzPn": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Sunspot-46-Series-Landing-Lights.png",
+            "grid_heading": "SUNSPOT 46 LX/HX",
+            "list": "<ul><li>01-2130-LX (discontinued)</li><li>01-2130-HX (discontinued)</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0010-0004-SunSpot-46-HX-LX-Installation-Rev-H_released.pdf?v=1732258707"
+          }
+        },
+        "content_d4jpL9": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/Sunspot-46-Series-Landing-Lights_1.png",
+            "grid_heading": "Sunspot 46-4000-Landing",
+            "list": "<ul><li>01-2230-4522</li><li>01-2230-4522-H</li><li>01-2230-4580</li><li>01-2230-4580-H</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0107-0004-SunSpot-46-4000-Series-Installation-Rev_J.pdf?v=1732258966"
+          }
+        },
+        "content_MpGyyz": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/H-Model-Shown-with-Wire-1200-x-1200-px-4.png",
+            "grid_heading": "SunSpot 46-4000-Taxi",
+            "list": "<ul><li>01-2230-4554</li><li>01-2230-4554-H</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0107-0004-SunSpot-46-4000-Series-Installation-Rev_J_1.pdf?v=1732259283"
+          }
+        },
+        "content_w97Gim": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/SunSpot_64_SH.png",
+            "grid_heading": "Sunspot 64-4000",
+            "list": "<ul><li>01-2250-4559</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/0108-0004-SunSpot-64-4559-01-2250-4559-Installation-Instructions-Rev-C.pdf?v=1732259486"
+          }
+        },
+        "content_RgHTcx": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify://shop_images/PCX_B_Taxi.png",
+            "grid_heading": "Sunspot PCX-Taxi",
+            "list": "<ul><li>900-01-100-B</li><li>900-01-100-C</li></ul>",
+            "anchor": "Download Manual",
+            "link": "https://cdn.shopify.com/s/files/1/0901/7573/4077/files/3000-0010-AeroLEDs-Piltatus-Landing-Taxi-Installation.pdf?v=1732259648"
+          }
+        }
+      },
+      "block_order": [
+        "content_bCyeFT",
+        "content_eGgfFC",
+        "content_3jcwRA",
+        "content_zYLgwT",
+        "content_thYaie",
+        "content_iXTT69",
+        "content_3HmgEB",
+        "content_KEA3PV",
+        "content_9Lanwz",
+        "content_BieCW6",
+        "content_J6miyV",
+        "content_AypAan",
+        "content_q63fBC",
+        "content_nfUzPn",
+        "content_d4jpL9",
+        "content_MpGyyz",
+        "content_w97Gim",
+        "content_RgHTcx"
+      ],
+      "settings": {
+        "heading": "Landing & Taxi Light Installation Manuals",
+        "heading_size": "h1",
+        "subheading": "<p>Aeroleds has listed all the manuals for our landing and taxi lights here. The manuals will show you how to successfully install our LEDs onto your aircraft. If you have any questions please don’t hesitate to contact us on <a href=\"https://aeroleds.com/contact/\">our contact page</a>.</p>",
+        "color_scheme": "scheme-3191165c-dddc-44f5-9607-8c68e35857ac",
+        "padding_top": 32,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_YweUwY",
+    "manual_section_FN94XD"
+  ]
+}
