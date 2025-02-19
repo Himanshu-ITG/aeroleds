@@ -154,17 +154,37 @@
               {{
                 block.settings.image
                 | image_url: width: 3840
-                | image_tag: height: height, sizes: sizes, widths: widths, fetchpriority: fetch_priority , alt: block.settings.image.alt | default: "Default Alt Text"
+                | image_tag: height: height, sizes: sizes, widths: widths, fetchpriority: fetch_priority ,  alt: block.settings.image.alt | default: "" 
               }}
             {%- else -%}
               {{
                 block.settings.image
                 | image_url: width: 3840
-                | image_tag: loading: 'lazy', height: height, sizes: sizes, widths: widths , alt: block.settings.image.alt | default: "Default Alt Text"
+                | image_tag: loading:"eager", height: height, sizes: sizes, widths: widths ,   alt: block.settings.image.alt | default: "" 
               }}
             {%- endif -%}
           {% elsif block.settings.video %}
-          {{ block.settings.video | video_tag : autoplay: true, loop: true }} 
+            {%-liquid 
+              assign fetch_priority = 'auto'
+            if section.index == 1
+              assign fetch_priority = 'high'
+            endif
+            -%}
+            {{ block.settings.video | video_tag: 
+              autoplay: true, 
+              loop: true, 
+              muted: true, 
+              playsinline: true, 
+              height: height, 
+              sizes: sizes, 
+              widths: widths, 
+              fetchpriority: "high", 
+              loading: "eager", 
+              fetchpriority:fetch_priority,
+              preload: "metadata" 
+            }}
+            
+
           {%- else -%}
             {%- assign placeholder_slide = forloop.index | modulo: 2 -%}
             {%- if placeholder_slide == 1 -%}

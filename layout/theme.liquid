@@ -22,12 +22,11 @@ You can learn more about this (and learn how to cleanly revert these changes) at
 <link rel="canonical" href="{{ canonical_url }}">
 {%- comment -%} End Yoast auto-disable. {%- endcomment -%}
 {%- endif -%}
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"
-    >
+   
+
+      {{ 'slick-theme.css' | asset_url | stylesheet_tag }}
+      {{ 'slick.css' | asset_url | stylesheet_tag }}
+
     {%- if settings.favicon != blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32, height: 32 }}">
     {%- endif -%}
@@ -304,12 +303,12 @@ You can learn more about this (and learn how to cleanly revert these changes) at
 
     {%- unless settings.type_body_font.system? -%}
       {% comment %}theme-check-disable AssetPreload{% endcomment %}
-      <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
+      <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin="anonymous">
       {% comment %}theme-check-enable AssetPreload{% endcomment %}
     {%- endunless -%}
     {%- unless settings.type_header_font.system? -%}
       {% comment %}theme-check-disable AssetPreload{% endcomment %}
-      <link rel="preload" as="font" href="{{ settings.type_header_font | font_url }}" type="font/woff2" crossorigin>
+      <link rel="preload" as="font" href="{{ settings.type_header_font | font_url }}" type="font/woff2" crossorigin="anonymous">
       {% comment %}theme-check-enable AssetPreload{% endcomment %}
     {%- endunless -%}
 
@@ -332,7 +331,10 @@ You can learn more about this (and learn how to cleanly revert these changes) at
         document.documentElement.classList.add('shopify-design-mode');
       }
     </script>
-    {{ 'ajaxinate.js' | asset_url | script_tag }}
+   {% if template == 'collection' or template == 'search' %}
+    <script defer src="{{ 'ajaxinate.js' | asset_url }}"></script>
+{% endif %}
+ 
   </head>
 
   <body class="gradient itg-{{ template.suffix }} itg-{{ template.name }} template-seo-{{ page.handle }} {% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">

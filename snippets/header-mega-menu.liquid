@@ -115,14 +115,16 @@
                                       class="menu-image"
                                       src="{{ block.settings.promo_image | img_url:'master' }}"
                                       height="auto"
-                                      width="auto"
+                                      width="auto",
+                                       loading="lazy"
                                     >
                                     {% if block.settings.hover_image != blank %}
                                       <img
                                         class="hover-image"
                                         src="{{ block.settings.hover_image | img_url:'master' }}"
                                         height="auto"
-                                        width="auto"
+                                        width="auto",
+                                         loading="lazy"
                                       >
                                     {% endif %}
                                   </div>
@@ -172,14 +174,16 @@
                               class="menu-image"
                               src="{{ collectionHandle.metafields.custom.menu_first_image | img_url:'master' }}"
                               height="auto"
-                              width="auto"
+                              width="auto",
+                               loading="lazy"
                             >
                             {% if collectionHandle.metafields.custom.menu_second_image != blank %}
                               <img
                                 class="hover-image"
                                 src="{{ collectionHandle.metafields.custom.menu_second_image | img_url:'master' }}"
                                 height="auto"
-                                width="auto"
+                                width="auto",
+                                 loading="lazy"
                               >
                             {% endif %}
                           </div>
@@ -221,14 +225,16 @@
                                         class="menu-image"
                                         src="{{ block.settings.promo_image | img_url:'master' }}"
                                         height="auto"
-                                        width="auto"
+                                        width="auto",
+                                         loading="lazy"
                                       >
                                       {% if block.settings.hover_image != blank %}
                                         <img
                                           class="hover-image"
                                           src="{{ block.settings.hover_image | img_url:'master' }}"
                                           height="auto"
-                                          width="auto"
+                                          width="auto",
+                                           loading="lazy"
                                         >
                                       {% endif %}
                                     </div>

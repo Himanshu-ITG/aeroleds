@@ -52,18 +52,20 @@ a.website_tab.active::before {
   {% if section.settings.logo_first != blank or section.settings.logo_second != blank %}
     <div class="topbar logo-align-{{ section.settings.logo-align }}">
       {% if section.settings.logo_first != blank %}
-        <a href="{{ section.settings.logo_first_link }}" class="aeroled_logo website_tab active">
-          <img src="{{ section.settings.logo_first | img_url: 'master'}}" alt="" width="" height="" class="logo_first">
+        <a href="{{ section.settings.logo_first_link }}" class="aeroled_logo website_tab active"  aria-label="aeroled_logo">
+          <img src="{{ section.settings.logo_first | img_url: 'master'}}" alt="" width="" height="" class="logo_first" aria-label="aeroled_logo"  loading="eager">
         </a>
       {% endif %}
       {% if section.settings.logo_second != blank %}
-        <a href="{{ section.settings.logo_second_link }}" class="wat_logo website_tab">
+        <a href="{{ section.settings.logo_second_link }}" class="wat_logo website_tab"  aria-label="wat_logo">
           <img
             src="{{ section.settings.logo_second | img_url: 'master'}}"
             alt=""
             width=""
             height=""
             class="logo_second"
+            aria-label="wat_logo"
+             loading="eager"
           >
         </a>
       {% endif %}
